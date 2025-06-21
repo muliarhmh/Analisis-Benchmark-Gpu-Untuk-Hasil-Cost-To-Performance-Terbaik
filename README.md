@@ -34,19 +34,14 @@ Proyek ini bertujuan untuk membantu pengguna dalam memilih GPU terbaik berdasark
     streamlit run app/gpuApp.py
 
 📌 Teknologi yang Digunakan
-Python 3.10+
 
-Pandas, NumPy
-
-Scikit-learn
-
-Matplotlib, Seaborn
-
-Streamlit
-
-st-aggrid
-
-fpdf
+- Python 3.10+
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+- Streamlit
+- st-aggrid
+- fpdf
 
 🎯 Tujuan Proyek
 Membantu pengguna, terutama gamer dan kreator konten, untuk memilih GPU yang paling efisien berdasarkan data historis performa dan harga. Proyek ini juga bermanfaat bagi analis pasar teknologi dan pemilik bisnis PC rakitan.
