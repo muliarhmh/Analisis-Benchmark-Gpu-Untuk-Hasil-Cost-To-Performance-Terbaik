@@ -1,0 +1,105 @@
+AMD
+Product Name	GPU Chip	Released	Bus	Memory	GPU clock	Memory clock	Shaders / TMUs / ROPs
+AeroBox GPU	Kryptos	Mar 13th, 2020	IGP	8 GB, DDR3, 256 bit	935 MHz	1066 MHz	896 / 56 / 16
+Atari VCS 400 GPU	Banded Kestrel	Dec 14th, 2020	IGP	4 GB, DDR4, 128 bit	300 MHz	1200 MHz	192 / 12 / 4
+Atari VCS 800 GPU	Banded Kestrel	Dec 14th, 2020	IGP	8 GB, DDR4, 128 bit	300 MHz	1200 MHz	192 / 12 / 4
+Playstation 5 GPU	Oberon	Nov 12th, 2020	IGP	16 GB, GDDR6, 256 bit	2233 MHz	1750 MHz	2304 / 144 / 64
+Radeon Graphics 320SP Mobile	Renoir-M	Jan 6th, 2020	IGP	System Shared	400 MHz	System Shared	320 / 20 / 8
+Radeon Graphics 384SP Mobile	Renoir-M	Jan 6th, 2020	IGP	System Shared	400 MHz	System Shared	384 / 24 / 8
+Radeon Graphics 448SP	Renoir	Jan 6th, 2020	IGP	System Shared	400 MHz	System Shared	448 / 28 / 8
+Radeon Graphics 448SP Mobile	Renoir-M	Jan 6th, 2020	IGP	System Shared	400 MHz	System Shared	448 / 28 / 8
+Radeon Graphics 512SP	Renoir	Mar 7th, 2020	IGP	System Shared	400 MHz	System Shared	512 / 32 / 8
+Radeon Graphics 512SP Mobile	Renoir-M	Mar 7th, 2020	IGP	System Shared	400 MHz	System Shared	512 / 32 / 8
+Radeon Instinct MI100	Arcturus	Nov 16th, 2020	PCIe 4.0 x16	32 GB, HBM2, 4096 bit	1000 MHz	1200 MHz	7680 / 480 / 64
+Radeon Pro 5300	Navi 14	Aug 4th, 2020	PCIe 4.0 x8	4 GB, GDDR6, 128 bit	1000 MHz	1750 MHz	1280 / 80 / 32
+Radeon Pro 5500 XT	Navi 14	Aug 4th, 2020	PCIe 4.0 x8	8 GB, GDDR6, 128 bit	1187 MHz	1750 MHz	1536 / 96 / 32
+Radeon Pro 5600M	Navi 12	Jun 15th, 2020	PCIe 4.0 x16	8 GB, HBM2, 2048 bit	822 MHz	770 MHz	2560 / 160 / 64
+Radeon Pro 5700	Navi 10	Aug 4th, 2020	PCIe 4.0 x16	8 GB, GDDR6, 256 bit	1243 MHz	1500 MHz	2304 / 144 / 64
+Radeon Pro 5700 XT	Navi 10	Aug 4th, 2020	PCIe 4.0 x16	16 GB, GDDR6, 256 bit	1243 MHz	1500 MHz	2560 / 160 / 64
+Radeon Pro V520	Navi 12	Dec 1st, 2020	PCIe 4.0 x16	8 GB, HBM2, 2048 bit	1000 MHz	1000 MHz	2304 / 144 / 64
+Radeon Pro V540	Navi 12	Never Released	PCIe 4.0 x16	8 GB, HBM2, 2048 bit	1000 MHz	1000 MHz	2304 / 144 / 64
+Radeon Pro VII	Vega 20	May 13th, 2020	PCIe 4.0 x16	16 GB, HBM2, 4096 bit	1400 MHz	1000 MHz	3840 / 240 / 64
+Radeon Pro W5500	Navi 14	Feb 10th, 2020	PCIe 4.0 x8	8 GB, GDDR6, 128 bit	1744 MHz	1750 MHz	1408 / 88 / 32
+Radeon Pro W5500M	Navi 14	Feb 10th, 2020	PCIe 4.0 x8	4 GB, GDDR6, 128 bit	1448 MHz	1750 MHz	1408 / 88 / 32
+Radeon RX 5300 OEM	Navi 14	May 28th, 2020	PCIe 4.0 x8	3 GB, GDDR6, 96 bit	1327 MHz	1750 MHz	1408 / 88 / 32
+Radeon RX 5600 OEM	Navi 10	Jan 21st, 2020	PCIe 4.0 x16	6 GB, GDDR6, 192 bit	1130 MHz	1500 MHz	2048 / 128 / 64
+Radeon RX 5600 XT	Navi 10	Jan 21st, 2020	PCIe 4.0 x16	6 GB, GDDR6, 192 bit	1130 MHz	1500 MHz	2304 / 144 / 64
+Radeon RX 5600M	Navi 10	Jul 7th, 2020	PCIe 4.0 x16	6 GB, GDDR6, 192 bit	1035 MHz	1500 MHz	2304 / 144 / 64
+Radeon RX 5700M	Navi 10	Mar 1st, 2020	PCIe 4.0 x16	8 GB, GDDR6, 256 bit	1465 MHz	1500 MHz	2304 / 144 / 64
+Radeon RX 590 GME	Polaris 20	Mar 9th, 2020	PCIe 3.0 x16	8 GB, GDDR5, 256 bit	1257 MHz	2000 MHz	2304 / 144 / 32
+Radeon RX 640 OEM	Polaris 23	Apr 9th, 2020	PCIe 3.0 x8	4 GB, GDDR5, 128 bit	1295 MHz	1500 MHz	640 / 40 / 16
+Radeon RX 6800	Navi 21	Oct 28th, 2020	PCIe 4.0 x16	16 GB, GDDR6, 256 bit	1700 MHz	2000 MHz	3840 / 240 / 96
+Radeon RX 6800 XT	Navi 21	Oct 28th, 2020	PCIe 4.0 x16	16 GB, GDDR6, 256 bit	1825 MHz	2000 MHz	4608 / 288 / 128
+Radeon RX 6900 XT	Navi 21	Oct 28th, 2020	PCIe 4.0 x16	16 GB, GDDR6, 256 bit	1825 MHz	2000 MHz	5120 / 320 / 128
+Radeon RX 6900 XTX	Navi 21	Never Released	PCIe 4.0 x16	16 GB, GDDR6, 256 bit	2075 MHz	2250 MHz	5120 / 320 / 128
+Radeon Vega 3 Mobile	Picasso-M	Jan 6th, 2020	IGP	System Shared	300 MHz	System Shared	192 / 12 / 4
+Xbox Series S GPU	Lockhart	Nov 10th, 2020	IGP	8 GB, GDDR6, 128 bit	1565 MHz	1750 MHz	1280 / 80 / 32
+Xbox Series X GPU	Scarlett	Nov 10th, 2020	IGP	10 GB, GDDR6, 320 bit	1825 MHz	1750 MHz	3328 / 208 / 64
+Intel
+Product Name	GPU Chip	Released	Bus	Memory	GPU clock	Memory clock	Shaders / TMUs / ROPs
+H3C XG310	DG1	Nov 11th, 2020	PCIe 3.0 x16	8 GB, LPDDR4X, 128 bit	1050 MHz	2133 MHz	768 / 48 / 24
+Iris Plus Graphics G7 64EU Mobile	Ice Lake GT2	May 4th, 2020	Ring Bus	System Shared	300 MHz	System Shared	512 / 32 / 8
+Iris Xe Graphics G4 48EU Mobile	Tiger Lake GT2	Sep 2nd, 2020	Ring Bus	System Shared	300 MHz	System Shared	384 / 24 / 12
+Iris Xe Graphics G7 80EU Mobile	Tiger Lake GT2	Sep 2nd, 2020	Ring Bus	System Shared	300 MHz	System Shared	640 / 40 / 20
+Iris Xe Graphics G7 96EU Mobile	Tiger Lake GT2	Sep 2nd, 2020	Ring Bus	System Shared	300 MHz	System Shared	768 / 48 / 24
+Iris Xe MAX Graphics	DG1	Oct 31st, 2020	PCIe 4.0 x8	4 GB, LPDDR4X, 128 bit	300 MHz	2133 MHz	768 / 48 / 24
+UHD Graphics 16EU Mobile	Elkhart Lake GT1	Sep 23rd, 2020	Ring Bus	System Shared	250 MHz	System Shared	128 / 8 / 4
+UHD Graphics 32EU Mobile	Elkhart Lake GT1	Sep 23rd, 2020	Ring Bus	System Shared	400 MHz	System Shared	256 / 16 / 8
+UHD Graphics 610	Comet Lake GT1	Apr 30th, 2020	Ring Bus	System Shared	350 MHz	System Shared	96 / 12 / 2
+UHD Graphics 630	Comet Lake GT2	Apr 30th, 2020	Ring Bus	System Shared	350 MHz	System Shared	184 / 23 / 3
+UHD Graphics 630	Comet Lake GT2	Apr 30th, 2020	Ring Bus	System Shared	350 MHz	System Shared	192 / 24 / 3
+UHD Graphics G4 48EU Mobile	Lakefield GT1	May 28th, 2020	Ring Bus	System Shared	200 MHz	System Shared	384 / 32 / 8
+UHD Graphics G7 64EU Mobile	Lakefield GT2	May 28th, 2020	Ring Bus	System Shared	200 MHz	System Shared	512 / 32 / 8
+UHD Graphics P630	Comet Lake GT2	May 13th, 2020	Ring Bus	System Shared	350 MHz	System Shared	192 / 24 / 3
+UHD Graphics P630 Mobile	Comet Lake GT2	May 13th, 2020	Ring Bus	System Shared	350 MHz	System Shared	192 / 24 / 3
+Xe DG1	DG1	2020	PCIe 4.0 x8	4 GB, LPDDR4X, 128 bit	900 MHz	2133 MHz	640 / 40 / 20
+Xe DG1-SDV	DG1	Never Released	PCIe 4.0 x8	8 GB, LPDDR4X, 128 bit	900 MHz	2133 MHz	768 / 48 / 24
+NVIDIA
+Product Name	GPU Chip	Released	Bus	Memory	GPU clock	Memory clock	Shaders / TMUs / ROPs
+A100 PCIe 40 GB	GA100	Jun 22nd, 2020	PCIe 4.0 x16	40 GB, HBM2e, 5120 bit	765 MHz	1215 MHz	6912 / 432 / 160
+A100 SXM4 40 GB	GA100	May 14th, 2020	PCIe 4.0 x16	40 GB, HBM2e, 5120 bit	1095 MHz	1215 MHz	6912 / 432 / 160
+A100 SXM4 80 GB	GA100	Nov 16th, 2020	PCIe 4.0 x16	80 GB, HBM2e, 5120 bit	1275 MHz	1593 MHz	6912 / 432 / 160
+A40 PCIe	GA102	Oct 5th, 2020	PCIe 4.0 x16	48 GB, GDDR6, 384 bit	1305 MHz	1812 MHz	10752 / 336 / 112
+CMP 100HX-210	GV100	2020	PCIe 1.0 x1	16 GB, HBM2, 4096 bit	555 MHz	810 MHz	5120 / 320 / 128
+DRIVE A100 PROD	GA100	May 14th, 2020	PCIe 4.0 x16	32 GB, HBM2e, 6144 bit	1065 MHz	1215 MHz	6912 / 432 / 192
+GRID A100A	GA100	May 14th, 2020	PCIe 4.0 x16	32 GB, HBM2e, 6144 bit	900 MHz	1215 MHz	6912 / 432 / 192
+GRID A100B	GA100	May 14th, 2020	PCIe 4.0 x16	48 GB, HBM2e, 6144 bit	900 MHz	1215 MHz	6912 / 432 / 192
+GRID RTX T10-16	TU102	Unknown	PCIe 3.0 x16	16 GB, GDDR6, 384 bit	1065 MHz	1575 MHz	3584 / 224 / 64
+GRID RTX T10-2	TU102	2020	PCIe 3.0 x16	2 GB, GDDR6, 384 bit	1065 MHz	1750 MHz	3584 / 224 / 64
+GRID RTX T10-4	TU102	2020	PCIe 3.0 x16	4 GB, GDDR6, 384 bit	1065 MHz	1750 MHz	3584 / 224 / 64
+GRID RTX T10-8	TU102	Unknown	PCIe 3.0 x16	8 GB, GDDR6, 384 bit	1065 MHz	1750 MHz	3584 / 224 / 64
+GeForce GTX 1650 GDDR6	TU117	Apr 1st, 2020	PCIe 3.0 x16	4 GB, GDDR6, 128 bit	1410 MHz	1500 MHz	896 / 56 / 32
+GeForce GTX 1650 Max-Q	TU117	Apr 15th, 2020	PCIe 3.0 x16	4 GB, GDDR6, 128 bit	930 MHz	1250 MHz	1024 / 64 / 32
+GeForce GTX 1650 Mobile	TU117	Apr 15th, 2020	PCIe 3.0 x16	4 GB, GDDR6, 128 bit	1380 MHz	1500 MHz	1024 / 64 / 32
+GeForce GTX 1650 TU106	TU106	Jun 18th, 2020	PCIe 3.0 x16	4 GB, GDDR6, 128 bit	1410 MHz	1500 MHz	896 / 56 / 32
+GeForce GTX 1650 TU116	TU116	Jul 7th, 2020	PCIe 3.0 x16	4 GB, GDDR6, 128 bit	1410 MHz	1500 MHz	896 / 56 / 32
+GeForce GTX 1650 Ti Max-Q	TU117	Apr 2nd, 2020	PCIe 3.0 x16	4 GB, GDDR6, 128 bit	1035 MHz	1250 MHz	1024 / 64 / 32
+GeForce GTX 1650 Ti Mobile	TU116	Apr 23rd, 2020	PCIe 3.0 x16	4 GB, GDDR6, 128 bit	1350 MHz	1500 MHz	1024 / 64 / 32
+GeForce GTX 1650 Ti Mobile	TU117	Apr 2nd, 2020	PCIe 3.0 x16	4 GB, GDDR6, 128 bit	1350 MHz	1500 MHz	1024 / 64 / 32
+GeForce MX330	GP108B	Feb 10th, 2020	PCIe 3.0 x4	2 GB, GDDR5, 64 bit	1531 MHz	1752 MHz	384 / 24 / 16
+GeForce MX350	GP107S	Feb 10th, 2020	PCIe 3.0 x4	2 GB, GDDR5, 64 bit	1354 MHz	1752 MHz	640 / 32 / 16
+GeForce MX350	GP107S	Feb 10th, 2020	PCIe 3.0 x4	2 GB, GDDR5, 64 bit	747 MHz	1752 MHz	640 / 32 / 16
+GeForce MX450 12W	TU117S	Aug 15th, 2020	PCIe 4.0 x4	2 GB, GDDR6, 64 bit	720 MHz	1250 MHz	896 / 56 / 32
+GeForce MX450 30.5W 10Gbps	TU117S	Aug 25th, 2020	PCIe 4.0 x4	2 GB, GDDR6, 64 bit	1395 MHz	1250 MHz	896 / 56 / 32
+GeForce MX450 30.5W 8Gbps	TU117S	Aug 25th, 2020	PCIe 4.0 x4	2 GB, GDDR5, 64 bit	1035 MHz	2000 MHz	896 / 56 / 32
+GeForce RTX 2060 Max-Q	TU106	Jan 29th, 2020	PCIe 3.0 x16	6 GB, GDDR6, 192 bit	975 MHz	1375 MHz	1920 / 120 / 48
+GeForce RTX 2060 TU104	TU104	Jan 10th, 2020	PCIe 3.0 x16	6 GB, GDDR6, 192 bit	1365 MHz	1750 MHz	1920 / 120 / 48
+GeForce RTX 2070 Max-Q Refresh	TU106B	Mar 4th, 2020	PCIe 3.0 x16	8 GB, GDDR6, 256 bit	900 MHz	1375 MHz	2304 / 144 / 64
+GeForce RTX 2070 Mobile Refresh	TU106B	Mar 4th, 2020	PCIe 3.0 x16	8 GB, GDDR6, 256 bit	1260 MHz	1375 MHz	2304 / 144 / 64
+GeForce RTX 2070 SUPER Max-Q	TU104	Apr 2nd, 2020	PCIe 3.0 x16	8 GB, GDDR6, 256 bit	930 MHz	1375 MHz	2560 / 160 / 64
+GeForce RTX 2070 SUPER Mobile	TU104	Apr 2nd, 2020	PCIe 3.0 x16	8 GB, GDDR6, 256 bit	1140 MHz	1750 MHz	2560 / 160 / 64
+GeForce RTX 2080 SUPER Max-Q	TU104	Apr 2nd, 2020	PCIe 3.0 x16	8 GB, GDDR6, 256 bit	735 MHz	1375 MHz	3072 / 192 / 64
+GeForce RTX 2080 SUPER Mobile	TU104	Apr 2nd, 2020	PCIe 3.0 x16	8 GB, GDDR6, 256 bit	1365 MHz	1750 MHz	3072 / 192 / 64
+GeForce RTX 3060 Ti	GA104	Dec 1st, 2020	PCIe 4.0 x16	8 GB, GDDR6, 256 bit	1410 MHz	1750 MHz	4864 / 152 / 80
+GeForce RTX 3070	GA104	Sep 1st, 2020	PCIe 4.0 x16	8 GB, GDDR6, 256 bit	1500 MHz	1750 MHz	5888 / 184 / 96
+GeForce RTX 3080	GA102	Sep 1st, 2020	PCIe 4.0 x16	10 GB, GDDR6X, 320 bit	1440 MHz	1188 MHz	8704 / 272 / 96
+GeForce RTX 3090	GA102	Sep 1st, 2020	PCIe 4.0 x16	24 GB, GDDR6X, 384 bit	1395 MHz	1219 MHz	10496 / 328 / 112
+Jetson Xavier NX 16 GB	GV10B	May 14th, 2020	PCIe 4.0 x4	16 GB, LPDDR4X, 128 bit	854 MHz	1866 MHz	384 / 24 / 16
+Jetson Xavier NX 8 GB	GV10B	May 14th, 2020	PCIe 4.0 x4	8 GB, LPDDR4X, 128 bit	854 MHz	1866 MHz	384 / 24 / 16
+Quadro RTX 5000 Mobile Refresh	TU104B	Jun 8th, 2020	PCIe 3.0 x16	16 GB, GDDR6, 256 bit	1035 MHz	1750 MHz	3072 / 192 / 64
+Quadro RTX 5000 X2 Mobile	TU104	Jun 8th, 2020	PCIe 3.0 x16	16 GB, GDDR6, 256 bit	1035 MHz	1750 MHz	3072 / 192 / 64
+Quadro T1000 Mobile GDDR6	TU117	Jun 8th, 2020	PCIe 3.0 x16	4 GB, GDDR6, 128 bit	1395 MHz	1500 MHz	896 / 56 / 32
+RTX A6000	GA102	Oct 5th, 2020	PCIe 4.0 x16	48 GB, GDDR6, 384 bit	1410 MHz	2000 MHz	10752 / 336 / 112
+T500 Max-Q	TU117	Dec 2nd, 2020	PCIe 3.0 x16	4 GB, GDDR6, 64 bit	795 MHz	1250 MHz	896 / 56 / 32
+T500 Mobile	TU117	Dec 2nd, 2020	PCIe 3.0 x16	4 GB, GDDR6, 64 bit	1185 MHz	1250 MHz	896 / 56 / 32
+Tesla T10 16 GB	TU102	2020	PCIe 3.0 x16	16 GB, GDDR6, 256 bit	1065 MHz	1575 MHz	3584 / 224 / 64

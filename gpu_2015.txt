@@ -1,0 +1,107 @@
+AMD
+Product Name	GPU Chip	Released	Bus	Memory	GPU clock	Memory clock	Shaders / TMUs / ROPs
+FirePro S9170	Hawaii	Jul 8th, 2015	PCIe 3.0 x16	32 GB, GDDR5, 512 bit	930 MHz	1250 MHz	2816 / 176 / 64
+FirePro W4190M	Opal	Nov 12th, 2015	PCIe 3.0 x8	2 GB, GDDR5, 128 bit	825 MHz	1000 MHz	384 / 24 / 8
+FirePro W4300	Bonaire	Dec 1st, 2015	PCIe 3.0 x16	4 GB, GDDR5, 128 bit	930 MHz	1500 MHz	768 / 48 / 16
+FirePro W5130M	Tropo	Oct 2nd, 2015	PCIe 3.0 x16	2 GB, GDDR5, 128 bit	900 MHz	1000 MHz	512 / 32 / 16
+FirePro W6150M	Emerald	Nov 12th, 2015	MXM-B (3.0)	4 GB, GDDR5, 128 bit	1075 MHz	1375 MHz	768 / 48 / 16
+FirePro W7170M	Amethyst	Oct 2nd, 2015	PCIe 3.0 x16	4 GB, GDDR5, 256 bit	723 MHz	1250 MHz	2048 / 128 / 32
+Radeon E6465	Caicos	Sep 29th, 2015	PCIe 2.0 x16	2 GB, GDDR5, 64 bit	600 MHz	800 MHz	160 / 8 / 4
+Radeon E8870 MXM	Saturn	Sep 29th, 2015	MXM-B (3.0)	4 GB, GDDR5, 128 bit	1000 MHz	1500 MHz	768 / 48 / 16
+Radeon E8870 PCIe	Saturn	Sep 29th, 2015	PCIe 3.0 x16	4 GB, GDDR5, 128 bit	1000 MHz	1500 MHz	768 / 48 / 16
+Radeon E8950	Amethyst	Sep 29th, 2015	MXM-B (3.0)	8 GB, GDDR5, 256 bit	735 MHz	1500 MHz	2048 / 128 / 32
+Radeon R5 310 OEM	Caicos	May 5th, 2015	PCIe 2.0 x16	2 GB, DDR3, 64 bit	775 MHz	805 MHz	160 / 8 / 4
+Radeon R5 330 OEM	Exo	May 5th, 2015	PCIe 3.0 x8	2 GB, DDR3, 64 bit	830 MHz	900 MHz	320 / 20 / 8
+Radeon R5 340 OEM	Oland	May 5th, 2015	PCIe 3.0 x8	1024 MB, GDDR5, 64 bit	730 MHz	1150 MHz	384 / 24 / 8
+Radeon R5 A330	Exo	Oct 21st, 2015	PCIe 3.0 x8	2 GB, DDR3, 64 bit	1030 MHz	900 MHz	320 / 20 / 8
+Radeon R5 A335	Exo	Oct 21st, 2015	PCIe 3.0 x8	2 GB, DDR3, 64 bit	1070 MHz	900 MHz	320 / 20 / 8
+Radeon R5 M320	Jet	May 5th, 2015	PCIe 3.0 x8	4 GB, DDR3, 64 bit	780 MHz	1000 MHz	320 / 20 / 8
+Radeon R5 M330	Exo	May 5th, 2015	PCIe 3.0 x8	2 GB, DDR3, 64 bit	955 MHz	900 MHz	320 / 20 / 8
+Radeon R5 M335	Exo	Oct 21st, 2015	PCIe 3.0 x8	2 GB, DDR3, 64 bit	1030 MHz	900 MHz	320 / 20 / 8
+Radeon R5 Mobile Graphics	Wani	Nov 7th, 2015	IGP	System Shared	200 MHz	System Shared	384 / 24 / 8
+Radeon R6 M335DX	Jet	Dec 12th, 2015	IGP	System Shared	955 MHz	System Shared	384 / 24 / 8
+Radeon R6 M340DX	Jet	Dec 12th, 2015	IGP	System Shared	955 MHz	System Shared	384 / 24 / 8
+Radeon R6 Mobile Graphics	Wani	Nov 7th, 2015	IGP	System Shared	200 MHz	System Shared	384 / 24 / 8
+Radeon R7 340 OEM	Oland	May 5th, 2015	PCIe 3.0 x8	2 GB, DDR3, 128 bit	730 MHz	900 MHz	384 / 24 / 8
+Radeon R7 350 OEM	Oland	May 5th, 2015	PCIe 3.0 x8	2 GB, GDDR5, 128 bit	1000 MHz	1150 MHz	384 / 24 / 8
+Radeon R7 360	Tobago	Jun 18th, 2015	PCIe 3.0 x16	2 GB, GDDR5, 128 bit	1000 MHz	1500 MHz	768 / 48 / 16
+Radeon R7 360 896SP	Tobago	Jun 18th, 2015	PCIe 3.0 x16	2 GB, GDDR5, 128 bit	1100 MHz	1500 MHz	896 / 56 / 16
+Radeon R7 360E	Tobago	Dec 30th, 2015	PCIe 3.0 x16	2 GB, GDDR5, 128 bit	1050 MHz	1500 MHz	768 / 48 / 16
+Radeon R7 370	Trinidad	Jun 18th, 2015	PCIe 3.0 x16	2 GB, GDDR5, 256 bit	925 MHz	1400 MHz	1024 / 64 / 32
+Radeon R7 M260X	Opal	Dec 6th, 2015	PCIe 3.0 x8	1024 MB, GDDR5, 128 bit	620 MHz	1000 MHz	384 / 24 / 8
+Radeon R7 M340	Meso	May 5th, 2015	PCIe 3.0 x8	2 GB, DDR3, 64 bit	943 MHz	1000 MHz	320 / 20 / 8
+Radeon R7 M340	Opal	Dec 6th, 2015	PCIe 3.0 x8	1024 MB, DDR3, 64 bit	620 MHz	1000 MHz	384 / 24 / 8
+Radeon R7 M350	Meso	May 5th, 2015	PCIe 3.0 x8	4 GB, DDR3, 64 bit	1000 MHz	1000 MHz	384 / 24 / 8
+Radeon R7 M360	Meso	May 5th, 2015	PCIe 3.0 x8	2 GB, DDR3, 64 bit	1100 MHz	900 MHz	384 / 24 / 8
+Radeon R7 M370	Litho	May 5th, 2015	PCIe 3.0 x8	2 GB, GDDR5, 128 bit	875 MHz	900 MHz	384 / 24 / 8
+Radeon R7 Mobile Graphics	Wani	Nov 15th, 2015	IGP	System Shared	200 MHz	System Shared	512 / 32 / 8
+Radeon R8 M350DX	Jet	Dec 12th, 2015	IGP	System Shared	955 MHz	System Shared	384 / 24 / 8
+Radeon R8 M365DX	Meso	Jun 3rd, 2015	IGP	System Shared	900 MHz	System Shared	384 / 24 / 8
+Radeon R9 360 OEM	Tobago	May 5th, 2015	PCIe 3.0 x16	2 GB, GDDR5, 128 bit	1000 MHz	1625 MHz	768 / 48 / 16
+Radeon R9 370	Trinidad	May 5th, 2015	PCIe 3.0 x16	2 GB, GDDR5, 256 bit	925 MHz	1400 MHz	1280 / 80 / 32
+Radeon R9 370 1024SP	Trinidad	Jun 12th, 2015	PCIe 3.0 x16	2 GB, GDDR5, 256 bit	925 MHz	1400 MHz	1024 / 64 / 32
+Radeon R9 370X	Trinidad	Aug 27th, 2015	PCIe 3.0 x16	2 GB, GDDR5, 256 bit	980 MHz	1400 MHz	1280 / 80 / 32
+Radeon R9 380	Antigua	Jun 18th, 2015	PCIe 3.0 x16	2 GB, GDDR5, 256 bit	970 MHz	1375 MHz	1792 / 112 / 32
+Radeon R9 380 OEM	Antigua	May 5th, 2015	PCIe 3.0 x16	4 GB, GDDR5, 256 bit	918 MHz	1375 MHz	1792 / 112 / 32
+Radeon R9 380X	Antigua	Nov 19th, 2015	PCIe 3.0 x16	4 GB, GDDR5, 256 bit	970 MHz	1425 MHz	2048 / 128 / 32
+Radeon R9 390	Grenada	Jun 18th, 2015	PCIe 3.0 x16	8 GB, GDDR5, 512 bit	1000 MHz	1500 MHz	2560 / 160 / 64
+Radeon R9 390 X2	Grenada	Sep 3rd, 2015	PCIe 3.0 x16	8 GB, GDDR5, 512 bit	1000 MHz	1350 MHz	2560 / 160 / 64
+Radeon R9 390X	Grenada	Jun 18th, 2015	PCIe 3.0 x16	8 GB, GDDR5, 512 bit	1050 MHz	1500 MHz	2816 / 176 / 64
+Radeon R9 FURY	Fiji	Jul 10th, 2015	PCIe 3.0 x16	4 GB, HBM, 4096 bit	1000 MHz	500 MHz	3584 / 224 / 64
+Radeon R9 FURY X	Fiji	Jun 24th, 2015	PCIe 3.0 x16	4 GB, HBM, 4096 bit	1050 MHz	500 MHz	4096 / 256 / 64
+Radeon R9 M360	Tropo	May 5th, 2015	PCIe 3.0 x16	4 GB, GDDR5, 128 bit	900 MHz	1125 MHz	512 / 32 / 16
+Radeon R9 M365X	Tropo	May 5th, 2015	PCIe 3.0 x16	4 GB, GDDR5, 128 bit	900 MHz	1125 MHz	640 / 40 / 16
+Radeon R9 M370X Mac Edition	Tropo	May 5th, 2015	PCIe 3.0 x16	2 GB, GDDR5, 128 bit	775 MHz	1125 MHz	640 / 40 / 16
+Radeon R9 M375	Tropo	May 5th, 2015	PCIe 3.0 x16	2 GB, DDR3, 128 bit	1000 MHz	900 MHz	640 / 40 / 16
+Radeon R9 M375X	Tropo	May 5th, 2015	PCIe 3.0 x16	2 GB, GDDR5, 128 bit	925 MHz	1125 MHz	640 / 40 / 16
+Radeon R9 M380	Strato	May 5th, 2015	PCIe 3.0 x16	4 GB, GDDR5, 128 bit	900 MHz	1500 MHz	768 / 48 / 16
+Radeon R9 M385	Strato	May 5th, 2015	PCIe 3.0 x16	4 GB, GDDR5, 128 bit	900 MHz	1200 MHz	896 / 56 / 16
+Radeon R9 M385X	Strato	May 5th, 2015	PCIe 3.0 x16	4 GB, GDDR5, 128 bit	1000 MHz	1200 MHz	896 / 56 / 16
+Radeon R9 M390X	Amethyst	May 5th, 2015	PCIe 3.0 x16	4 GB, GDDR5, 256 bit	723 MHz	1250 MHz	2048 / 128 / 32
+Radeon R9 Nano	Fiji	Aug 27th, 2015	PCIe 3.0 x16	4 GB, HBM, 4096 bit	1000 MHz	500 MHz	4096 / 256 / 64
+Intel
+Product Name	GPU Chip	Released	Bus	Memory	GPU clock	Memory clock	Shaders / TMUs / ROPs
+HD Graphics 500 Mobile	Apollo Lake GT1	Sep 1st, 2015	Ring Bus	System Shared	200 MHz	System Shared	96 / 12 / 2
+HD Graphics 510	Skylake GT1	Sep 1st, 2015	Ring Bus	System Shared	350 MHz	System Shared	96 / 12 / 2
+HD Graphics 510 Mobile	Skylake GT1	Sep 1st, 2015	Ring Bus	System Shared	300 MHz	System Shared	96 / 12 / 3
+HD Graphics 515 Mobile	Skylake GT2	Sep 1st, 2015	Ring Bus	System Shared	300 MHz	System Shared	192 / 24 / 3
+HD Graphics 520 Mobile	Skylake GT2	Sep 1st, 2015	Ring Bus	System Shared	300 MHz	System Shared	192 / 24 / 3
+HD Graphics 530	Skylake GT2	Sep 1st, 2015	Ring Bus	System Shared	350 MHz	System Shared	192 / 24 / 3
+HD Graphics 530 Mobile	Skylake GT2	Sep 1st, 2015	Ring Bus	System Shared	350 MHz	System Shared	192 / 24 / 3
+HD Graphics P530	Skylake GT2	Sep 1st, 2015	Ring Bus	System Shared	350 MHz	System Shared	192 / 16 / 3
+Iris Graphics 540 Mobile	Skylake GT3e	Sep 1st, 2015	Ring Bus	System Shared	300 MHz	System Shared	384 / 48 / 6
+Iris Graphics 550 Mobile	Skylake GT3e	Sep 1st, 2015	Ring Bus	System Shared	300 MHz	System Shared	384 / 48 / 6
+Iris Pro Graphics 580 Mobile	Skylake GT4e	Sep 1st, 2015	Ring Bus	System Shared	350 MHz	System Shared	576 / 72 / 9
+Iris Pro Graphics P555	Skylake GT3e	Sep 1st, 2015	Ring Bus	System Shared	350 MHz	System Shared	384 / 48 / 6
+Iris Pro Graphics P580	Skylake GT4e	Sep 1st, 2015	Ring Bus	System Shared	350 MHz	System Shared	576 / 72 / 9
+Iris Pro Graphics P580 Mobile	Skylake GT4e	Sep 1st, 2015	Ring Bus	System Shared	350 MHz	System Shared	576 / 72 / 9
+NVIDIA
+Product Name	GPU Chip	Released	Bus	Memory	GPU clock	Memory clock	Shaders / TMUs / ROPs
+GRID M6-8Q	GM204	Aug 30th, 2015	PCIe 3.0 x16	8 GB, GDDR5, 256 bit	722 MHz	1253 MHz	1536 / 96 / 64
+GRID M60-1Q	GM204	Aug 30th, 2015	PCIe 3.0 x16	1024 MB, GDDR5, 256 bit	557 MHz	1253 MHz	2048 / 128 / 64
+GRID M60-2Q	GM204	Aug 30th, 2015	PCIe 3.0 x16	2 GB, GDDR5, 256 bit	557 MHz	1253 MHz	2048 / 128 / 64
+GRID M60-4A	GM204	Aug 30th, 2015	PCIe 3.0 x16	4 GB, GDDR5, 256 bit	557 MHz	1253 MHz	2048 / 128 / 64
+GRID M60-8Q	GM204	Aug 30th, 2015	PCIe 3.0 x16	8 GB, GDDR5, 256 bit	557 MHz	1253 MHz	2048 / 128 / 64
+GeForce 845M	GM108	Aug 26th, 2015	PCIe 3.0 x8	2 GB, GDDR5, 64 bit	1071 MHz	1253 MHz	384 / 32 / 16
+GeForce 945M	GM107	Oct 27th, 2015	MXM-B (3.0)	2 GB, DDR3, 128 bit	928 MHz	900 MHz	640 / 40 / 16
+GeForce GTX 750 GM206	GM206	Nov 17th, 2015	PCIe 3.0 x16	2 GB, GDDR5, 128 bit	1087 MHz	1253 MHz	512 / 32 / 32
+GeForce GTX 950	GM206	Aug 20th, 2015	PCIe 3.0 x16	2 GB, GDDR5, 128 bit	1024 MHz	1653 MHz	768 / 48 / 32
+GeForce GTX 960 OEM	GM206	Nov 26th, 2015	PCIe 3.0 x16	4 GB, GDDR5, 128 bit	1176 MHz	1753 MHz	1024 / 64 / 32
+GeForce GTX 960 OEM	GM204	Nov 26th, 2015	PCIe 3.0 x16	3 GB, GDDR5, 192 bit	924 MHz	1253 MHz	1280 / 80 / 48
+GeForce GTX 980 Mobile	GM204	Sep 21st, 2015	MXM-B (3.0)	8 GB, GDDR5, 256 bit	1064 MHz	1753 MHz	2048 / 128 / 64
+GeForce GTX 980 Ti	GM200	Jun 2nd, 2015	PCIe 3.0 x16	6 GB, GDDR5, 384 bit	1000 MHz	1753 MHz	2816 / 176 / 96
+NVS 810	GM107	Nov 4th, 2015	PCIe 3.0 x16	2 GB, DDR3, 64 bit	902 MHz	900 MHz	512 / 32 / 16
+Quadro M1000M	GM107	Aug 18th, 2015	MXM-A (3.0)	2 GB, GDDR5, 128 bit	993 MHz	1253 MHz	512 / 32 / 16
+Quadro M2000M	GM107	Dec 3rd, 2015	MXM-A (3.0)	4 GB, GDDR5, 128 bit	1098 MHz	1253 MHz	640 / 40 / 16
+Quadro M3000M	GM204	Aug 18th, 2015	PCIe 3.0 x16	4 GB, GDDR5, 256 bit	823 MHz	1253 MHz	1024 / 64 / 32
+Quadro M4000	GM204	Jun 29th, 2015	PCIe 3.0 x16	8 GB, GDDR5, 256 bit	773 MHz	1502 MHz	1664 / 104 / 64
+Quadro M4000M	GM204	Aug 18th, 2015	PCIe 3.0 x16	4 GB, GDDR5, 256 bit	975 MHz	1253 MHz	1280 / 80 / 64
+Quadro M5000	GM204	Jun 29th, 2015	PCIe 3.0 x16	8 GB, GDDR5, 256 bit	861 MHz	1653 MHz	2048 / 128 / 64
+Quadro M5000M	GM204	Aug 18th, 2015	MXM-B (3.0)	8 GB, GDDR5, 256 bit	962 MHz	1253 MHz	1536 / 96 / 64
+Quadro M600M	GM107	Aug 18th, 2015	MXM-A (3.0)	2 GB, GDDR5, 128 bit	837 MHz	1253 MHz	384 / 16 / 8
+Tesla M4	GM206	Nov 10th, 2015	PCIe 3.0 x16	4 GB, GDDR5, 128 bit	872 MHz	1375 MHz	1024 / 64 / 32
+Tesla M40	GM200	Nov 10th, 2015	PCIe 3.0 x16	12 GB, GDDR5, 384 bit	948 MHz	1502 MHz	3072 / 192 / 96
+Tesla M40 24 GB	GM200	Nov 10th, 2015	PCIe 3.0 x16	24 GB, GDDR5, 384 bit	948 MHz	1502 MHz	3072 / 192 / 96
+Tesla M6 Mobile	GM204	Aug 30th, 2015	PCIe 3.0 x16	8 GB, GDDR5, 256 bit	930 MHz	1253 MHz	1536 / 96 / 64
+Tesla M6 X2 Mobile	GM204	Aug 30th, 2015	PCIe 3.0 x16	8 GB, GDDR5, 256 bit	930 MHz	1253 MHz	1536 / 96 / 64
+Tesla M60	GM204	Aug 30th, 2015	PCIe 3.0 x16	8 GB, GDDR5, 256 bit	557 MHz	1253 MHz	2048 / 128 / 64

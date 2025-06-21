@@ -1,0 +1,107 @@
+AMD
+Product Name	GPU Chip	Released	Bus	Memory	GPU clock	Memory clock	Shaders / TMUs / ROPs
+P30PH	Polaris 20	Unknown	PCIe 3.0 x16	4 GB, GDDR5, 256 bit	1120 MHz	2100 MHz	2048 / 128 / 32
+Radeon 520 Mobile DDR3	Banks	Apr 18th, 2017	PCIe 3.0 x8	2 GB, DDR3, 64 bit	1030 MHz	1000 MHz	320 / 20 / 8
+Radeon 520 Mobile GDDR5	Banks	Apr 18th, 2017	PCIe 3.0 x8	2 GB, GDDR5, 64 bit	1030 MHz	1125 MHz	320 / 20 / 8
+Radeon 520 OEM	Banks	Apr 18th, 2017	PCIe 3.0 x8	2 GB, GDDR5, 64 bit	1030 MHz	1125 MHz	320 / 20 / 8
+Radeon 530 Mobile DDR3	Weston	Apr 18th, 2017	PCIe 3.0 x8	2 GB, DDR3, 64 bit	730 MHz	900 MHz	384 / 24 / 8
+Radeon 530 Mobile GDDR5	Weston	Apr 18th, 2017	PCIe 3.0 x8	2 GB, GDDR5, 64 bit	730 MHz	900 MHz	384 / 24 / 8
+Radeon 530X Mobile	Polaris 24	Apr 18th, 2017	PCIe 3.0 x8	2 GB, GDDR5, 64 bit	730 MHz	1125 MHz	384 / 24 / 8
+Radeon 535 Mobile	Polaris 24	Apr 18th, 2017	PCIe 3.0 x8	2 GB, GDDR5, 64 bit	730 MHz	1125 MHz	384 / 24 / 8
+Radeon 540	Lexa	Apr 20th, 2017	PCIe 3.0 x8	1024 MB, GDDR5, 32 bit	1183 MHz	1500 MHz	384 / 24 / 16
+Radeon 550	Lexa	Apr 20th, 2017	PCIe 3.0 x8	2 GB, GDDR5, 64 bit	1100 MHz	1750 MHz	512 / 32 / 16
+Radeon E9171 MCM	Lexa	Oct 3rd, 2017	PCIe 3.0 x8	4 GB, GDDR5, 128 bit	1124 MHz	1500 MHz	512 / 32 / 16
+Radeon E9172 MXM	Lexa	Oct 3rd, 2017	MXM-A (3.0)	2 GB, GDDR5, 64 bit	1124 MHz	1500 MHz	512 / 32 / 16
+Radeon E9173 PCIe	Lexa	Oct 3rd, 2017	PCIe 3.0 x8	2 GB, GDDR5, 64 bit	1124 MHz	1500 MHz	512 / 32 / 16
+Radeon E9174 MXM	Lexa	Oct 3rd, 2017	MXM-A (3.0)	4 GB, GDDR5, 128 bit	1124 MHz	1500 MHz	512 / 32 / 16
+Radeon E9175 PCIe	Lexa	Oct 3rd, 2017	PCIe 3.0 x8	4 GB, GDDR5, 128 bit	1124 MHz	1500 MHz	512 / 32 / 16
+Radeon Instinct MI25	Vega 10	Jun 27th, 2017	PCIe 3.0 x16	16 GB, HBM2, 2048 bit	1400 MHz	852 MHz	4096 / 256 / 64
+Radeon Pro 555	Polaris 21	Jun 5th, 2017	PCIe 3.0 x8	2 GB, GDDR5, 128 bit	850 MHz	1275 MHz	768 / 48 / 16
+Radeon Pro 560	Polaris 21	Apr 18th, 2017	PCIe 3.0 x8	4 GB, GDDR5, 128 bit	907 MHz	1270 MHz	1024 / 64 / 16
+Radeon Pro 570	Ellesmere	Jun 5th, 2017	PCIe 3.0 x16	4 GB, GDDR5, 256 bit	1000 MHz	1695 MHz	1792 / 112 / 32
+Radeon Pro 575	Ellesmere	Jun 5th, 2017	PCIe 3.0 x16	4 GB, GDDR5, 256 bit	1096 MHz	1695 MHz	2048 / 128 / 32
+Radeon Pro 580	Ellesmere	Jun 5th, 2017	PCIe 3.0 x16	8 GB, GDDR5, 256 bit	1100 MHz	1695 MHz	2304 / 144 / 32
+Radeon Pro Duo Polaris	Ellesmere	Apr 24th, 2017	PCIe 3.0 x16	16 GB, GDDR5, 256 bit	1243 MHz	1750 MHz	2304 / 144 / 32
+Radeon Pro SSG	Vega 10	Aug 8th, 2017	PCIe 3.0 x16	16 GB, HBM2, 2048 bit	1440 MHz	945 MHz	4096 / 256 / 64
+Radeon Pro V320	Vega 10	Jun 29th, 2017	PCIe 3.0 x16	8 GB, HBM2, 2048 bit	852 MHz	945 MHz	3584 / 224 / 64
+Radeon Pro Vega 56	Vega 10	Aug 14th, 2017	PCIe 3.0 x16	8 GB, HBM2, 2048 bit	1138 MHz	786 MHz	3584 / 224 / 64
+Radeon Pro Vega 64	Vega 10	Jun 27th, 2017	PCIe 3.0 x16	16 GB, HBM2, 2048 bit	1250 MHz	786 MHz	4096 / 256 / 64
+Radeon Pro WX 2100	Lexa	Jun 4th, 2017	PCIe 3.0 x8	2 GB, GDDR5, 64 bit	925 MHz	1500 MHz	512 / 32 / 16
+Radeon Pro WX 3100	Lexa	Jun 12th, 2017	PCIe 3.0 x8	4 GB, GDDR5, 128 bit	925 MHz	1500 MHz	512 / 32 / 16
+Radeon Pro WX 4130 Mobile	Baffin	Mar 1st, 2017	PCIe 3.0 x8	2 GB, GDDR5, 128 bit	1002 MHz	1500 MHz	640 / 40 / 16
+Radeon Pro WX 4150 Mobile	Baffin	Mar 1st, 2017	PCIe 3.0 x8	4 GB, GDDR5, 128 bit	1002 MHz	1500 MHz	896 / 56 / 16
+Radeon Pro WX 4170 Mobile	Baffin	Mar 1st, 2017	PCIe 3.0 x8	4 GB, GDDR5, 128 bit	1002 MHz	1500 MHz	1024 / 64 / 16
+Radeon Pro WX 7100 Mobile	Ellesmere	Mar 1st, 2017	PCIe 3.0 x16	8 GB, GDDR5, 256 bit	1188 MHz	1250 MHz	2304 / 144 / 32
+Radeon Pro WX 7130 Mobile	Ellesmere	Mar 1st, 2017	PCIe 3.0 x16	8 GB, GDDR5, 256 bit	1188 MHz	1250 MHz	2304 / 144 / 32
+Radeon Pro WX 8100	Vega 10	Dec 3rd, 2017	PCIe 3.0 x16	8 GB, HBM2, 2048 bit	1200 MHz	1000 MHz	3584 / 224 / 64
+Radeon Pro WX 9100	Vega 10	Jul 10th, 2017	PCIe 3.0 x16	16 GB, HBM2, 2048 bit	1200 MHz	945 MHz	4096 / 256 / 64
+Radeon R5 Graphics	Wani	Sep 5th, 2017	IGP	System Shared	200 MHz	System Shared	384 / 24 / 8
+Radeon R8 M535DX	Meso	Apr 18th, 2017	IGP	System Shared	780 MHz	System Shared	320 / 20 / 8
+Radeon RX 460 1024SP	Baffin	Jan 17th, 2017	PCIe 3.0 x8	2 GB, GDDR5, 128 bit	1090 MHz	1750 MHz	1024 / 64 / 16
+Radeon RX 540 Mobile	Lexa	Nov 11th, 2017	PCIe 3.0 x8	2 GB, GDDR5, 128 bit	1046 MHz	1250 MHz	512 / 32 / 16
+Radeon RX 550	Lexa	Apr 20th, 2017	PCIe 3.0 x8	2 GB, GDDR5, 128 bit	1100 MHz	1750 MHz	512 / 32 / 16
+Radeon RX 550 512SP	Baffin	Oct 13th, 2017	PCIe 3.0 x8	2 GB, GDDR5, 128 bit	1019 MHz	1500 MHz	512 / 32 / 16
+Radeon RX 550 640SP	Baffin	Oct 13th, 2017	PCIe 3.0 x8	2 GB, GDDR5, 128 bit	1019 MHz	1500 MHz	640 / 40 / 16
+Radeon RX 550 Mobile	Lexa	Jul 2nd, 2017	PCIe 3.0 x8	2 GB, GDDR5, 128 bit	1100 MHz	1500 MHz	640 / 40 / 16
+Radeon RX 560	Polaris 21	Apr 18th, 2017	PCIe 3.0 x8	4 GB, GDDR5, 128 bit	1175 MHz	1750 MHz	1024 / 64 / 16
+Radeon RX 560 896SP	Polaris 21	Jul 4th, 2017	PCIe 3.0 x8	4 GB, GDDR5, 128 bit	1090 MHz	1750 MHz	896 / 56 / 16
+Radeon RX 560D	Polaris 21	Jul 4th, 2017	PCIe 3.0 x8	4 GB, GDDR5, 128 bit	1090 MHz	1500 MHz	896 / 56 / 16
+Radeon RX 570	Polaris 20	Apr 18th, 2017	PCIe 3.0 x16	4 GB, GDDR5, 256 bit	1168 MHz	1750 MHz	2048 / 128 / 32
+Radeon RX 570 Mobile	Ellesmere	Dec 10th, 2017	MXM-B (3.0)	8 GB, GDDR5, 256 bit	926 MHz	1650 MHz	2048 / 128 / 32
+Radeon RX 570 X2	Polaris 20	Unknown	PCIe 3.0 x16	8 GB, GDDR5, 256 bit	1120 MHz	2100 MHz	2048 / 128 / 32
+Radeon RX 580	Polaris 20	Apr 18th, 2017	PCIe 3.0 x16	8 GB, GDDR5, 256 bit	1257 MHz	2000 MHz	2304 / 144 / 32
+Radeon RX 580 Mobile	Polaris 20	Apr 18th, 2017	MXM-B (3.0)	8 GB, GDDR5, 256 bit	1000 MHz	2000 MHz	2304 / 144 / 32
+Radeon RX Vega 10 Mobile	Raven-M	Oct 26th, 2017	IGP	System Shared	300 MHz	System Shared	640 / 40 / 8
+Radeon RX Vega 56	Vega 10	Aug 14th, 2017	PCIe 3.0 x16	8 GB, HBM2, 2048 bit	1156 MHz	800 MHz	3584 / 224 / 64
+Radeon RX Vega 64	Vega 10	Aug 7th, 2017	PCIe 3.0 x16	8 GB, HBM2, 2048 bit	1247 MHz	945 MHz	4096 / 256 / 64
+Radeon RX Vega 64 Limited Edition	Vega 10	Aug 7th, 2017	PCIe 3.0 x16	8 GB, HBM2, 2048 bit	1247 MHz	945 MHz	4096 / 256 / 64
+Radeon RX Vega 64 Liquid Cooling	Vega 10	Aug 7th, 2017	PCIe 3.0 x16	8 GB, HBM2, 2048 bit	1406 MHz	945 MHz	4096 / 256 / 64
+Radeon Vega 8 Mobile	Raven-M	Oct 26th, 2017	IGP	System Shared	300 MHz	System Shared	512 / 32 / 8
+Radeon Vega Frontier Edition	Vega 10	Jun 27th, 2017	PCIe 3.0 x16	16 GB, HBM2, 2048 bit	1382 MHz	945 MHz	4096 / 256 / 64
+Radeon Vega Frontier Edition Watercooled	Vega 10	Jul 13th, 2017	PCIe 3.0 x16	16 GB, HBM2, 2048 bit	1382 MHz	945 MHz	4096 / 256 / 64
+Xbox One X GPU	Scorpio	Nov 7th, 2017	IGP	12 GB, GDDR5, 384 bit	1172 MHz	1700 MHz	2560 / 160 / 32
+Intel
+Product Name	GPU Chip	Released	Bus	Memory	GPU clock	Memory clock	Shaders / TMUs / ROPs
+UHD Graphics 600 Mobile	Gemini Lake GT1	Dec 11th, 2017	Ring Bus	System Shared	200 MHz	System Shared	96 / 12 / 2
+UHD Graphics 605 Mobile	Gemini Lake GT1.5	Dec 11th, 2017	Ring Bus	System Shared	200 MHz	System Shared	144 / 18 / 3
+UHD Graphics 620 Mobile	Kaby Lake GT2	Sep 1st, 2017	Ring Bus	System Shared	300 MHz	System Shared	192 / 24 / 3
+UHD Graphics 630	Coffee Lake GT2	Sep 1st, 2017	Ring Bus	System Shared	350 MHz	System Shared	192 / 24 / 3
+UHD Graphics 630	Coffee Lake GT2	Sep 1st, 2017	Ring Bus	System Shared	350 MHz	System Shared	184 / 23 / 3
+NVIDIA
+Product Name	GPU Chip	Released	Bus	Memory	GPU clock	Memory clock	Shaders / TMUs / ROPs
+GeForce GT 1030	GP108	May 17th, 2017	PCIe 3.0 x4	2 GB, GDDR5, 64 bit	1228 MHz	1502 MHz	384 / 24 / 16
+GeForce GT 720 OEM	GK107	Oct 29th, 2017	PCIe 3.0 x16	1024 MB, DDR3, 128 bit	993 MHz	891 MHz	192 / 16 / 16
+GeForce GTX 1050 Ti Mobile	GP106	Feb 1st, 2017	PCIe 3.0 x16	2 GB, GDDR5, 128 bit	1493 MHz	1752 MHz	768 / 48 / 32
+GeForce GTX 1060 5 GB	GP106	Dec 26th, 2017	PCIe 3.0 x16	5 GB, GDDR5, 160 bit	1506 MHz	2002 MHz	1280 / 80 / 40
+GeForce GTX 1060 6 GB 9Gbps	GP106	Apr 20th, 2017	PCIe 3.0 x16	6 GB, GDDR5, 192 bit	1506 MHz	2257 MHz	1280 / 80 / 48
+GeForce GTX 1060 Max-Q	GP106	Jun 27th, 2017	PCIe 3.0 x16	6 GB, GDDR5, 192 bit	1063 MHz	2002 MHz	1280 / 80 / 48
+GeForce GTX 1070 Max-Q	GP104B	Jun 27th, 2017	PCIe 3.0 x16	8 GB, GDDR5, 256 bit	1215 MHz	2002 MHz	2048 / 128 / 64
+GeForce GTX 1070 Ti	GP104	Nov 2nd, 2017	PCIe 3.0 x16	8 GB, GDDR5, 256 bit	1607 MHz	2002 MHz	2432 / 152 / 64
+GeForce GTX 1080 11Gbps	GP104	Apr 20th, 2017	PCIe 3.0 x16	8 GB, GDDR5X, 256 bit	1607 MHz	1376 MHz	2560 / 160 / 64
+GeForce GTX 1080 Max-Q	GP104B	Jun 27th, 2017	PCIe 3.0 x16	8 GB, GDDR5X, 256 bit	1277 MHz	1251 MHz	2560 / 160 / 64
+GeForce GTX 1080 Ti	GP102	Mar 10th, 2017	PCIe 3.0 x16	11 GB, GDDR5X, 352 bit	1481 MHz	1376 MHz	3584 / 224 / 88
+GeForce MX110	GM108S	Nov 17th, 2017	PCIe 3.0 x4	2 GB, GDDR5, 64 bit	978 MHz	1253 MHz	256 / 16 / 8
+GeForce MX130	GM108S	Nov 17th, 2017	PCIe 3.0 x4	2 GB, GDDR5, 64 bit	1109 MHz	1253 MHz	384 / 24 / 8
+GeForce MX150	GP108	May 17th, 2017	PCIe 3.0 x4	2 GB, GDDR5, 64 bit	937 MHz	1253 MHz	384 / 24 / 16
+GeForce MX150	GP108	May 17th, 2017	PCIe 3.0 x4	2 GB, GDDR5, 64 bit	1469 MHz	1502 MHz	384 / 24 / 16
+P104-100	GP104	Dec 12th, 2017	PCIe 1.0 x4	4 GB, GDDR5X, 256 bit	1607 MHz	1251 MHz	1920 / 120 / 64
+P106-090	GP106	Jul 31st, 2017	PCIe 1.0 x1	3 GB, GDDR5, 192 bit	1354 MHz	2002 MHz	768 / 48 / 48
+P106-100	GP106	Jun 19th, 2017	PCIe 1.0 x16	6 GB, GDDR5, 192 bit	1506 MHz	2002 MHz	1280 / 80 / 48
+Quadro M1200 Mobile	GM107	Jan 11th, 2017	MXM-A (3.0)	4 GB, GDDR5, 128 bit	991 MHz	1253 MHz	640 / 40 / 16
+Quadro M520 Mobile	GM108	Jan 11th, 2017	MXM-A (3.0)	2 GB, GDDR5, 64 bit	965 MHz	1253 MHz	384 / 16 / 8
+Quadro M620 Mobile	GM107	Jan 11th, 2017	MXM-A (3.0)	2 GB, GDDR5, 128 bit	756 MHz	1253 MHz	512 / 32 / 16
+Quadro P1000	GP107	Feb 7th, 2017	PCIe 3.0 x16	4 GB, GDDR5, 128 bit	1354 MHz	1502 MHz	512 / 32 / 16
+Quadro P1000	GP107	Feb 7th, 2017	PCIe 3.0 x16	4 GB, GDDR5, 128 bit	1266 MHz	1253 MHz	640 / 40 / 32
+Quadro P1000 Mobile	GP107	Feb 7th, 2017	PCIe 3.0 x16	4 GB, GDDR5, 128 bit	1493 MHz	1502 MHz	512 / 32 / 16
+Quadro P2000	GP106	Feb 6th, 2017	PCIe 3.0 x16	5 GB, GDDR5, 160 bit	1076 MHz	1752 MHz	1024 / 64 / 40
+Quadro P2000 Mobile	GP107	Feb 6th, 2017	PCIe 3.0 x16	4 GB, GDDR5, 128 bit	1557 MHz	1502 MHz	768 / 48 / 32
+Quadro P400	GP107	Feb 7th, 2017	PCIe 3.0 x16	2 GB, GDDR5, 64 bit	1228 MHz	1002 MHz	256 / 16 / 16
+Quadro P4000	GP104	Feb 6th, 2017	PCIe 3.0 x16	8 GB, GDDR5, 256 bit	1202 MHz	1901 MHz	1792 / 112 / 64
+Quadro P600	GP107	Feb 7th, 2017	PCIe 3.0 x16	2 GB, GDDR5, 128 bit	1329 MHz	1002 MHz	384 / 24 / 16
+Quadro P600 Mobile	GP107	Feb 7th, 2017	PCIe 3.0 x16	4 GB, GDDR5, 128 bit	1430 MHz	1252 MHz	384 / 24 / 16
+Switch GPU 20nm	GM20B	Mar 17th, 2017	IGP	4 GB, DDR4, 64 bit	384 MHz	1600 MHz	256 / 16 / 16
+TITAN V	GV100	Dec 7th, 2017	PCIe 3.0 x16	12 GB, HBM2, 3072 bit	1200 MHz	848 MHz	5120 / 320 / 96
+TITAN Xp	GP102	Apr 6th, 2017	PCIe 3.0 x16	12 GB, GDDR5X, 384 bit	1405 MHz	1426 MHz	3840 / 240 / 96
+Tesla P6 Mobile	GP104	Mar 24th, 2017	MXM-B (3.0)	16 GB, GDDR5, 256 bit	1012 MHz	1502 MHz	2048 / 128 / 64
+Tesla V100 PCIe 16 GB	GV100	Jun 21st, 2017	PCIe 3.0 x16	16 GB, HBM2, 4096 bit	1245 MHz	876 MHz	5120 / 320 / 128
+Tesla V100 SXM2 16 GB	GV100	Jun 21st, 2017	PCIe 3.0 x16	16 GB, HBM2, 4096 bit	1312 MHz	876 MHz	5120 / 320 / 128

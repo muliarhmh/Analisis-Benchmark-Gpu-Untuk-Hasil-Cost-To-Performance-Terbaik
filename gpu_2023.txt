@@ -1,0 +1,107 @@
+AMD
+Product Name	GPU Chip	Released	Bus	Memory	GPU clock	Memory clock	Shaders / TMUs / ROPs
+ROG Ally GPU	Phoenix	2023	PCIe 4.0 x4	16 GB, LPDDR5, 64 bit	1500 MHz	1600 MHz	256 / 16 / 8
+Radeon 740M	Phoenix	Jan 4th, 2023	PCIe 4.0 x8	System Shared	800 MHz	System Shared	256 / 16 / 8
+Radeon 740M	Hawx Point	Dec 6th, 2023	PCIe 4.0 x8	System Shared	800 MHz	System Shared	256 / 16 / 8
+Radeon 760M	Hawx Point	Dec 6th, 2023	PCIe 4.0 x8	System Shared	800 MHz	System Shared	512 / 32 / 16
+Radeon 760M	Phoenix	Jan 4th, 2023	PCIe 4.0 x8	System Shared	800 MHz	System Shared	512 / 32 / 16
+Radeon 780M	Hawx Point	Dec 6th, 2023	PCIe 4.0 x8	System Shared	800 MHz	System Shared	768 / 48 / 32
+Radeon 780M	Phoenix	Jan 4th, 2023	PCIe 4.0 x8	System Shared	800 MHz	System Shared	768 / 48 / 32
+Radeon Instinct MI300	Aqua Vanjaram	Jan 4th, 2023	PCIe 5.0 x16	128 GB, HBM3, 8192 bit	1000 MHz	1600 MHz	14080 / 880 / 0
+Radeon Instinct MI300A	Aqua Vanjaram	Dec 6th, 2023	PCIe 5.0 x16	192 GB, HBM3, 8192 bit	1000 MHz	2525 MHz	19456 / 1216 / 0
+Radeon Instinct MI300X	Aqua Vanjaram	Dec 6th, 2023	PCIe 5.0 x16	192 GB, HBM3, 8192 bit	1000 MHz	2525 MHz	19456 / 1216 / 0
+Radeon Instinct MI308X	Aqua Vanjaram	Dec 6th, 2023	PCIe 5.0 x16	192 GB, HBM3, 8192 bit	1000 MHz	2525 MHz	19456 / 1216 / 0
+Radeon PRO W7500	Navi 33	Aug 3rd, 2023	PCIe 4.0 x8	8 GB, GDDR6, 128 bit	1500 MHz	1344 MHz	1792 / 112 / 64
+Radeon PRO W7600	Navi 33	Aug 3rd, 2023	PCIe 4.0 x8	8 GB, GDDR6, 128 bit	1720 MHz	2250 MHz	2048 / 128 / 64
+Radeon PRO W7700	Navi 32	Nov 13th, 2023	PCIe 4.0 x16	16 GB, GDDR6, 256 bit	1900 MHz	2250 MHz	3072 / 192 / 96
+Radeon PRO W7800	Navi 31	Apr 13th, 2023	PCIe 4.0 x16	32 GB, GDDR6, 256 bit	1895 MHz	2250 MHz	4480 / 280 / 128
+Radeon PRO W7800 48 GB	Navi 31	Apr 13th, 2023	PCIe 4.0 x16	48 GB, GDDR6, 384 bit	1895 MHz	2250 MHz	4480 / 280 / 128
+Radeon PRO W7900	Navi 31	Apr 13th, 2023	PCIe 4.0 x16	48 GB, GDDR6, 384 bit	1855 MHz	2250 MHz	6144 / 384 / 192
+Radeon RX 6450M	Navi 24	Jan 4th, 2023	PCIe 4.0 x4	4 GB, GDDR6, 64 bit	2000 MHz	2000 MHz	768 / 48 / 32
+Radeon RX 6550M	Navi 24	Jan 4th, 2023	PCIe 4.0 x4	4 GB, GDDR6, 64 bit	2000 MHz	2250 MHz	1024 / 64 / 32
+Radeon RX 6550S	Navi 24	Jan 4th, 2023	PCIe 4.0 x4	4 GB, GDDR6, 64 bit	2000 MHz	2000 MHz	1024 / 64 / 32
+Radeon RX 6600 LE	Navi 23	Dec 8th, 2023	PCIe 4.0 x8	8 GB, GDDR6, 128 bit	1626 MHz	1750 MHz	1792 / 112 / 64
+Radeon RX 6750 GRE 10 GB	Navi 22	Oct 17th, 2023	PCIe 4.0 x16	10 GB, GDDR6, 160 bit	1941 MHz	2000 MHz	2304 / 144 / 64
+Radeon RX 6750 GRE 12 GB	Navi 22	Oct 17th, 2023	PCIe 4.0 x16	12 GB, GDDR6, 192 bit	2321 MHz	2250 MHz	2560 / 160 / 64
+Radeon RX 7500 XT	Navi 33	Never Released	PCIe 4.0 x8	6 GB, GDDR6, 96 bit	1452 MHz	2250 MHz	1024 / 64 / 32
+Radeon RX 7600	Navi 33	May 24th, 2023	PCIe 4.0 x8	8 GB, GDDR6, 128 bit	1720 MHz	2250 MHz	2048 / 128 / 64
+Radeon RX 7600M	Navi 33	Jan 4th, 2023	PCIe 4.0 x16	8 GB, GDDR6, 128 bit	1500 MHz	2000 MHz	1792 / 112 / 64
+Radeon RX 7600M XT	Navi 33	Jan 4th, 2023	PCIe 4.0 x16	8 GB, GDDR6, 128 bit	1280 MHz	2250 MHz	2048 / 128 / 64
+Radeon RX 7600S	Navi 33	Jan 4th, 2023	PCIe 4.0 x16	8 GB, GDDR6, 128 bit	1500 MHz	2000 MHz	1792 / 112 / 64
+Radeon RX 7700 XT	Navi 32	Aug 25th, 2023	PCIe 4.0 x16	12 GB, GDDR6, 192 bit	1435 MHz	2250 MHz	3456 / 216 / 96
+Radeon RX 7700S	Navi 33	Jan 4th, 2023	PCIe 4.0 x16	8 GB, GDDR6, 128 bit	1500 MHz	2250 MHz	2048 / 128 / 64
+Radeon RX 7800 XT	Navi 32	Aug 25th, 2023	PCIe 4.0 x16	16 GB, GDDR6, 256 bit	1295 MHz	2438 MHz	3840 / 240 / 96
+Radeon RX 7900 GRE	Navi 31	Jul 27th, 2023	PCIe 4.0 x16	16 GB, GDDR6, 256 bit	1287 MHz	2250 MHz	5120 / 320 / 160
+Radeon RX 7900M	Navi 31	Oct 19th, 2023	PCIe 4.0 x16	16 GB, GDDR6, 256 bit	1825 MHz	2250 MHz	4608 / 288 / 192
+Radeon RX 7990 XTX	Navi 31	Never Released	PCIe 4.0 x16	24 GB, GDDR6, 384 bit	2500 MHz	3000 MHz	6144 / 384 / 192
+Ryzen Z1 Extreme GPU	Phoenix	Jun 13th, 2023	PCIe 4.0 x4	16 GB, LPDDR5, 64 bit	800 MHz	800 MHz	768 / 48 / 32
+Steam Deck OLED GPU	Sephiroth	Nov 9th, 2023	IGP	16 GB, LPDDR5, 128 bit	1000 MHz	1375 MHz	512 / 32 / 16
+Intel
+Product Name	GPU Chip	Released	Bus	Memory	GPU clock	Memory clock	Shaders / TMUs / ROPs
+Arc A380M	DG2-128	Jan 24th, 2023	MXM-A (3.1)	6 GB, GDDR6, 96 bit	1550 MHz	1937 MHz	1024 / 64 / 32
+Arc A530M	DG2-256	Aug 1st, 2023	PCIe 4.0 x8	8 GB, GDDR6, 128 bit	900 MHz	1750 MHz	1536 / 96 / 48
+Arc A570M	DG2-256	Aug 1st, 2023	PCIe 4.0 x8	8 GB, GDDR6, 128 bit	900 MHz	1750 MHz	2048 / 128 / 64
+Arc A580	DG2-512	Oct 10th, 2023	PCIe 4.0 x16	8 GB, GDDR6, 256 bit	1700 MHz	2000 MHz	3072 / 192 / 96
+Arc Graphics 112EU Mobile	Meteor Lake	Dec 14th, 2023	Ring Bus	System Shared	300 MHz	System Shared	896 / 56 / 24
+Arc Graphics 128EU Mobile	Meteor Lake	Dec 14th, 2023	Ring Bus	System Shared	300 MHz	System Shared	1024 / 64 / 32
+Arc Graphics 48EU Mobile	Meteor Lake	Dec 14th, 2023	Ring Bus	System Shared	300 MHz	System Shared	384 / 24 / 8
+Arc Graphics 64EU Mobile	Meteor Lake	Dec 14th, 2023	Ring Bus	System Shared	300 MHz	System Shared	512 / 32 / 16
+Arc Pro A60	DG2-256	Jun 6th, 2023	PCIe 4.0 x16	12 GB, GDDR6, 192 bit	900 MHz	2000 MHz	2048 / 128 / 64
+Arc Pro A60M	DG2-256	Jun 6th, 2023	PCIe 4.0 x16	8 GB, GDDR6, 128 bit	900 MHz	2000 MHz	2048 / 128 / 64
+Data Center GPU Max 1100	Ponte Vecchio	Jan 10th, 2023	PCIe 5.0 x16	48 GB, HBM2e, 8192 bit	1000 MHz	600 MHz	7168 / 448 / 0
+Data Center GPU Max 1350	Ponte Vecchio	Jan 10th, 2023	PCIe 5.0 x16	96 GB, HBM2e, 8192 bit	750 MHz	1200 MHz	14336 / 896 / 0
+Data Center GPU Max 1550	Ponte Vecchio	Jan 10th, 2023	PCIe 5.0 x16	128 GB, HBM2e, 8192 bit	900 MHz	1600 MHz	16384 / 1024 / 0
+Data Center GPU Max Subsystem	Ponte Vecchio	Jan 10th, 2023	PCIe 5.0 x16	128 GB, HBM2e, 8192 bit	900 MHz	1565 MHz	16384 / 1024 / 0
+Iris Xe Graphics 80EU Mobile	Raptor Lake	Jan 4th, 2023	Ring Bus	System Shared	300 MHz	System Shared	640 / 40 / 20
+Iris Xe Graphics 96EU Mobile	Raptor Lake	Jan 4th, 2023	Ring Bus	System Shared	300 MHz	System Shared	768 / 48 / 24
+UHD Graphics 64EU Mobile	Raptor Lake	Jan 4th, 2023	Ring Bus	System Shared	300 MHz	System Shared	512 / 32 / 16
+UHD Graphics 710 Mobile	Raptor Lake	Jan 4th, 2023	Ring Bus	System Shared	300 MHz	System Shared	128 / 8 / 4
+UHD Graphics 710 Mobile	Raptor Lake	Jan 4th, 2023	Ring Bus	System Shared	300 MHz	System Shared	128 / 8 / 4
+UHD Graphics 770 Mobile	Raptor Lake	Jan 4th, 2023	Ring Bus	System Shared	300 MHz	System Shared	256 / 16 / 8
+NVIDIA
+Product Name	GPU Chip	Released	Bus	Memory	GPU clock	Memory clock	Shaders / TMUs / ROPs
+GeForce RTX 4050	AD107	Never Released	PCIe 4.0 x8	6 GB, GDDR6, 96 bit	2505 MHz	2250 MHz	2560 / 80 / 32
+GeForce RTX 4060	AD107	May 18th, 2023	PCIe 4.0 x8	8 GB, GDDR6, 128 bit	1830 MHz	2125 MHz	3072 / 96 / 48
+GeForce RTX 4060 Mobile	AD107	Jan 3rd, 2023	PCIe 4.0 x8	8 GB, GDDR6, 128 bit	1545 MHz	2000 MHz	3072 / 96 / 48
+GeForce RTX 4060 Ti 16 GB	AD106	May 18th, 2023	PCIe 4.0 x8	16 GB, GDDR6, 128 bit	2310 MHz	2250 MHz	4352 / 136 / 48
+GeForce RTX 4060 Ti 8 GB	AD106	May 18th, 2023	PCIe 4.0 x8	8 GB, GDDR6, 128 bit	2310 MHz	2250 MHz	4352 / 136 / 48
+GeForce RTX 4070	AD104	Apr 12th, 2023	PCIe 4.0 x16	12 GB, GDDR6X, 192 bit	1920 MHz	1313 MHz	5888 / 184 / 64
+GeForce RTX 4070 Mobile	AD106	Jan 3rd, 2023	PCIe 4.0 x8	8 GB, GDDR6, 128 bit	1395 MHz	2000 MHz	4608 / 144 / 48
+GeForce RTX 4080 Max-Q	AD104	Jan 3rd, 2023	PCIe 4.0 x16	12 GB, GDDR6, 192 bit	795 MHz	2250 MHz	7424 / 232 / 80
+GeForce RTX 4080 Mobile	AD104	Jan 3rd, 2023	PCIe 4.0 x16	12 GB, GDDR6, 192 bit	1290 MHz	2250 MHz	7424 / 232 / 80
+GeForce RTX 4080 Ti	AD102	Never Released	PCIe 4.0 x16	16 GB, GDDR6X, 256 bit	2340 MHz	1325 MHz	14080 / 440 / 144
+GeForce RTX 4090 D	AD102	Dec 28th, 2023	PCIe 4.0 x16	24 GB, GDDR6X, 384 bit	2280 MHz	1313 MHz	14592 / 456 / 176
+GeForce RTX 4090 Ti	AD102	Never Released	PCIe 4.0 x16	24 GB, GDDR6X, 384 bit	2325 MHz	1500 MHz	18176 / 568 / 192
+H100 CNX	GH100	Mar 21st, 2023	PCIe 5.0 x16	80 GB, HBM2e, 5120 bit	690 MHz	1593 MHz	14592 / 456 / 24
+H100 PCIe 80 GB	GH100	Mar 21st, 2023	PCIe 5.0 x16	80 GB, HBM2e, 5120 bit	1095 MHz	1593 MHz	14592 / 456 / 24
+H100 PCIe 96 GB	GH100	Mar 21st, 2023	PCIe 5.0 x16	96 GB, HBM3, 5120 bit	1665 MHz	1313 MHz	16896 / 528 / 24
+H100 SXM5 64 GB	GH100	Mar 21st, 2023	PCIe 5.0 x16	64 GB, HBM3, 3072 bit	1665 MHz	1313 MHz	16896 / 528 / 24
+H100 SXM5 80 GB	GH100	Mar 21st, 2023	PCIe 5.0 x16	80 GB, HBM3, 5120 bit	1590 MHz	1313 MHz	16896 / 528 / 24
+H100 SXM5 94 GB	GH100	Mar 21st, 2023	PCIe 5.0 x16	94 GB, HBM3, 5120 bit	1350 MHz	1313 MHz	16896 / 528 / 24
+H100 SXM5 96 GB	GH100	Mar 21st, 2023	PCIe 5.0 x16	96 GB, HBM3, 5120 bit	1350 MHz	1313 MHz	16896 / 528 / 24
+H800 PCIe 80 GB	GH100	Mar 21st, 2023	PCIe 5.0 x16	80 GB, HBM2e, 5120 bit	1095 MHz	1593 MHz	14592 / 456 / 24
+H800 SXM5	GH100	Mar 21st, 2023	PCIe 5.0 x16	80 GB, HBM3, 5120 bit	1095 MHz	1313 MHz	16896 / 528 / 24
+Jetson AGX Orin 32 GB	GA10B	Feb 2023	PCIe 4.0 x4	32 GB, LPDDR5, 256 bit	930 MHz	1600 MHz	1792 / 56 / 24
+Jetson AGX Orin 64 GB	GA10B	Mar 2023	PCIe 4.0 x4	64 GB, LPDDR5, 256 bit	1300 MHz	1600 MHz	2048 / 64 / 32
+Jetson Orin NX 16 GB	GA10B	Feb 2023	PCIe 4.0 x4	16 GB, LPDDR5, 128 bit	918 MHz	1600 MHz	1024 / 32 / 16
+Jetson Orin NX 8 GB	GA10B	Mar 2023	PCIe 4.0 x4	8 GB, LPDDR5, 128 bit	765 MHz	1600 MHz	1024 / 32 / 16
+Jetson Orin Nano 4 GB	GA10B	Mar 2023	PCIe 4.0 x4	4 GB, LPDDR5, 64 bit	625 MHz	1067 MHz	512 / 16 / 8
+Jetson Orin Nano 8 GB	GA10B	Mar 2023	PCIe 4.0 x4	8 GB, LPDDR5, 128 bit	625 MHz	1067 MHz	1024 / 32 / 16
+L20	AD102	Nov 16th, 2023	PCIe 4.0 x16	48 GB, GDDR6, 384 bit	1440 MHz	2250 MHz	11776 / 368 / 128
+L4	AD104	Mar 21st, 2023	PCIe 4.0 x16	24 GB, GDDR6, 192 bit	795 MHz	1563 MHz	7424 / 240 / 80
+RTX 2000 Embedded Ada Generation	AD107	Mar 21st, 2023	PCIe 4.0 x16	8 GB, GDDR6, 128 bit	1530 MHz	2000 MHz	3072 / 96 / 48
+RTX 2000 Max-Q Ada Generation	AD107	Mar 21st, 2023	PCIe 4.0 x16	8 GB, GDDR6, 128 bit	930 MHz	2000 MHz	3072 / 96 / 48
+RTX 2000 Mobile Ada Generation	AD107	Mar 21st, 2023	PCIe 4.0 x16	8 GB, GDDR6, 128 bit	1635 MHz	2000 MHz	3072 / 96 / 48
+RTX 3000 Mobile Ada Generation	AD106	Mar 21st, 2023	PCIe 4.0 x16	8 GB, GDDR6, 128 bit	1395 MHz	2000 MHz	4608 / 144 / 48
+RTX 3500 Embedded Ada Generation	AD104	Mar 21st, 2023	PCIe 4.0 x16	12 GB, GDDR6, 192 bit	1725 MHz	2250 MHz	5120 / 160 / 64
+RTX 3500 Mobile Ada Generation	AD104	Mar 21st, 2023	PCIe 4.0 x16	12 GB, GDDR6, 192 bit	1110 MHz	2250 MHz	5120 / 160 / 64
+RTX 4000 Ada Generation	AD104	Aug 9th, 2023	PCIe 4.0 x16	20 GB, GDDR6, 160 bit	1500 MHz	2250 MHz	6144 / 192 / 64
+RTX 4000 Mobile Ada Generation	AD104	Mar 21st, 2023	PCIe 4.0 x16	12 GB, GDDR6, 192 bit	1290 MHz	2250 MHz	7424 / 232 / 80
+RTX 4000 SFF Ada Generation	AD104	Mar 21st, 2023	PCIe 4.0 x16	20 GB, GDDR6, 160 bit	720 MHz	1750 MHz	6144 / 192 / 64
+RTX 4500 Ada Generation	AD103	Aug 9th, 2023	PCIe 4.0 x16	24 GB, GDDR6, 192 bit	2070 MHz	2250 MHz	7680 / 240 / 80
+RTX 5000 Ada Generation	AD102	Aug 9th, 2023	PCIe 4.0 x16	32 GB, GDDR6, 256 bit	1155 MHz	2250 MHz	12800 / 400 / 176
+RTX 5000 Embedded Ada Generation	AD103	Mar 21st, 2023	PCIe 4.0 x16	16 GB, GDDR6, 256 bit	930 MHz	2250 MHz	9728 / 304 / 112
+RTX 5000 Embedded Ada Generation X2	AD103	Mar 21st, 2023	PCIe 4.0 x16	16 GB, GDDR6, 256 bit	930 MHz	2250 MHz	9728 / 304 / 112
+RTX 5000 Max-Q Ada Generation	AD103	Mar 21st, 2023	PCIe 4.0 x16	16 GB, GDDR6, 256 bit	930 MHz	2250 MHz	9728 / 304 / 112
+RTX 5000 Mobile Ada Generation	AD103	Mar 21st, 2023	PCIe 4.0 x16	16 GB, GDDR6, 256 bit	1425 MHz	2250 MHz	9728 / 304 / 112
+TITAN Ada	AD102	Never Released	PCIe 4.0 x16	48 GB, GDDR6X, 384 bit	2235 MHz	1500 MHz	18432 / 576 / 192

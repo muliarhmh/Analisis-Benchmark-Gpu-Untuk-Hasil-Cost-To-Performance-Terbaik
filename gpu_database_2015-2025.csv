@@ -1,0 +1,987 @@
+﻿Year,Brand,SourceFile,Product Name,GPU Chip,Released,Bus,Memory,GPU clock,Memory clock,Shaders / TMUs / ROPs
+2015,AMD,gpu_2015.txt,FirePro S9170,Hawaii,"Jul 8th, 2015",PCIe 3.0 x16,"32 GB, GDDR5, 512 bit",930 MHz,1250 MHz,2816 / 176 / 64
+2015,AMD,gpu_2015.txt,FirePro W4190M,Opal,"Nov 12th, 2015",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",825 MHz,1000 MHz,384 / 24 / 8
+2015,AMD,gpu_2015.txt,FirePro W4300,Bonaire,"Dec 1st, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",930 MHz,1500 MHz,768 / 48 / 16
+2015,AMD,gpu_2015.txt,FirePro W5130M,Tropo,"Oct 2nd, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",900 MHz,1000 MHz,512 / 32 / 16
+2015,AMD,gpu_2015.txt,FirePro W6150M,Emerald,"Nov 12th, 2015",MXM-B (3.0),"4 GB, GDDR5, 128 bit",1075 MHz,1375 MHz,768 / 48 / 16
+2015,AMD,gpu_2015.txt,FirePro W7170M,Amethyst,"Oct 2nd, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",723 MHz,1250 MHz,2048 / 128 / 32
+2015,AMD,gpu_2015.txt,Radeon E6465,Caicos,"Sep 29th, 2015",PCIe 2.0 x16,"2 GB, GDDR5, 64 bit",600 MHz,800 MHz,160 / 8 / 4
+2015,AMD,gpu_2015.txt,Radeon E8870 MXM,Saturn,"Sep 29th, 2015",MXM-B (3.0),"4 GB, GDDR5, 128 bit",1000 MHz,1500 MHz,768 / 48 / 16
+2015,AMD,gpu_2015.txt,Radeon E8870 PCIe,Saturn,"Sep 29th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1000 MHz,1500 MHz,768 / 48 / 16
+2015,AMD,gpu_2015.txt,Radeon E8950,Amethyst,"Sep 29th, 2015",MXM-B (3.0),"8 GB, GDDR5, 256 bit",735 MHz,1500 MHz,2048 / 128 / 32
+2015,AMD,gpu_2015.txt,Radeon R5 310 OEM,Caicos,"May 5th, 2015",PCIe 2.0 x16,"2 GB, DDR3, 64 bit",775 MHz,805 MHz,160 / 8 / 4
+2015,AMD,gpu_2015.txt,Radeon R5 330 OEM,Exo,"May 5th, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",830 MHz,900 MHz,320 / 20 / 8
+2015,AMD,gpu_2015.txt,Radeon R5 340 OEM,Oland,"May 5th, 2015",PCIe 3.0 x8,"1024 MB, GDDR5, 64 bit",730 MHz,1150 MHz,384 / 24 / 8
+2015,AMD,gpu_2015.txt,Radeon R5 A330,Exo,"Oct 21st, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",1030 MHz,900 MHz,320 / 20 / 8
+2015,AMD,gpu_2015.txt,Radeon R5 A335,Exo,"Oct 21st, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",1070 MHz,900 MHz,320 / 20 / 8
+2015,AMD,gpu_2015.txt,Radeon R5 M320,Jet,"May 5th, 2015",PCIe 3.0 x8,"4 GB, DDR3, 64 bit",780 MHz,1000 MHz,320 / 20 / 8
+2015,AMD,gpu_2015.txt,Radeon R5 M330,Exo,"May 5th, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",955 MHz,900 MHz,320 / 20 / 8
+2015,AMD,gpu_2015.txt,Radeon R5 M335,Exo,"Oct 21st, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",1030 MHz,900 MHz,320 / 20 / 8
+2015,AMD,gpu_2015.txt,Radeon R5 Mobile Graphics,Wani,"Nov 7th, 2015",IGP,System Shared,200 MHz,System Shared,384 / 24 / 8
+2015,AMD,gpu_2015.txt,Radeon R6 M335DX,Jet,"Dec 12th, 2015",IGP,System Shared,955 MHz,System Shared,384 / 24 / 8
+2015,AMD,gpu_2015.txt,Radeon R6 M340DX,Jet,"Dec 12th, 2015",IGP,System Shared,955 MHz,System Shared,384 / 24 / 8
+2015,AMD,gpu_2015.txt,Radeon R6 Mobile Graphics,Wani,"Nov 7th, 2015",IGP,System Shared,200 MHz,System Shared,384 / 24 / 8
+2015,AMD,gpu_2015.txt,Radeon R7 340 OEM,Oland,"May 5th, 2015",PCIe 3.0 x8,"2 GB, DDR3, 128 bit",730 MHz,900 MHz,384 / 24 / 8
+2015,AMD,gpu_2015.txt,Radeon R7 350 OEM,Oland,"May 5th, 2015",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1000 MHz,1150 MHz,384 / 24 / 8
+2015,AMD,gpu_2015.txt,Radeon R7 360,Tobago,"Jun 18th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1000 MHz,1500 MHz,768 / 48 / 16
+2015,AMD,gpu_2015.txt,Radeon R7 360 896SP,Tobago,"Jun 18th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1100 MHz,1500 MHz,896 / 56 / 16
+2015,AMD,gpu_2015.txt,Radeon R7 360E,Tobago,"Dec 30th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1050 MHz,1500 MHz,768 / 48 / 16
+2015,AMD,gpu_2015.txt,Radeon R7 370,Trinidad,"Jun 18th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",925 MHz,1400 MHz,1024 / 64 / 32
+2015,AMD,gpu_2015.txt,Radeon R7 M260X,Opal,"Dec 6th, 2015",PCIe 3.0 x8,"1024 MB, GDDR5, 128 bit",620 MHz,1000 MHz,384 / 24 / 8
+2015,AMD,gpu_2015.txt,Radeon R7 M340,Meso,"May 5th, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",943 MHz,1000 MHz,320 / 20 / 8
+2015,AMD,gpu_2015.txt,Radeon R7 M340,Opal,"Dec 6th, 2015",PCIe 3.0 x8,"1024 MB, DDR3, 64 bit",620 MHz,1000 MHz,384 / 24 / 8
+2015,AMD,gpu_2015.txt,Radeon R7 M350,Meso,"May 5th, 2015",PCIe 3.0 x8,"4 GB, DDR3, 64 bit",1000 MHz,1000 MHz,384 / 24 / 8
+2015,AMD,gpu_2015.txt,Radeon R7 M360,Meso,"May 5th, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",1100 MHz,900 MHz,384 / 24 / 8
+2015,AMD,gpu_2015.txt,Radeon R7 M370,Litho,"May 5th, 2015",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",875 MHz,900 MHz,384 / 24 / 8
+2015,AMD,gpu_2015.txt,Radeon R7 Mobile Graphics,Wani,"Nov 15th, 2015",IGP,System Shared,200 MHz,System Shared,512 / 32 / 8
+2015,AMD,gpu_2015.txt,Radeon R8 M350DX,Jet,"Dec 12th, 2015",IGP,System Shared,955 MHz,System Shared,384 / 24 / 8
+2015,AMD,gpu_2015.txt,Radeon R8 M365DX,Meso,"Jun 3rd, 2015",IGP,System Shared,900 MHz,System Shared,384 / 24 / 8
+2015,AMD,gpu_2015.txt,Radeon R9 360 OEM,Tobago,"May 5th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1000 MHz,1625 MHz,768 / 48 / 16
+2015,AMD,gpu_2015.txt,Radeon R9 370,Trinidad,"May 5th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",925 MHz,1400 MHz,1280 / 80 / 32
+2015,AMD,gpu_2015.txt,Radeon R9 370 1024SP,Trinidad,"Jun 12th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",925 MHz,1400 MHz,1024 / 64 / 32
+2015,AMD,gpu_2015.txt,Radeon R9 370X,Trinidad,"Aug 27th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",980 MHz,1400 MHz,1280 / 80 / 32
+2015,AMD,gpu_2015.txt,Radeon R9 380,Antigua,"Jun 18th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",970 MHz,1375 MHz,1792 / 112 / 32
+2015,AMD,gpu_2015.txt,Radeon R9 380 OEM,Antigua,"May 5th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",918 MHz,1375 MHz,1792 / 112 / 32
+2015,AMD,gpu_2015.txt,Radeon R9 380X,Antigua,"Nov 19th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",970 MHz,1425 MHz,2048 / 128 / 32
+2015,AMD,gpu_2015.txt,Radeon R9 390,Grenada,"Jun 18th, 2015",PCIe 3.0 x16,"8 GB, GDDR5, 512 bit",1000 MHz,1500 MHz,2560 / 160 / 64
+2015,AMD,gpu_2015.txt,Radeon R9 390 X2,Grenada,"Sep 3rd, 2015",PCIe 3.0 x16,"8 GB, GDDR5, 512 bit",1000 MHz,1350 MHz,2560 / 160 / 64
+2015,AMD,gpu_2015.txt,Radeon R9 390X,Grenada,"Jun 18th, 2015",PCIe 3.0 x16,"8 GB, GDDR5, 512 bit",1050 MHz,1500 MHz,2816 / 176 / 64
+2015,AMD,gpu_2015.txt,Radeon R9 FURY,Fiji,"Jul 10th, 2015",PCIe 3.0 x16,"4 GB, HBM, 4096 bit",1000 MHz,500 MHz,3584 / 224 / 64
+2015,AMD,gpu_2015.txt,Radeon R9 FURY X,Fiji,"Jun 24th, 2015",PCIe 3.0 x16,"4 GB, HBM, 4096 bit",1050 MHz,500 MHz,4096 / 256 / 64
+2015,AMD,gpu_2015.txt,Radeon R9 M360,Tropo,"May 5th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",900 MHz,1125 MHz,512 / 32 / 16
+2015,AMD,gpu_2015.txt,Radeon R9 M365X,Tropo,"May 5th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",900 MHz,1125 MHz,640 / 40 / 16
+2015,AMD,gpu_2015.txt,Radeon R9 M370X Mac Edition,Tropo,"May 5th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",775 MHz,1125 MHz,640 / 40 / 16
+2015,AMD,gpu_2015.txt,Radeon R9 M375,Tropo,"May 5th, 2015",PCIe 3.0 x16,"2 GB, DDR3, 128 bit",1000 MHz,900 MHz,640 / 40 / 16
+2015,AMD,gpu_2015.txt,Radeon R9 M375X,Tropo,"May 5th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",925 MHz,1125 MHz,640 / 40 / 16
+2015,AMD,gpu_2015.txt,Radeon R9 M380,Strato,"May 5th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",900 MHz,1500 MHz,768 / 48 / 16
+2015,AMD,gpu_2015.txt,Radeon R9 M385,Strato,"May 5th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",900 MHz,1200 MHz,896 / 56 / 16
+2015,AMD,gpu_2015.txt,Radeon R9 M385X,Strato,"May 5th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1000 MHz,1200 MHz,896 / 56 / 16
+2015,AMD,gpu_2015.txt,Radeon R9 M390X,Amethyst,"May 5th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",723 MHz,1250 MHz,2048 / 128 / 32
+2015,AMD,gpu_2015.txt,Radeon R9 Nano,Fiji,"Aug 27th, 2015",PCIe 3.0 x16,"4 GB, HBM, 4096 bit",1000 MHz,500 MHz,4096 / 256 / 64
+2015,Intel,gpu_2015.txt,HD Graphics 500 Mobile,Apollo Lake GT1,"Sep 1st, 2015",Ring Bus,System Shared,200 MHz,System Shared,96 / 12 / 2
+2015,Intel,gpu_2015.txt,HD Graphics 510,Skylake GT1,"Sep 1st, 2015",Ring Bus,System Shared,350 MHz,System Shared,96 / 12 / 2
+2015,Intel,gpu_2015.txt,HD Graphics 510 Mobile,Skylake GT1,"Sep 1st, 2015",Ring Bus,System Shared,300 MHz,System Shared,96 / 12 / 3
+2015,Intel,gpu_2015.txt,HD Graphics 515 Mobile,Skylake GT2,"Sep 1st, 2015",Ring Bus,System Shared,300 MHz,System Shared,192 / 24 / 3
+2015,Intel,gpu_2015.txt,HD Graphics 520 Mobile,Skylake GT2,"Sep 1st, 2015",Ring Bus,System Shared,300 MHz,System Shared,192 / 24 / 3
+2015,Intel,gpu_2015.txt,HD Graphics 530,Skylake GT2,"Sep 1st, 2015",Ring Bus,System Shared,350 MHz,System Shared,192 / 24 / 3
+2015,Intel,gpu_2015.txt,HD Graphics 530 Mobile,Skylake GT2,"Sep 1st, 2015",Ring Bus,System Shared,350 MHz,System Shared,192 / 24 / 3
+2015,Intel,gpu_2015.txt,HD Graphics P530,Skylake GT2,"Sep 1st, 2015",Ring Bus,System Shared,350 MHz,System Shared,192 / 16 / 3
+2015,Intel,gpu_2015.txt,Iris Graphics 540 Mobile,Skylake GT3e,"Sep 1st, 2015",Ring Bus,System Shared,300 MHz,System Shared,384 / 48 / 6
+2015,Intel,gpu_2015.txt,Iris Graphics 550 Mobile,Skylake GT3e,"Sep 1st, 2015",Ring Bus,System Shared,300 MHz,System Shared,384 / 48 / 6
+2015,Intel,gpu_2015.txt,Iris Pro Graphics 580 Mobile,Skylake GT4e,"Sep 1st, 2015",Ring Bus,System Shared,350 MHz,System Shared,576 / 72 / 9
+2015,Intel,gpu_2015.txt,Iris Pro Graphics P555,Skylake GT3e,"Sep 1st, 2015",Ring Bus,System Shared,350 MHz,System Shared,384 / 48 / 6
+2015,Intel,gpu_2015.txt,Iris Pro Graphics P580,Skylake GT4e,"Sep 1st, 2015",Ring Bus,System Shared,350 MHz,System Shared,576 / 72 / 9
+2015,Intel,gpu_2015.txt,Iris Pro Graphics P580 Mobile,Skylake GT4e,"Sep 1st, 2015",Ring Bus,System Shared,350 MHz,System Shared,576 / 72 / 9
+2015,NVIDIA,gpu_2015.txt,GRID M6-8Q,GM204,"Aug 30th, 2015",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",722 MHz,1253 MHz,1536 / 96 / 64
+2015,NVIDIA,gpu_2015.txt,GRID M60-1Q,GM204,"Aug 30th, 2015",PCIe 3.0 x16,"1024 MB, GDDR5, 256 bit",557 MHz,1253 MHz,2048 / 128 / 64
+2015,NVIDIA,gpu_2015.txt,GRID M60-2Q,GM204,"Aug 30th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",557 MHz,1253 MHz,2048 / 128 / 64
+2015,NVIDIA,gpu_2015.txt,GRID M60-4A,GM204,"Aug 30th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",557 MHz,1253 MHz,2048 / 128 / 64
+2015,NVIDIA,gpu_2015.txt,GRID M60-8Q,GM204,"Aug 30th, 2015",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",557 MHz,1253 MHz,2048 / 128 / 64
+2015,Nvidia,gpu_2015.txt,GeForce 845M,GM108,"Aug 26th, 2015",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1071 MHz,1253 MHz,384 / 32 / 16
+2015,Nvidia,gpu_2015.txt,GeForce 945M,GM107,"Oct 27th, 2015",MXM-B (3.0),"2 GB, DDR3, 128 bit",928 MHz,900 MHz,640 / 40 / 16
+2015,Nvidia,gpu_2015.txt,GeForce GTX 750 GM206,GM206,"Nov 17th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1087 MHz,1253 MHz,512 / 32 / 32
+2015,Nvidia,gpu_2015.txt,GeForce GTX 950,GM206,"Aug 20th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1024 MHz,1653 MHz,768 / 48 / 32
+2015,Nvidia,gpu_2015.txt,GeForce GTX 960 OEM,GM206,"Nov 26th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1176 MHz,1753 MHz,1024 / 64 / 32
+2015,Nvidia,gpu_2015.txt,GeForce GTX 960 OEM,GM204,"Nov 26th, 2015",PCIe 3.0 x16,"3 GB, GDDR5, 192 bit",924 MHz,1253 MHz,1280 / 80 / 48
+2015,Nvidia,gpu_2015.txt,GeForce GTX 980 Mobile,GM204,"Sep 21st, 2015",MXM-B (3.0),"8 GB, GDDR5, 256 bit",1064 MHz,1753 MHz,2048 / 128 / 64
+2015,Nvidia,gpu_2015.txt,GeForce GTX 980 Ti,GM200,"Jun 2nd, 2015",PCIe 3.0 x16,"6 GB, GDDR5, 384 bit",1000 MHz,1753 MHz,2816 / 176 / 96
+2015,NVIDIA,gpu_2015.txt,NVS 810,GM107,"Nov 4th, 2015",PCIe 3.0 x16,"2 GB, DDR3, 64 bit",902 MHz,900 MHz,512 / 32 / 16
+2015,Nvidia,gpu_2015.txt,Quadro M1000M,GM107,"Aug 18th, 2015",MXM-A (3.0),"2 GB, GDDR5, 128 bit",993 MHz,1253 MHz,512 / 32 / 16
+2015,Nvidia,gpu_2015.txt,Quadro M2000M,GM107,"Dec 3rd, 2015",MXM-A (3.0),"4 GB, GDDR5, 128 bit",1098 MHz,1253 MHz,640 / 40 / 16
+2015,Nvidia,gpu_2015.txt,Quadro M3000M,GM204,"Aug 18th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",823 MHz,1253 MHz,1024 / 64 / 32
+2015,Nvidia,gpu_2015.txt,Quadro M4000,GM204,"Jun 29th, 2015",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",773 MHz,1502 MHz,1664 / 104 / 64
+2015,Nvidia,gpu_2015.txt,Quadro M4000M,GM204,"Aug 18th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",975 MHz,1253 MHz,1280 / 80 / 64
+2015,Nvidia,gpu_2015.txt,Quadro M5000,GM204,"Jun 29th, 2015",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",861 MHz,1653 MHz,2048 / 128 / 64
+2015,Nvidia,gpu_2015.txt,Quadro M5000M,GM204,"Aug 18th, 2015",MXM-B (3.0),"8 GB, GDDR5, 256 bit",962 MHz,1253 MHz,1536 / 96 / 64
+2015,Nvidia,gpu_2015.txt,Quadro M600M,GM107,"Aug 18th, 2015",MXM-A (3.0),"2 GB, GDDR5, 128 bit",837 MHz,1253 MHz,384 / 16 / 8
+2015,Nvidia,gpu_2015.txt,Tesla M4,GM206,"Nov 10th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",872 MHz,1375 MHz,1024 / 64 / 32
+2015,Nvidia,gpu_2015.txt,Tesla M40,GM200,"Nov 10th, 2015",PCIe 3.0 x16,"12 GB, GDDR5, 384 bit",948 MHz,1502 MHz,3072 / 192 / 96
+2015,Nvidia,gpu_2015.txt,Tesla M40 24 GB,GM200,"Nov 10th, 2015",PCIe 3.0 x16,"24 GB, GDDR5, 384 bit",948 MHz,1502 MHz,3072 / 192 / 96
+2015,Nvidia,gpu_2015.txt,Tesla M6 Mobile,GM204,"Aug 30th, 2015",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",930 MHz,1253 MHz,1536 / 96 / 64
+2015,Nvidia,gpu_2015.txt,Tesla M6 X2 Mobile,GM204,"Aug 30th, 2015",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",930 MHz,1253 MHz,1536 / 96 / 64
+2015,Nvidia,gpu_2015.txt,Tesla M60,GM204,"Aug 30th, 2015",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",557 MHz,1253 MHz,2048 / 128 / 64
+2016,AMD,gpu_2016.txt,FirePro S7100X,Amethyst,"May 25th, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",725 MHz,1250 MHz,2048 / 128 / 32
+2016,AMD,gpu_2016.txt,FirePro S9300 X2,Capsaicin,"Mar 31st, 2016",PCIe 3.0 x16,"4 GB, HBM, 4096 bit",975 MHz,500 MHz,4096 / 256 / 64
+2016,AMD,gpu_2016.txt,Playstation 4 Pro GPU,Neo,"Nov 10th, 2016",IGP,"8 GB, GDDR5, 256 bit",911 MHz,1700 MHz,2304 / 144 / 32
+2016,AMD,gpu_2016.txt,Playstation 4 Slim GPU,Liverpool 16nm,"Sep 7th, 2016",IGP,"8 GB, GDDR5, 256 bit",800 MHz,1375 MHz,1152 / 72 / 32
+2016,AMD,gpu_2016.txt,Radeon E9260 MXM,Baffin,"Sep 27th, 2016",MXM-A (3.0),"4 GB, GDDR5, 128 bit",1053 MHz,1750 MHz,896 / 48 / 16
+2016,AMD,gpu_2016.txt,Radeon E9260 PCIe,Baffin,"Sep 27th, 2016",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1090 MHz,1750 MHz,896 / 48 / 16
+2016,AMD,gpu_2016.txt,Radeon E9550 MXM,Ellesmere,"Sep 27th, 2016",MXM-B (3.0),"8 GB, GDDR5, 256 bit",1120 MHz,1250 MHz,2304 / 144 / 32
+2016,AMD,gpu_2016.txt,Radeon Instinct MI6,Ellesmere,"Dec 12th, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1120 MHz,1750 MHz,2304 / 144 / 32
+2016,AMD,gpu_2016.txt,Radeon Instinct MI8,Fiji,"Dec 12th, 2016",PCIe 3.0 x16,"4 GB, HBM, 4096 bit",1000 MHz,500 MHz,4096 / 256 / 64
+2016,AMD,gpu_2016.txt,Radeon Pro 450,Baffin,"Oct 30th, 2016",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",800 MHz,1270 MHz,640 / 40 / 16
+2016,AMD,gpu_2016.txt,Radeon Pro 455,Baffin,"Oct 30th, 2016",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",855 MHz,1270 MHz,768 / 48 / 16
+2016,AMD,gpu_2016.txt,Radeon Pro 460,Baffin,"Oct 30th, 2016",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",850 MHz,1270 MHz,1024 / 64 / 16
+2016,AMD,gpu_2016.txt,Radeon Pro Duo,Capsaicin,"Apr 26th, 2016",PCIe 3.0 x16,"4 GB, HBM, 4096 bit",1000 MHz,500 MHz,4096 / 256 / 64
+2016,AMD,gpu_2016.txt,Radeon Pro SSG,Fiji,"Jul 26th, 2016",PCIe 3.0 x16,"4 GB, HBM, 4096 bit",1000 MHz,500 MHz,4096 / 256 / 64
+2016,AMD,gpu_2016.txt,Radeon Pro WX 4100,Baffin,"Nov 10th, 2016",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1125 MHz,1500 MHz,1024 / 64 / 16
+2016,AMD,gpu_2016.txt,Radeon Pro WX 5100,Ellesmere,"Nov 18th, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",713 MHz,1250 MHz,1792 / 112 / 32
+2016,AMD,gpu_2016.txt,Radeon Pro WX 7100,Ellesmere,"Nov 10th, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1188 MHz,1750 MHz,2304 / 144 / 32
+2016,AMD,gpu_2016.txt,Radeon R1E Mobile Graphics,Stoney,"Jun 1st, 2016",IGP,System Shared,300 MHz,System Shared,64 / 8 / 4
+2016,AMD,gpu_2016.txt,Radeon R2 Mobile Graphics,Stoney,"Jun 1st, 2016",IGP,System Shared,200 MHz,System Shared,128 / 8 / 4
+2016,AMD,gpu_2016.txt,Radeon R2E Mobile Graphics,Stoney,"Jun 1st, 2016",IGP,System Shared,200 MHz,System Shared,128 / 8 / 4
+2016,AMD,gpu_2016.txt,Radeon R3 Mobile Graphics,Stoney,"Jun 1st, 2016",IGP,System Shared,200 MHz,System Shared,128 / 8 / 4
+2016,AMD,gpu_2016.txt,Radeon R4 Mobile Graphics,Stoney,"Jun 1st, 2016",IGP,System Shared,200 MHz,System Shared,192 / 12 / 8
+2016,AMD,gpu_2016.txt,Radeon R4E Mobile Graphics,Stoney,"Jun 1st, 2016",IGP,System Shared,400 MHz,System Shared,192 / 12 / 8
+2016,AMD,gpu_2016.txt,Radeon R5 430 OEM,Oland,"Jun 30th, 2016",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",730 MHz,1150 MHz,384 / 24 / 8
+2016,AMD,gpu_2016.txt,Radeon R5 435 OEM,Banks,"Jun 30th, 2016",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",1030 MHz,1125 MHz,320 / 20 / 8
+2016,AMD,gpu_2016.txt,Radeon R5 M420,Jet,"May 15th, 2016",PCIe 3.0 x8,"4 GB, DDR3, 64 bit",780 MHz,1000 MHz,320 / 20 / 8
+2016,AMD,gpu_2016.txt,Radeon R5 M430,Jet,"May 15th, 2016",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",780 MHz,1125 MHz,320 / 20 / 8
+2016,AMD,gpu_2016.txt,Radeon R5 M430,Exo,"May 15th, 2016",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",1030 MHz,900 MHz,320 / 20 / 8
+2016,AMD,gpu_2016.txt,Radeon R5 M435,Jet,"May 15th, 2016",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",780 MHz,1125 MHz,320 / 20 / 8
+2016,AMD,gpu_2016.txt,Radeon R5 Mobile Graphics,Stoney,"Jun 1st, 2016",IGP,System Shared,200 MHz,System Shared,192 / 12 / 8
+2016,AMD,gpu_2016.txt,Radeon R5E Mobile Graphics,Stoney,"Jun 1st, 2016",IGP,System Shared,200 MHz,System Shared,192 / 12 / 8
+2016,AMD,gpu_2016.txt,Radeon R6 M435DX,Jet,"Dec 12th, 2016",IGP,System Shared,955 MHz,System Shared,384 / 24 / 8
+2016,AMD,gpu_2016.txt,Radeon R7 350,Cape Verde,"Jul 6th, 2016",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",800 MHz,1125 MHz,512 / 32 / 16
+2016,AMD,gpu_2016.txt,Radeon R7 430 OEM,Oland,"Jun 30th, 2016",PCIe 3.0 x8,"2 GB, DDR3, 128 bit",730 MHz,900 MHz,384 / 24 / 8
+2016,AMD,gpu_2016.txt,Radeon R7 435 OEM,Oland,"Jun 30th, 2016",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",920 MHz,1000 MHz,320 / 20 / 8
+2016,AMD,gpu_2016.txt,Radeon R7 450 OEM,Cape Verde,"Jun 30th, 2016",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",925 MHz,1125 MHz,512 / 32 / 16
+2016,AMD,gpu_2016.txt,Radeon R7 M440,Meso,"May 15th, 2016",PCIe 3.0 x8,"4 GB, DDR3, 64 bit",891 MHz,900 MHz,320 / 20 / 8
+2016,AMD,gpu_2016.txt,Radeon R7 M445,Meso,"May 15th, 2016",PCIe 3.0 x8,"4 GB, GDDR5, 64 bit",780 MHz,1000 MHz,320 / 20 / 8
+2016,AMD,gpu_2016.txt,Radeon R7 M460,Meso,"May 15th, 2016",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",730 MHz,1125 MHz,384 / 24 / 8
+2016,AMD,gpu_2016.txt,Radeon R7 M465,Litho,"May 15th, 2016",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",825 MHz,1000 MHz,384 / 24 / 8
+2016,AMD,gpu_2016.txt,Radeon R7 M465,Topaz,"May 15th, 2016",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",730 MHz,1125 MHz,384 / 24 / 8
+2016,AMD,gpu_2016.txt,Radeon R7 M465X,Tropo,"May 15th, 2016",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",900 MHz,1125 MHz,512 / 32 / 16
+2016,AMD,gpu_2016.txt,Radeon R8 M435DX,Jet,"Dec 12th, 2016",IGP,System Shared,955 MHz,System Shared,384 / 24 / 8
+2016,AMD,gpu_2016.txt,Radeon R8 M445DX,Meso,"May 15th, 2016",IGP,System Shared,780 MHz,System Shared,320 / 20 / 8
+2016,AMD,gpu_2016.txt,Radeon R9 M470,Emerald,"May 15th, 2016",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",900 MHz,1375 MHz,768 / 48 / 16
+2016,AMD,gpu_2016.txt,Radeon R9 M470X,Emerald,"May 15th, 2016",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1000 MHz,1200 MHz,896 / 56 / 16
+2016,AMD,gpu_2016.txt,Radeon R9 M485X,Amethyst,"May 15th, 2016",MXM-B (3.0),"8 GB, GDDR5, 256 bit",723 MHz,1250 MHz,2048 / 128 / 32
+2016,AMD,gpu_2016.txt,Radeon RX 455 OEM,Tobago,"Jun 30th, 2016",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1050 MHz,1625 MHz,768 / 48 / 16
+2016,AMD,gpu_2016.txt,Radeon RX 460,Baffin,"Aug 8th, 2016",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1090 MHz,1750 MHz,896 / 56 / 16
+2016,AMD,gpu_2016.txt,Radeon RX 460 Mobile,Baffin,"Aug 8th, 2016",MXM-B (3.0),"4 GB, GDDR5, 128 bit",1000 MHz,1250 MHz,896 / 56 / 16
+2016,AMD,gpu_2016.txt,Radeon RX 470,Ellesmere,"Aug 4th, 2016",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",926 MHz,1650 MHz,2048 / 128 / 32
+2016,AMD,gpu_2016.txt,Radeon RX 470 Mobile,Ellesmere,"Aug 4th, 2016",MXM-B (3.0),"8 GB, GDDR5, 256 bit",926 MHz,1750 MHz,2048 / 128 / 32
+2016,AMD,gpu_2016.txt,Radeon RX 470D,Ellesmere,"Oct 21st, 2016",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",926 MHz,1650 MHz,1792 / 112 / 32
+2016,AMD,gpu_2016.txt,Radeon RX 480,Ellesmere,"Jun 29th, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1120 MHz,2000 MHz,2304 / 144 / 32
+2016,AMD,gpu_2016.txt,Radeon RX 480 Mobile,Ellesmere,"Aug 4th, 2016",MXM-B (3.0),"8 GB, GDDR5, 256 bit",1000 MHz,2000 MHz,2304 / 144 / 32
+2016,AMD,gpu_2016.txt,Radeon RX 580 OEM,Ellesmere,"Jun 29th, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1120 MHz,2000 MHz,2304 / 144 / 32
+2016,AMD,gpu_2016.txt,Xbox One S GPU,Durango 2,"Aug 2nd, 2016",IGP,"8 GB, DDR3, 256 bit",914 MHz,1066 MHz,768 / 48 / 16
+2016,Intel,gpu_2016.txt,HD Graphics 505 Mobile,Apollo Lake GT1.5,"Sep 1st, 2016",Ring Bus,System Shared,200 MHz,System Shared,144 / 18 / 3
+2016,Intel,gpu_2016.txt,HD Graphics 610,Kaby Lake GT1,"Aug 30th, 2016",Ring Bus,System Shared,350 MHz,System Shared,96 / 12 / 2
+2016,Intel,gpu_2016.txt,HD Graphics 610 Mobile,Kaby Lake GT1,"Aug 30th, 2016",Ring Bus,System Shared,300 MHz,System Shared,96 / 12 / 2
+2016,Intel,gpu_2016.txt,HD Graphics 615 Mobile,Kaby Lake GT2,"Aug 30th, 2016",Ring Bus,System Shared,300 MHz,System Shared,192 / 24 / 3
+2016,Intel,gpu_2016.txt,HD Graphics 620 Mobile,Kaby Lake GT2,"Aug 30th, 2016",Ring Bus,System Shared,300 MHz,System Shared,192 / 24 / 3
+2016,Intel,gpu_2016.txt,HD Graphics 630,Kaby Lake GT2,"Aug 30th, 2016",Ring Bus,System Shared,350 MHz,System Shared,192 / 24 / 3
+2016,Intel,gpu_2016.txt,HD Graphics 630 Mobile,Kaby Lake GT2,"Aug 30th, 2016",Ring Bus,System Shared,350 MHz,System Shared,192 / 24 / 3
+2016,Intel,gpu_2016.txt,HD Graphics P630 Mobile,Kaby Lake GT2,"Aug 5th, 2016",Ring Bus,System Shared,350 MHz,System Shared,192 / 24 / 3
+2016,NVIDIA,gpu_2016.txt,GRID M10-8Q,GM107,"May 18th, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 128 bit",1033 MHz,1300 MHz,640 / 40 / 16
+2016,NVIDIA,gpu_2016.txt,GRID M3-3020,GM107,"May 18th, 2016",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1033 MHz,1300 MHz,640 / 40 / 16
+2016,NVIDIA,gpu_2016.txt,GRID M40,GM107,"May 18th, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 128 bit",1033 MHz,1300 MHz,384 / 32 / 16
+2016,Nvidia,gpu_2016.txt,GeForce 920MX,GM108S,"Mar 25th, 2016",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",965 MHz,900 MHz,256 / 24 / 8
+2016,Nvidia,gpu_2016.txt,GeForce 940MX,GM107,"Jun 28th, 2016",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",795 MHz,1253 MHz,512 / 32 / 8
+2016,Nvidia,gpu_2016.txt,GeForce 945M,GM108,"Apr 8th, 2016",PCIe 3.0 x8,"1024 MB, DDR3, 64 bit",1006 MHz,1001 MHz,384 / 24 / 8
+2016,Nvidia,gpu_2016.txt,GeForce GT 610 OEM,GF108,"Apr 2nd, 2016",PCIe 2.0 x16,"2 GB, DDR3, 64 bit",701 MHz,500 MHz,48 / 8 / 2
+2016,Nvidia,gpu_2016.txt,GeForce GTX 1050,GP107,"Oct 25th, 2016",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1354 MHz,1752 MHz,640 / 40 / 32
+2016,Nvidia,gpu_2016.txt,GeForce GTX 1050 Ti,GP107,"Oct 25th, 2016",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1291 MHz,1752 MHz,768 / 48 / 32
+2016,Nvidia,gpu_2016.txt,GeForce GTX 1060 3 GB,GP106,"Aug 18th, 2016",PCIe 3.0 x16,"3 GB, GDDR5, 192 bit",1506 MHz,2002 MHz,1152 / 72 / 48
+2016,Nvidia,gpu_2016.txt,GeForce GTX 1060 3 GB GP104,GP104,"Dec 25th, 2016",PCIe 3.0 x16,"3 GB, GDDR5, 192 bit",1506 MHz,2002 MHz,1152 / 72 / 48
+2016,Nvidia,gpu_2016.txt,GeForce GTX 1060 6 GB,GP106,"Jul 19th, 2016",PCIe 3.0 x16,"6 GB, GDDR5, 192 bit",1506 MHz,2002 MHz,1280 / 80 / 48
+2016,Nvidia,gpu_2016.txt,GeForce GTX 1060 Mobile,GP106,"Aug 15th, 2016",PCIe 3.0 x16,"6 GB, GDDR5, 192 bit",1405 MHz,2002 MHz,1280 / 80 / 48
+2016,Nvidia,gpu_2016.txt,GeForce GTX 1070,GP104,"Jun 10th, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1506 MHz,2002 MHz,1920 / 120 / 64
+2016,Nvidia,gpu_2016.txt,GeForce GTX 1070 Mobile,GP104B,"Aug 15th, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1443 MHz,2002 MHz,2048 / 128 / 64
+2016,Nvidia,gpu_2016.txt,GeForce GTX 1080,GP104,"May 27th, 2016",PCIe 3.0 x16,"8 GB, GDDR5X, 256 bit",1607 MHz,1251 MHz,2560 / 160 / 64
+2016,Nvidia,gpu_2016.txt,GeForce GTX 1080 Mobile,GP104B,"Aug 15th, 2016",PCIe 3.0 x16,"8 GB, GDDR5X, 256 bit",1557 MHz,1251 MHz,2560 / 160 / 64
+2016,Nvidia,gpu_2016.txt,GeForce GTX 760 OEM,GK104,"Nov 6th, 2016",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",993 MHz,1650 MHz,1344 / 112 / 32
+2016,Nvidia,gpu_2016.txt,GeForce GTX 980MX,GM204,"Jun 1st, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1050 MHz,1500 MHz,1664 / 104 / 64
+2016,Nvidia,gpu_2016.txt,Quadro GP100,GP100,"Oct 1st, 2016",PCIe 3.0 x16,"16 GB, HBM2, 4096 bit",1304 MHz,715 MHz,3584 / 224 / 96
+2016,Nvidia,gpu_2016.txt,Quadro M2000,GM206,"Apr 8th, 2016",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",796 MHz,1653 MHz,768 / 48 / 32
+2016,Nvidia,gpu_2016.txt,Quadro M3000 SE,GM204,"Oct 2nd, 2016",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",823 MHz,1253 MHz,1024 / 64 / 32
+2016,Nvidia,gpu_2016.txt,Quadro M500M,GM108S,"Apr 27th, 2016",MXM-A (3.0),"2 GB, DDR3, 64 bit",1029 MHz,900 MHz,384 / 16 / 8
+2016,Nvidia,gpu_2016.txt,Quadro M5500 Mobile,GM204,"Apr 8th, 2016",MXM-B (3.0),"8 GB, GDDR5, 256 bit",1140 MHz,1753 MHz,2048 / 128 / 64
+2016,Nvidia,gpu_2016.txt,Quadro M6000 24 GB,GM200,"Mar 5th, 2016",PCIe 3.0 x16,"24 GB, GDDR5, 384 bit",988 MHz,1653 MHz,3072 / 192 / 96
+2016,Nvidia,gpu_2016.txt,Quadro P5000,GP104,"Oct 1st, 2016",PCIe 3.0 x16,"16 GB, GDDR5X, 256 bit",1607 MHz,1127 MHz,2560 / 160 / 64
+2016,Nvidia,gpu_2016.txt,Quadro P6000,GP102,"Oct 1st, 2016",PCIe 3.0 x16,"24 GB, GDDR5X, 384 bit",1506 MHz,1127 MHz,3840 / 240 / 96
+2016,Nvidia,gpu_2016.txt,TITAN X Pascal,GP102,"Aug 2nd, 2016",PCIe 3.0 x16,"12 GB, GDDR5X, 384 bit",1417 MHz,1251 MHz,3584 / 224 / 96
+2016,Nvidia,gpu_2016.txt,Tesla M10,GM107,"May 18th, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 128 bit",1033 MHz,1300 MHz,640 / 40 / 16
+2016,Nvidia,gpu_2016.txt,Tesla P10,GP102,"Sep 13th, 2016",PCIe 3.0 x16,"24 GB, GDDR5X, 384 bit",1025 MHz,1808 MHz,3840 / 240 / 96
+2016,Nvidia,gpu_2016.txt,Tesla P100 DGXS,GP100,"Apr 5th, 2016",PCIe 3.0 x16,"16 GB, HBM2, 4096 bit",1328 MHz,715 MHz,3584 / 224 / 96
+2016,Nvidia,gpu_2016.txt,Tesla P100 PCIe 12 GB,GP100,"Jun 20th, 2016",PCIe 3.0 x16,"12 GB, HBM2, 3072 bit",1190 MHz,715 MHz,3584 / 224 / 96
+2016,Nvidia,gpu_2016.txt,Tesla P100 PCIe 16 GB,GP100,"Jun 20th, 2016",PCIe 3.0 x16,"16 GB, HBM2, 4096 bit",1190 MHz,715 MHz,3584 / 224 / 96
+2016,Nvidia,gpu_2016.txt,Tesla P100 SXM2,GP100,"Apr 5th, 2016",PCIe 3.0 x16,"16 GB, HBM2, 4096 bit",1328 MHz,715 MHz,3584 / 224 / 96
+2016,Nvidia,gpu_2016.txt,Tesla P4,GP104,"Sep 13th, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",886 MHz,1502 MHz,2560 / 160 / 64
+2016,Nvidia,gpu_2016.txt,Tesla P40,GP102,"Sep 13th, 2016",PCIe 3.0 x16,"24 GB, GDDR5, 384 bit",1303 MHz,1808 MHz,3840 / 240 / 96
+2017,AMD,gpu_2017.txt,P30PH,Polaris 20,Unknown,PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",1120 MHz,2100 MHz,2048 / 128 / 32
+2017,AMD,gpu_2017.txt,Radeon 520 Mobile DDR3,Banks,"Apr 18th, 2017",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",1030 MHz,1000 MHz,320 / 20 / 8
+2017,AMD,gpu_2017.txt,Radeon 520 Mobile GDDR5,Banks,"Apr 18th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1030 MHz,1125 MHz,320 / 20 / 8
+2017,AMD,gpu_2017.txt,Radeon 520 OEM,Banks,"Apr 18th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1030 MHz,1125 MHz,320 / 20 / 8
+2017,AMD,gpu_2017.txt,Radeon 530 Mobile DDR3,Weston,"Apr 18th, 2017",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",730 MHz,900 MHz,384 / 24 / 8
+2017,AMD,gpu_2017.txt,Radeon 530 Mobile GDDR5,Weston,"Apr 18th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",730 MHz,900 MHz,384 / 24 / 8
+2017,AMD,gpu_2017.txt,Radeon 530X Mobile,Polaris 24,"Apr 18th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",730 MHz,1125 MHz,384 / 24 / 8
+2017,AMD,gpu_2017.txt,Radeon 535 Mobile,Polaris 24,"Apr 18th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",730 MHz,1125 MHz,384 / 24 / 8
+2017,AMD,gpu_2017.txt,Radeon 540,Lexa,"Apr 20th, 2017",PCIe 3.0 x8,"1024 MB, GDDR5, 32 bit",1183 MHz,1500 MHz,384 / 24 / 16
+2017,AMD,gpu_2017.txt,Radeon 550,Lexa,"Apr 20th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1100 MHz,1750 MHz,512 / 32 / 16
+2017,AMD,gpu_2017.txt,Radeon E9171 MCM,Lexa,"Oct 3rd, 2017",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1124 MHz,1500 MHz,512 / 32 / 16
+2017,AMD,gpu_2017.txt,Radeon E9172 MXM,Lexa,"Oct 3rd, 2017",MXM-A (3.0),"2 GB, GDDR5, 64 bit",1124 MHz,1500 MHz,512 / 32 / 16
+2017,AMD,gpu_2017.txt,Radeon E9173 PCIe,Lexa,"Oct 3rd, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1124 MHz,1500 MHz,512 / 32 / 16
+2017,AMD,gpu_2017.txt,Radeon E9174 MXM,Lexa,"Oct 3rd, 2017",MXM-A (3.0),"4 GB, GDDR5, 128 bit",1124 MHz,1500 MHz,512 / 32 / 16
+2017,AMD,gpu_2017.txt,Radeon E9175 PCIe,Lexa,"Oct 3rd, 2017",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1124 MHz,1500 MHz,512 / 32 / 16
+2017,AMD,gpu_2017.txt,Radeon Instinct MI25,Vega 10,"Jun 27th, 2017",PCIe 3.0 x16,"16 GB, HBM2, 2048 bit",1400 MHz,852 MHz,4096 / 256 / 64
+2017,AMD,gpu_2017.txt,Radeon Pro 555,Polaris 21,"Jun 5th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",850 MHz,1275 MHz,768 / 48 / 16
+2017,AMD,gpu_2017.txt,Radeon Pro 560,Polaris 21,"Apr 18th, 2017",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",907 MHz,1270 MHz,1024 / 64 / 16
+2017,AMD,gpu_2017.txt,Radeon Pro 570,Ellesmere,"Jun 5th, 2017",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",1000 MHz,1695 MHz,1792 / 112 / 32
+2017,AMD,gpu_2017.txt,Radeon Pro 575,Ellesmere,"Jun 5th, 2017",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",1096 MHz,1695 MHz,2048 / 128 / 32
+2017,AMD,gpu_2017.txt,Radeon Pro 580,Ellesmere,"Jun 5th, 2017",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1100 MHz,1695 MHz,2304 / 144 / 32
+2017,AMD,gpu_2017.txt,Radeon Pro Duo Polaris,Ellesmere,"Apr 24th, 2017",PCIe 3.0 x16,"16 GB, GDDR5, 256 bit",1243 MHz,1750 MHz,2304 / 144 / 32
+2017,AMD,gpu_2017.txt,Radeon Pro SSG,Vega 10,"Aug 8th, 2017",PCIe 3.0 x16,"16 GB, HBM2, 2048 bit",1440 MHz,945 MHz,4096 / 256 / 64
+2017,AMD,gpu_2017.txt,Radeon Pro V320,Vega 10,"Jun 29th, 2017",PCIe 3.0 x16,"8 GB, HBM2, 2048 bit",852 MHz,945 MHz,3584 / 224 / 64
+2017,AMD,gpu_2017.txt,Radeon Pro Vega 56,Vega 10,"Aug 14th, 2017",PCIe 3.0 x16,"8 GB, HBM2, 2048 bit",1138 MHz,786 MHz,3584 / 224 / 64
+2017,AMD,gpu_2017.txt,Radeon Pro Vega 64,Vega 10,"Jun 27th, 2017",PCIe 3.0 x16,"16 GB, HBM2, 2048 bit",1250 MHz,786 MHz,4096 / 256 / 64
+2017,AMD,gpu_2017.txt,Radeon Pro WX 2100,Lexa,"Jun 4th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",925 MHz,1500 MHz,512 / 32 / 16
+2017,AMD,gpu_2017.txt,Radeon Pro WX 3100,Lexa,"Jun 12th, 2017",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",925 MHz,1500 MHz,512 / 32 / 16
+2017,AMD,gpu_2017.txt,Radeon Pro WX 4130 Mobile,Baffin,"Mar 1st, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1002 MHz,1500 MHz,640 / 40 / 16
+2017,AMD,gpu_2017.txt,Radeon Pro WX 4150 Mobile,Baffin,"Mar 1st, 2017",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1002 MHz,1500 MHz,896 / 56 / 16
+2017,AMD,gpu_2017.txt,Radeon Pro WX 4170 Mobile,Baffin,"Mar 1st, 2017",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1002 MHz,1500 MHz,1024 / 64 / 16
+2017,AMD,gpu_2017.txt,Radeon Pro WX 7100 Mobile,Ellesmere,"Mar 1st, 2017",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1188 MHz,1250 MHz,2304 / 144 / 32
+2017,AMD,gpu_2017.txt,Radeon Pro WX 7130 Mobile,Ellesmere,"Mar 1st, 2017",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1188 MHz,1250 MHz,2304 / 144 / 32
+2017,AMD,gpu_2017.txt,Radeon Pro WX 8100,Vega 10,"Dec 3rd, 2017",PCIe 3.0 x16,"8 GB, HBM2, 2048 bit",1200 MHz,1000 MHz,3584 / 224 / 64
+2017,AMD,gpu_2017.txt,Radeon Pro WX 9100,Vega 10,"Jul 10th, 2017",PCIe 3.0 x16,"16 GB, HBM2, 2048 bit",1200 MHz,945 MHz,4096 / 256 / 64
+2017,AMD,gpu_2017.txt,Radeon R5 Graphics,Wani,"Sep 5th, 2017",IGP,System Shared,200 MHz,System Shared,384 / 24 / 8
+2017,AMD,gpu_2017.txt,Radeon R8 M535DX,Meso,"Apr 18th, 2017",IGP,System Shared,780 MHz,System Shared,320 / 20 / 8
+2017,AMD,gpu_2017.txt,Radeon RX 460 1024SP,Baffin,"Jan 17th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1090 MHz,1750 MHz,1024 / 64 / 16
+2017,AMD,gpu_2017.txt,Radeon RX 540 Mobile,Lexa,"Nov 11th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1046 MHz,1250 MHz,512 / 32 / 16
+2017,AMD,gpu_2017.txt,Radeon RX 550,Lexa,"Apr 20th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1100 MHz,1750 MHz,512 / 32 / 16
+2017,AMD,gpu_2017.txt,Radeon RX 550 512SP,Baffin,"Oct 13th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1019 MHz,1500 MHz,512 / 32 / 16
+2017,AMD,gpu_2017.txt,Radeon RX 550 640SP,Baffin,"Oct 13th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1019 MHz,1500 MHz,640 / 40 / 16
+2017,AMD,gpu_2017.txt,Radeon RX 550 Mobile,Lexa,"Jul 2nd, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1100 MHz,1500 MHz,640 / 40 / 16
+2017,AMD,gpu_2017.txt,Radeon RX 560,Polaris 21,"Apr 18th, 2017",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1175 MHz,1750 MHz,1024 / 64 / 16
+2017,AMD,gpu_2017.txt,Radeon RX 560 896SP,Polaris 21,"Jul 4th, 2017",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1090 MHz,1750 MHz,896 / 56 / 16
+2017,AMD,gpu_2017.txt,Radeon RX 560D,Polaris 21,"Jul 4th, 2017",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1090 MHz,1500 MHz,896 / 56 / 16
+2017,AMD,gpu_2017.txt,Radeon RX 570,Polaris 20,"Apr 18th, 2017",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",1168 MHz,1750 MHz,2048 / 128 / 32
+2017,AMD,gpu_2017.txt,Radeon RX 570 Mobile,Ellesmere,"Dec 10th, 2017",MXM-B (3.0),"8 GB, GDDR5, 256 bit",926 MHz,1650 MHz,2048 / 128 / 32
+2017,AMD,gpu_2017.txt,Radeon RX 570 X2,Polaris 20,Unknown,PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1120 MHz,2100 MHz,2048 / 128 / 32
+2017,AMD,gpu_2017.txt,Radeon RX 580,Polaris 20,"Apr 18th, 2017",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1257 MHz,2000 MHz,2304 / 144 / 32
+2017,AMD,gpu_2017.txt,Radeon RX 580 Mobile,Polaris 20,"Apr 18th, 2017",MXM-B (3.0),"8 GB, GDDR5, 256 bit",1000 MHz,2000 MHz,2304 / 144 / 32
+2017,AMD,gpu_2017.txt,Radeon RX Vega 10 Mobile,Raven-M,"Oct 26th, 2017",IGP,System Shared,300 MHz,System Shared,640 / 40 / 8
+2017,AMD,gpu_2017.txt,Radeon RX Vega 56,Vega 10,"Aug 14th, 2017",PCIe 3.0 x16,"8 GB, HBM2, 2048 bit",1156 MHz,800 MHz,3584 / 224 / 64
+2017,AMD,gpu_2017.txt,Radeon RX Vega 64,Vega 10,"Aug 7th, 2017",PCIe 3.0 x16,"8 GB, HBM2, 2048 bit",1247 MHz,945 MHz,4096 / 256 / 64
+2017,AMD,gpu_2017.txt,Radeon RX Vega 64 Limited Edition,Vega 10,"Aug 7th, 2017",PCIe 3.0 x16,"8 GB, HBM2, 2048 bit",1247 MHz,945 MHz,4096 / 256 / 64
+2017,AMD,gpu_2017.txt,Radeon RX Vega 64 Liquid Cooling,Vega 10,"Aug 7th, 2017",PCIe 3.0 x16,"8 GB, HBM2, 2048 bit",1406 MHz,945 MHz,4096 / 256 / 64
+2017,AMD,gpu_2017.txt,Radeon Vega 8 Mobile,Raven-M,"Oct 26th, 2017",IGP,System Shared,300 MHz,System Shared,512 / 32 / 8
+2017,AMD,gpu_2017.txt,Radeon Vega Frontier Edition,Vega 10,"Jun 27th, 2017",PCIe 3.0 x16,"16 GB, HBM2, 2048 bit",1382 MHz,945 MHz,4096 / 256 / 64
+2017,AMD,gpu_2017.txt,Radeon Vega Frontier Edition Watercooled,Vega 10,"Jul 13th, 2017",PCIe 3.0 x16,"16 GB, HBM2, 2048 bit",1382 MHz,945 MHz,4096 / 256 / 64
+2017,AMD,gpu_2017.txt,Xbox One X GPU,Scorpio,"Nov 7th, 2017",IGP,"12 GB, GDDR5, 384 bit",1172 MHz,1700 MHz,2560 / 160 / 32
+2017,Intel,gpu_2017.txt,UHD Graphics 600 Mobile,Gemini Lake GT1,"Dec 11th, 2017",Ring Bus,System Shared,200 MHz,System Shared,96 / 12 / 2
+2017,Intel,gpu_2017.txt,UHD Graphics 605 Mobile,Gemini Lake GT1.5,"Dec 11th, 2017",Ring Bus,System Shared,200 MHz,System Shared,144 / 18 / 3
+2017,Intel,gpu_2017.txt,UHD Graphics 620 Mobile,Kaby Lake GT2,"Sep 1st, 2017",Ring Bus,System Shared,300 MHz,System Shared,192 / 24 / 3
+2017,Intel,gpu_2017.txt,UHD Graphics 630,Coffee Lake GT2,"Sep 1st, 2017",Ring Bus,System Shared,350 MHz,System Shared,192 / 24 / 3
+2017,Intel,gpu_2017.txt,UHD Graphics 630,Coffee Lake GT2,"Sep 1st, 2017",Ring Bus,System Shared,350 MHz,System Shared,184 / 23 / 3
+2017,Nvidia,gpu_2017.txt,GeForce GT 1030,GP108,"May 17th, 2017",PCIe 3.0 x4,"2 GB, GDDR5, 64 bit",1228 MHz,1502 MHz,384 / 24 / 16
+2017,Nvidia,gpu_2017.txt,GeForce GT 720 OEM,GK107,"Oct 29th, 2017",PCIe 3.0 x16,"1024 MB, DDR3, 128 bit",993 MHz,891 MHz,192 / 16 / 16
+2017,Nvidia,gpu_2017.txt,GeForce GTX 1050 Ti Mobile,GP106,"Feb 1st, 2017",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1493 MHz,1752 MHz,768 / 48 / 32
+2017,Nvidia,gpu_2017.txt,GeForce GTX 1060 5 GB,GP106,"Dec 26th, 2017",PCIe 3.0 x16,"5 GB, GDDR5, 160 bit",1506 MHz,2002 MHz,1280 / 80 / 40
+2017,Nvidia,gpu_2017.txt,GeForce GTX 1060 6 GB 9Gbps,GP106,"Apr 20th, 2017",PCIe 3.0 x16,"6 GB, GDDR5, 192 bit",1506 MHz,2257 MHz,1280 / 80 / 48
+2017,Nvidia,gpu_2017.txt,GeForce GTX 1060 Max-Q,GP106,"Jun 27th, 2017",PCIe 3.0 x16,"6 GB, GDDR5, 192 bit",1063 MHz,2002 MHz,1280 / 80 / 48
+2017,Nvidia,gpu_2017.txt,GeForce GTX 1070 Max-Q,GP104B,"Jun 27th, 2017",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1215 MHz,2002 MHz,2048 / 128 / 64
+2017,Nvidia,gpu_2017.txt,GeForce GTX 1070 Ti,GP104,"Nov 2nd, 2017",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1607 MHz,2002 MHz,2432 / 152 / 64
+2017,Nvidia,gpu_2017.txt,GeForce GTX 1080 11Gbps,GP104,"Apr 20th, 2017",PCIe 3.0 x16,"8 GB, GDDR5X, 256 bit",1607 MHz,1376 MHz,2560 / 160 / 64
+2017,Nvidia,gpu_2017.txt,GeForce GTX 1080 Max-Q,GP104B,"Jun 27th, 2017",PCIe 3.0 x16,"8 GB, GDDR5X, 256 bit",1277 MHz,1251 MHz,2560 / 160 / 64
+2017,Nvidia,gpu_2017.txt,GeForce GTX 1080 Ti,GP102,"Mar 10th, 2017",PCIe 3.0 x16,"11 GB, GDDR5X, 352 bit",1481 MHz,1376 MHz,3584 / 224 / 88
+2017,Nvidia,gpu_2017.txt,GeForce MX110,GM108S,"Nov 17th, 2017",PCIe 3.0 x4,"2 GB, GDDR5, 64 bit",978 MHz,1253 MHz,256 / 16 / 8
+2017,Nvidia,gpu_2017.txt,GeForce MX130,GM108S,"Nov 17th, 2017",PCIe 3.0 x4,"2 GB, GDDR5, 64 bit",1109 MHz,1253 MHz,384 / 24 / 8
+2017,Nvidia,gpu_2017.txt,GeForce MX150,GP108,"May 17th, 2017",PCIe 3.0 x4,"2 GB, GDDR5, 64 bit",937 MHz,1253 MHz,384 / 24 / 16
+2017,Nvidia,gpu_2017.txt,GeForce MX150,GP108,"May 17th, 2017",PCIe 3.0 x4,"2 GB, GDDR5, 64 bit",1469 MHz,1502 MHz,384 / 24 / 16
+2017,NVIDIA,gpu_2017.txt,P104-100,GP104,"Dec 12th, 2017",PCIe 1.0 x4,"4 GB, GDDR5X, 256 bit",1607 MHz,1251 MHz,1920 / 120 / 64
+2017,NVIDIA,gpu_2017.txt,P106-090,GP106,"Jul 31st, 2017",PCIe 1.0 x1,"3 GB, GDDR5, 192 bit",1354 MHz,2002 MHz,768 / 48 / 48
+2017,NVIDIA,gpu_2017.txt,P106-100,GP106,"Jun 19th, 2017",PCIe 1.0 x16,"6 GB, GDDR5, 192 bit",1506 MHz,2002 MHz,1280 / 80 / 48
+2017,Nvidia,gpu_2017.txt,Quadro M1200 Mobile,GM107,"Jan 11th, 2017",MXM-A (3.0),"4 GB, GDDR5, 128 bit",991 MHz,1253 MHz,640 / 40 / 16
+2017,Nvidia,gpu_2017.txt,Quadro M520 Mobile,GM108,"Jan 11th, 2017",MXM-A (3.0),"2 GB, GDDR5, 64 bit",965 MHz,1253 MHz,384 / 16 / 8
+2017,Nvidia,gpu_2017.txt,Quadro M620 Mobile,GM107,"Jan 11th, 2017",MXM-A (3.0),"2 GB, GDDR5, 128 bit",756 MHz,1253 MHz,512 / 32 / 16
+2017,Nvidia,gpu_2017.txt,Quadro P1000,GP107,"Feb 7th, 2017",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1354 MHz,1502 MHz,512 / 32 / 16
+2017,Nvidia,gpu_2017.txt,Quadro P1000,GP107,"Feb 7th, 2017",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1266 MHz,1253 MHz,640 / 40 / 32
+2017,Nvidia,gpu_2017.txt,Quadro P1000 Mobile,GP107,"Feb 7th, 2017",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1493 MHz,1502 MHz,512 / 32 / 16
+2017,Nvidia,gpu_2017.txt,Quadro P2000,GP106,"Feb 6th, 2017",PCIe 3.0 x16,"5 GB, GDDR5, 160 bit",1076 MHz,1752 MHz,1024 / 64 / 40
+2017,Nvidia,gpu_2017.txt,Quadro P2000 Mobile,GP107,"Feb 6th, 2017",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1557 MHz,1502 MHz,768 / 48 / 32
+2017,Nvidia,gpu_2017.txt,Quadro P400,GP107,"Feb 7th, 2017",PCIe 3.0 x16,"2 GB, GDDR5, 64 bit",1228 MHz,1002 MHz,256 / 16 / 16
+2017,Nvidia,gpu_2017.txt,Quadro P4000,GP104,"Feb 6th, 2017",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1202 MHz,1901 MHz,1792 / 112 / 64
+2017,Nvidia,gpu_2017.txt,Quadro P600,GP107,"Feb 7th, 2017",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1329 MHz,1002 MHz,384 / 24 / 16
+2017,Nvidia,gpu_2017.txt,Quadro P600 Mobile,GP107,"Feb 7th, 2017",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1430 MHz,1252 MHz,384 / 24 / 16
+2017,NVIDIA,gpu_2017.txt,Switch GPU 20nm,GM20B,"Mar 17th, 2017",IGP,"4 GB, DDR4, 64 bit",384 MHz,1600 MHz,256 / 16 / 16
+2017,Nvidia,gpu_2017.txt,TITAN V,GV100,"Dec 7th, 2017",PCIe 3.0 x16,"12 GB, HBM2, 3072 bit",1200 MHz,848 MHz,5120 / 320 / 96
+2017,Nvidia,gpu_2017.txt,TITAN Xp,GP102,"Apr 6th, 2017",PCIe 3.0 x16,"12 GB, GDDR5X, 384 bit",1405 MHz,1426 MHz,3840 / 240 / 96
+2017,Nvidia,gpu_2017.txt,Tesla P6 Mobile,GP104,"Mar 24th, 2017",MXM-B (3.0),"16 GB, GDDR5, 256 bit",1012 MHz,1502 MHz,2048 / 128 / 64
+2017,Nvidia,gpu_2017.txt,Tesla V100 PCIe 16 GB,GV100,"Jun 21st, 2017",PCIe 3.0 x16,"16 GB, HBM2, 4096 bit",1245 MHz,876 MHz,5120 / 320 / 128
+2017,Nvidia,gpu_2017.txt,Tesla V100 SXM2 16 GB,GV100,"Jun 21st, 2017",PCIe 3.0 x16,"16 GB, HBM2, 4096 bit",1312 MHz,876 MHz,5120 / 320 / 128
+2018,AMD,gpu_2018.txt,Radeon 540X Mobile,Lexa,"Sep 5th, 2018",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",980 MHz,1500 MHz,512 / 32 / 16
+2018,AMD,gpu_2018.txt,Radeon 550X 640SP,Lexa,"Apr 11th, 2018",PCIe 3.0 x8,"4 GB, GDDR5, 64 bit",1019 MHz,1500 MHz,640 / 40 / 16
+2018,AMD,gpu_2018.txt,Radeon 550X Mobile,Polaris 23,"Apr 11th, 2018",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1082 MHz,1000 MHz,640 / 40 / 16
+2018,AMD,gpu_2018.txt,Radeon Instinct MI50,Vega 20,"Nov 18th, 2018",PCIe 4.0 x16,"16 GB, HBM2, 4096 bit",1200 MHz,1000 MHz,3840 / 240 / 64
+2018,AMD,gpu_2018.txt,Radeon Instinct MI60,Vega 20,"Nov 18th, 2018",PCIe 4.0 x16,"32 GB, HBM2, 4096 bit",1200 MHz,1000 MHz,4096 / 256 / 64
+2018,AMD,gpu_2018.txt,Radeon Pro 555X,Polaris 21,"Jul 16th, 2018",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",907 MHz,1470 MHz,768 / 48 / 16
+2018,AMD,gpu_2018.txt,Radeon Pro 560X,Polaris 21,"Jul 16th, 2018",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1004 MHz,1470 MHz,1024 / 64 / 16
+2018,AMD,gpu_2018.txt,Radeon Pro V340 16 GB,Vega 10,"Aug 26th, 2018",PCIe 3.0 x16,"16 GB, HBM2, 2048 bit",852 MHz,945 MHz,3584 / 224 / 64
+2018,AMD,gpu_2018.txt,Radeon Pro V340 8 GB,Vega 10,"Aug 26th, 2018",PCIe 3.0 x16,"8 GB, HBM2, 2048 bit",852 MHz,945 MHz,3584 / 224 / 64
+2018,AMD,gpu_2018.txt,Radeon Pro V420,Vega 20,Never Released,PCIe 4.0 x16,"32 GB, HBM2, 4096 bit",800 MHz,800 MHz,4096 / 256 / 64
+2018,AMD,gpu_2018.txt,Radeon Pro Vega 16,Vega 12,"Nov 14th, 2018",PCIe 3.0 x16,"4 GB, HBM2, 1024 bit",815 MHz,1200 MHz,1024 / 64 / 32
+2018,AMD,gpu_2018.txt,Radeon Pro Vega 20,Vega 12,"Nov 14th, 2018",PCIe 3.0 x16,"4 GB, HBM2, 1024 bit",815 MHz,740 MHz,1280 / 80 / 32
+2018,AMD,gpu_2018.txt,Radeon Pro WX 8200,Vega 10,"Aug 13th, 2018",PCIe 3.0 x16,"8 GB, HBM2, 2048 bit",1200 MHz,1000 MHz,3584 / 224 / 64
+2018,AMD,gpu_2018.txt,Radeon Pro WX Vega M GL,Polaris 22,"Apr 24th, 2018",IGP,"4 GB, HBM2, 1024 bit",931 MHz,700 MHz,1280 / 80 / 32
+2018,AMD,gpu_2018.txt,Radeon RX 540X Mobile,Polaris 23,"Apr 11th, 2018",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1124 MHz,1500 MHz,512 / 32 / 16
+2018,AMD,gpu_2018.txt,Radeon RX 550X,Lexa,"Dec 16th, 2018",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1100 MHz,1500 MHz,512 / 32 / 16
+2018,AMD,gpu_2018.txt,Radeon RX 550X 640SP,Baffin,"Apr 11th, 2018",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1019 MHz,1500 MHz,640 / 40 / 16
+2018,AMD,gpu_2018.txt,Radeon RX 550X Mobile,Polaris 23,"Apr 11th, 2018",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1100 MHz,1500 MHz,640 / 40 / 16
+2018,AMD,gpu_2018.txt,Radeon RX 560DX,Polaris 21,"Apr 11th, 2018",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1090 MHz,1500 MHz,896 / 56 / 16
+2018,AMD,gpu_2018.txt,Radeon RX 560X,Polaris 21,"Apr 11th, 2018",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1175 MHz,1750 MHz,1024 / 64 / 16
+2018,AMD,gpu_2018.txt,Radeon RX 560X Mobile,Polaris 21,"Apr 11th, 2018",MXM-B (3.0),"4 GB, GDDR5, 128 bit",1275 MHz,1750 MHz,1024 / 64 / 16
+2018,AMD,gpu_2018.txt,Radeon RX 560X Mobile,Polaris 21,"Apr 11th, 2018",MXM-B (3.0),"2 GB, GDDR5, 128 bit",1175 MHz,1500 MHz,1024 / 64 / 16
+2018,AMD,gpu_2018.txt,Radeon RX 560X Mobile,Polaris 21,"Apr 11th, 2018",MXM-B (3.0),"4 GB, GDDR5, 128 bit",1275 MHz,1450 MHz,1024 / 64 / 16
+2018,AMD,gpu_2018.txt,Radeon RX 570X,Polaris 20,"Apr 11th, 2018",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1168 MHz,1750 MHz,2048 / 128 / 32
+2018,AMD,gpu_2018.txt,Radeon RX 580 2048SP,Polaris 20,"Oct 15th, 2018",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",1168 MHz,1750 MHz,2048 / 128 / 32
+2018,AMD,gpu_2018.txt,Radeon RX 580G,Polaris 20,"Oct 15th, 2018",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1257 MHz,2000 MHz,2304 / 144 / 32
+2018,AMD,gpu_2018.txt,Radeon RX 580X,Polaris 20,"Apr 11th, 2018",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1257 MHz,2000 MHz,2304 / 144 / 32
+2018,AMD,gpu_2018.txt,Radeon RX 580X Mobile,Polaris 20,"Apr 11th, 2018",MXM-B (3.0),"8 GB, GDDR5, 256 bit",1266 MHz,2000 MHz,2304 / 144 / 32
+2018,AMD,gpu_2018.txt,Radeon RX 590,Polaris 30,"Nov 15th, 2018",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1469 MHz,2000 MHz,2304 / 144 / 32
+2018,AMD,gpu_2018.txt,Radeon RX Vega 11,Raven,"May 10th, 2018",IGP,System Shared,300 MHz,System Shared,704 / 44 / 8
+2018,AMD,gpu_2018.txt,Radeon RX Vega 11,Raven,"Feb 12th, 2018",IGP,System Shared,300 MHz,System Shared,704 / 44 / 8
+2018,AMD,gpu_2018.txt,Radeon RX Vega 11 Embedded,Raven,"Apr 19th, 2018",IGP,System Shared,300 MHz,System Shared,704 / 44 / 8
+2018,AMD,gpu_2018.txt,Radeon RX Vega 56 Mobile,Vega 10,"Jun 1st, 2018",PCIe 3.0 x16,"8 GB, HBM2, 2048 bit",1138 MHz,800 MHz,3584 / 224 / 64
+2018,AMD,gpu_2018.txt,Radeon RX Vega M GH,Polaris 22,"Feb 1st, 2018",IGP,"4 GB, HBM2, 1024 bit",1063 MHz,800 MHz,1536 / 96 / 64
+2018,AMD,gpu_2018.txt,Radeon RX Vega M GL,Polaris 22,"Feb 1st, 2018",IGP,"4 GB, HBM2, 1024 bit",931 MHz,700 MHz,1280 / 80 / 32
+2018,AMD,gpu_2018.txt,Radeon Vega 11 Embedded,Raven,"Feb 13th, 2018",IGP,System Shared,300 MHz,System Shared,704 / 44 / 8
+2018,AMD,gpu_2018.txt,Radeon Vega 3 Embedded,Raven,"Jul 16th, 2018",IGP,System Shared,300 MHz,System Shared,192 / 12 / 4
+2018,AMD,gpu_2018.txt,Radeon Vega 3 Embedded,Raven,"Sep 6th, 2018",IGP,System Shared,300 MHz,System Shared,192 / 12 / 4
+2018,AMD,gpu_2018.txt,Radeon Vega 3 Embedded,Raven,"Feb 13th, 2018",IGP,System Shared,300 MHz,System Shared,192 / 12 / 4
+2018,AMD,gpu_2018.txt,Radeon Vega 3 Mobile,Raven-M,"Jan 8th, 2018",IGP,System Shared,300 MHz,System Shared,192 / 12 / 4
+2018,AMD,gpu_2018.txt,Radeon Vega 6 Embedded,Raven,"May 10th, 2018",IGP,System Shared,300 MHz,System Shared,384 / 24 / 8
+2018,AMD,gpu_2018.txt,Radeon Vega 6 Mobile,Raven-M,"Jan 8th, 2018",IGP,System Shared,300 MHz,System Shared,384 / 24 / 8
+2018,AMD,gpu_2018.txt,Radeon Vega 8,Raven,"Feb 12th, 2018",IGP,System Shared,300 MHz,System Shared,512 / 32 / 8
+2018,AMD,gpu_2018.txt,Radeon Vega 8 Embedded,Raven,"Feb 13th, 2018",IGP,System Shared,300 MHz,System Shared,512 / 32 / 8
+2018,AMD,gpu_2018.txt,Radeon Vega 8 Embedded,Raven,"Apr 19th, 2018",IGP,System Shared,300 MHz,System Shared,512 / 32 / 8
+2018,AMD,gpu_2018.txt,Zhongshan Subor Z+ GPU,Fenghuang,"Aug 3rd, 2018",IGP,"8 GB, GDDR5, 256 bit",1300 MHz,1200 MHz,1536 / 96 / 32
+2018,Intel,gpu_2018.txt,Iris Plus Graphics 655 Mobile,Coffee Lake GT3e,"Apr 3rd, 2018",Ring Bus,System Shared,300 MHz,System Shared,384 / 48 / 6
+2018,Intel,gpu_2018.txt,UHD Graphics 610,Coffee Lake GT1,"Apr 3rd, 2018",Ring Bus,System Shared,350 MHz,System Shared,96 / 12 / 2
+2018,Intel,gpu_2018.txt,UHD Graphics 610 Mobile,Coffee Lake GT1,"Apr 3rd, 2018",Ring Bus,System Shared,300 MHz,System Shared,96 / 12 / 2
+2018,Intel,gpu_2018.txt,UHD Graphics 615 Mobile,Amber Lake GT2,"Nov 7th, 2018",Ring Bus,System Shared,300 MHz,System Shared,192 / 24 / 3
+2018,Intel,gpu_2018.txt,UHD Graphics 617 Mobile,Amber Lake GT2,"Nov 7th, 2018",Ring Bus,System Shared,300 MHz,System Shared,192 / 24 / 3
+2018,Intel,gpu_2018.txt,UHD Graphics 620 Mobile,Whiskey Lake GT2,"Aug 28th, 2018",Ring Bus,System Shared,300 MHz,System Shared,192 / 24 / 3
+2018,Intel,gpu_2018.txt,UHD Graphics 630 Mobile,Coffee Lake GT2,"Apr 3rd, 2018",Ring Bus,System Shared,350 MHz,System Shared,192 / 24 / 3
+2018,Intel,gpu_2018.txt,UHD Graphics P630,Coffee Lake GT2,"May 24th, 2018",Ring Bus,System Shared,350 MHz,System Shared,192 / 24 / 3
+2018,Intel,gpu_2018.txt,UHD Graphics P630 Mobile,Coffee Lake GT2,"May 24th, 2018",Ring Bus,System Shared,350 MHz,System Shared,192 / 24 / 3
+2018,Nvidia,gpu_2018.txt,GeForce GT 1030 DDR4,GP108,"Mar 12th, 2018",PCIe 3.0 x4,"2 GB, DDR4, 64 bit",1152 MHz,1050 MHz,384 / 24 / 16
+2018,Nvidia,gpu_2018.txt,GeForce GT 1030 GK107,GK107,"Sep 30th, 2018",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1058 MHz,1250 MHz,384 / 32 / 16
+2018,Nvidia,gpu_2018.txt,GeForce GTX 1050 3 GB,GP107,"May 21st, 2018",PCIe 3.0 x16,"3 GB, GDDR5, 96 bit",1392 MHz,1752 MHz,768 / 48 / 24
+2018,Nvidia,gpu_2018.txt,GeForce GTX 1050 Max-Q,GP107,"Jan 3rd, 2018",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1000 MHz,1752 MHz,640 / 40 / 16
+2018,Nvidia,gpu_2018.txt,GeForce GTX 1060 6 GB GDDR5X,GP104,"Oct 18th, 2018",PCIe 3.0 x16,"6 GB, GDDR5X, 192 bit",1506 MHz,1001 MHz,1280 / 80 / 48
+2018,Nvidia,gpu_2018.txt,GeForce GTX 1060 6 GB GP104,GP104,"Mar 8th, 2018",PCIe 3.0 x16,"6 GB, GDDR5, 192 bit",1506 MHz,2002 MHz,1280 / 80 / 48
+2018,Nvidia,gpu_2018.txt,GeForce GTX 1060 6 GB Rev. 2,GP106,"Jan 5th, 2018",PCIe 3.0 x16,"6 GB, GDDR5, 192 bit",1506 MHz,2002 MHz,1280 / 80 / 48
+2018,Nvidia,gpu_2018.txt,GeForce GTX 1060 8 GB GDDR5X,GP104,Never Released,PCIe 3.0 x16,"8 GB, GDDR5X, 256 bit",1506 MHz,1001 MHz,1280 / 80 / 64
+2018,Nvidia,gpu_2018.txt,GeForce GTX 1070 GDDR5X,GP104,"Dec 4th, 2018",PCIe 3.0 x16,"8 GB, GDDR5X, 256 bit",1506 MHz,1001 MHz,1920 / 120 / 64
+2018,Nvidia,gpu_2018.txt,GeForce GTX 1080 Ti 10 GB,GP102,Never Released,PCIe 3.0 x16,"10 GB, GDDR5X, 320 bit",1582 MHz,1376 MHz,3200 / 200 / 80
+2018,Nvidia,gpu_2018.txt,GeForce GTX 1080 Ti 12 GB,GP102,Never Released,PCIe 3.0 x16,"12 GB, GDDR5X, 384 bit",1557 MHz,1376 MHz,3200 / 200 / 80
+2018,Nvidia,gpu_2018.txt,GeForce RTX 2070,TU106,"Oct 17th, 2018",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1410 MHz,1750 MHz,2304 / 144 / 64
+2018,Nvidia,gpu_2018.txt,GeForce RTX 2080,TU104,"Sep 20th, 2018",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1515 MHz,1750 MHz,2944 / 184 / 64
+2018,Nvidia,gpu_2018.txt,GeForce RTX 2080 Engineering Sample,TU104,Never Released,PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1515 MHz,1750 MHz,3072 / 192 / 64
+2018,Nvidia,gpu_2018.txt,GeForce RTX 2080 Ti,TU102,"Sep 20th, 2018",PCIe 3.0 x16,"11 GB, GDDR6, 352 bit",1350 MHz,1750 MHz,4352 / 272 / 88
+2018,Nvidia,gpu_2018.txt,Jetson AGX Xavier 16 GB,GV10B,Oct-18,PCIe 4.0 x4,"16 GB, LPDDR4X, 256 bit",854 MHz,2133 MHz,512 / 32 / 16
+2018,Nvidia,gpu_2018.txt,Jetson AGX Xavier 32 GB,GV10B,Oct-18,PCIe 4.0 x4,"32 GB, LPDDR4X, 256 bit",854 MHz,2133 MHz,512 / 32 / 16
+2018,NVIDIA,gpu_2018.txt,P102-100,GP102,"Feb 12th, 2018",PCIe 1.0 x4,"5 GB, GDDR5X, 320 bit",1582 MHz,1376 MHz,3200 / 200 / 80
+2018,NVIDIA,gpu_2018.txt,P102-101,GP102,2018,PCIe 3.0 x4,"10 GB, GDDR5, 320 bit",1557 MHz,2002 MHz,3200 / 200 / 80
+2018,NVIDIA,gpu_2018.txt,P104-101,GP104,"Jan 5th, 2018",PCIe 1.0 x4,"4 GB, GDDR5, 256 bit",1506 MHz,2002 MHz,2560 / 160 / 64
+2018,Nvidia,gpu_2018.txt,Quadro GV100,GV100,"Mar 27th, 2018",PCIe 3.0 x16,"32 GB, HBM2, 4096 bit",1132 MHz,848 MHz,5120 / 320 / 128
+2018,Nvidia,gpu_2018.txt,Quadro P3200 Max-Q,GP104,"Feb 21st, 2018",MXM-B (3.0),"6 GB, GDDR5, 192 bit",1139 MHz,1753 MHz,1792 / 112 / 64
+2018,Nvidia,gpu_2018.txt,Quadro P3200 Mobile,GP104,"Feb 21st, 2018",MXM-B (3.0),"6 GB, GDDR5, 192 bit",1328 MHz,1752 MHz,1792 / 112 / 64
+2018,Nvidia,gpu_2018.txt,Quadro P4200 Max-Q,GP104,"Feb 21st, 2018",MXM-B (3.0),"8 GB, GDDR5, 256 bit",1215 MHz,1753 MHz,2304 / 144 / 64
+2018,Nvidia,gpu_2018.txt,Quadro P4200 Mobile,GP104,"Feb 21st, 2018",MXM-B (3.0),"8 GB, GDDR5, 256 bit",1418 MHz,1753 MHz,2304 / 144 / 64
+2018,Nvidia,gpu_2018.txt,Quadro P500 Mobile,GP108,"Jan 5th, 2018",PCIe 3.0 x16,"2 GB, GDDR5, 64 bit",1455 MHz,1253 MHz,256 / 16 / 16
+2018,Nvidia,gpu_2018.txt,Quadro P5200 Max-Q,GP104,"Feb 21st, 2018",MXM-B (3.0),"16 GB, GDDR5, 256 bit",1316 MHz,1804 MHz,2560 / 160 / 64
+2018,Nvidia,gpu_2018.txt,Quadro P5200 Mobile,GP104,"Feb 21st, 2018",MXM-B (3.0),"16 GB, GDDR5, 256 bit",1582 MHz,1804 MHz,2560 / 160 / 64
+2018,Nvidia,gpu_2018.txt,Quadro P620,GP107,"Feb 1st, 2018",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1266 MHz,1252 MHz,512 / 32 / 16
+2018,Nvidia,gpu_2018.txt,Quadro P620 Mobile,GP107,"Feb 1st, 2018",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1177 MHz,1502 MHz,512 / 32 / 16
+2018,Nvidia,gpu_2018.txt,Quadro RTX 4000,TU104,"Nov 13th, 2018",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1005 MHz,1625 MHz,2304 / 144 / 64
+2018,Nvidia,gpu_2018.txt,Quadro RTX 5000,TU104,"Aug 13th, 2018",PCIe 3.0 x16,"16 GB, GDDR6, 256 bit",1620 MHz,1750 MHz,3072 / 192 / 64
+2018,Nvidia,gpu_2018.txt,Quadro RTX 6000,TU102,"Aug 13th, 2018",PCIe 3.0 x16,"24 GB, GDDR6, 384 bit",1440 MHz,1750 MHz,4608 / 288 / 96
+2018,Nvidia,gpu_2018.txt,Quadro RTX 6000 Passive,TU102,"Aug 13th, 2018",PCIe 3.0 x16,"24 GB, GDDR6, 384 bit",1305 MHz,1750 MHz,4608 / 288 / 96
+2018,Nvidia,gpu_2018.txt,Quadro RTX 8000,TU102,"Aug 13th, 2018",PCIe 3.0 x16,"48 GB, GDDR6, 384 bit",1395 MHz,1750 MHz,4608 / 288 / 96
+2018,Nvidia,gpu_2018.txt,Quadro RTX 8000 Passive,TU102,"Aug 13th, 2018",PCIe 3.0 x16,"48 GB, GDDR6, 384 bit",1230 MHz,1625 MHz,4608 / 288 / 96
+2018,Nvidia,gpu_2018.txt,TITAN RTX,TU102,"Dec 18th, 2018",PCIe 3.0 x16,"24 GB, GDDR6, 384 bit",1350 MHz,1750 MHz,4608 / 288 / 96
+2018,Nvidia,gpu_2018.txt,TITAN V CEO Edition,GV100,"Jun 21st, 2018",PCIe 3.0 x16,"32 GB, HBM2, 4096 bit",1200 MHz,848 MHz,5120 / 320 / 128
+2018,Nvidia,gpu_2018.txt,Tesla T4,TU104,"Sep 13th, 2018",PCIe 3.0 x16,"16 GB, GDDR6, 256 bit",585 MHz,1250 MHz,2560 / 160 / 64
+2018,Nvidia,gpu_2018.txt,Tesla T4G,TU104,"Sep 13th, 2018",PCIe 3.0 x16,"16 GB, GDDR6, 256 bit",585 MHz,1250 MHz,2560 / 160 / 64
+2018,Nvidia,gpu_2018.txt,Tesla V100 DGXS 16 GB,GV100,"Mar 27th, 2018",PCIe 3.0 x16,"16 GB, HBM2, 4096 bit",1354 MHz,876 MHz,5120 / 320 / 128
+2018,Nvidia,gpu_2018.txt,Tesla V100 DGXS 32 GB,GV100,"Mar 27th, 2018",PCIe 3.0 x16,"32 GB, HBM2, 4096 bit",1297 MHz,876 MHz,5120 / 320 / 128
+2018,Nvidia,gpu_2018.txt,Tesla V100 FHHL,GV100,"Mar 27th, 2018",PCIe 3.0 x16,"16 GB, HBM2, 4096 bit",937 MHz,808 MHz,5120 / 320 / 128
+2018,Nvidia,gpu_2018.txt,Tesla V100 PCIe 32 GB,GV100,"Mar 27th, 2018",PCIe 3.0 x16,"32 GB, HBM2, 4096 bit",1230 MHz,876 MHz,5120 / 320 / 128
+2018,Nvidia,gpu_2018.txt,Tesla V100 SXM2 32 GB,GV100,"Mar 27th, 2018",PCIe 3.0 x16,"32 GB, HBM2, 4096 bit",1290 MHz,877 MHz,5120 / 320 / 128
+2018,Nvidia,gpu_2018.txt,Tesla V100 SXM3 32 GB,GV100,"Mar 27th, 2018",PCIe 3.0 x16,"32 GB, HBM2, 4096 bit",1380 MHz,958 MHz,5120 / 320 / 128
+2019,AMD,gpu_2019.txt,Radeon 540 Mobile,Lexa,"Mar 26th, 2019",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1046 MHz,1300 MHz,512 / 32 / 16
+2019,AMD,gpu_2019.txt,Radeon 540X Mobile,Polaris 23,"Feb 11th, 2019",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",980 MHz,1000 MHz,512 / 32 / 16
+2019,AMD,gpu_2019.txt,Radeon 550X,Lexa,"Mar 27th, 2019",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1082 MHz,1750 MHz,512 / 32 / 16
+2019,AMD,gpu_2019.txt,Radeon 610 Mobile,Banks,"May 23rd, 2019",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1030 MHz,1000 MHz,320 / 20 / 8
+2019,AMD,gpu_2019.txt,Radeon 620 Mobile,Polaris 24,"May 13th, 2019",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",920 MHz,1000 MHz,384 / 24 / 8
+2019,AMD,gpu_2019.txt,Radeon 625 Mobile,Polaris 24,"May 13th, 2019",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",730 MHz,1125 MHz,384 / 24 / 8
+2019,AMD,gpu_2019.txt,Radeon 625 OEM,Polaris 24,"May 13th, 2019",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1024 MHz,1125 MHz,384 / 24 / 8
+2019,AMD,gpu_2019.txt,Radeon 630 Mobile,Polaris 23,"May 13th, 2019",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1082 MHz,1500 MHz,512 / 32 / 16
+2019,AMD,gpu_2019.txt,Radeon E9390 PCIe,Ellesmere,"Oct 15th, 2019",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",713 MHz,1250 MHz,1792 / 112 / 32
+2019,AMD,gpu_2019.txt,Radeon E9560 PCIe,Ellesmere,"Oct 15th, 2019",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1120 MHz,1750 MHz,2304 / 144 / 32
+2019,AMD,gpu_2019.txt,Radeon Pro 5300M,Navi 14,"Nov 13th, 2019",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",1000 MHz,1500 MHz,1280 / 80 / 32
+2019,AMD,gpu_2019.txt,Radeon Pro 5500M,Navi 14,"Nov 13th, 2019",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1000 MHz,1500 MHz,1536 / 96 / 32
+2019,AMD,gpu_2019.txt,Radeon Pro 570X,Ellesmere,"Mar 18th, 2019",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",1000 MHz,1695 MHz,1792 / 112 / 32
+2019,AMD,gpu_2019.txt,Radeon Pro 575X,Ellesmere,"Mar 18th, 2019",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",1096 MHz,1695 MHz,2048 / 128 / 32
+2019,AMD,gpu_2019.txt,Radeon Pro 580X,Ellesmere,"Mar 18th, 2019",Apple MPX,"8 GB, GDDR5, 256 bit",1100 MHz,1710 MHz,2304 / 144 / 32
+2019,AMD,gpu_2019.txt,Radeon Pro Vega 48,Vega 10,"Mar 19th, 2019",PCIe 3.0 x16,"8 GB, HBM2, 2048 bit",1200 MHz,786 MHz,3072 / 192 / 64
+2019,AMD,gpu_2019.txt,Radeon Pro Vega 64X,Vega 10,"Mar 19th, 2019",PCIe 3.0 x16,"16 GB, HBM2, 2048 bit",1250 MHz,1000 MHz,4096 / 256 / 64
+2019,AMD,gpu_2019.txt,Radeon Pro Vega II,Vega 20,"Jun 3rd, 2019",Apple MPX,"32 GB, HBM2, 4096 bit",1574 MHz,806 MHz,4096 / 256 / 64
+2019,AMD,gpu_2019.txt,Radeon Pro Vega II Duo,Vega 20,"Jun 3rd, 2019",Apple MPX,"32 GB, HBM2, 4096 bit",1400 MHz,1000 MHz,4096 / 256 / 64
+2019,AMD,gpu_2019.txt,Radeon Pro W5300M,Navi 14,"Nov 13th, 2019",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",1000 MHz,1500 MHz,1280 / 80 / 32
+2019,AMD,gpu_2019.txt,Radeon Pro W5500X,Navi 14,"Dec 11th, 2019",Apple MPX,"8 GB, GDDR6, 128 bit",1187 MHz,1750 MHz,1536 / 96 / 32
+2019,AMD,gpu_2019.txt,Radeon Pro W5700,Navi 10,"Nov 19th, 2019",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1400 MHz,1750 MHz,2304 / 144 / 64
+2019,AMD,gpu_2019.txt,Radeon Pro W5700X,Navi 10,"Dec 11th, 2019",Apple MPX,"16 GB, GDDR6, 256 bit",1243 MHz,1750 MHz,2560 / 160 / 64
+2019,AMD,gpu_2019.txt,Radeon Pro WX 3200,Polaris 23,"Jul 2nd, 2019",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1295 MHz,1500 MHz,640 / 32 / 16
+2019,AMD,gpu_2019.txt,Radeon Pro WX 3200 Mobile,Polaris 23,"Jul 2nd, 2019",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1082 MHz,1000 MHz,640 / 32 / 16
+2019,AMD,gpu_2019.txt,Radeon RX 5300 XT OEM,Navi 14,"Oct 7th, 2019",PCIe 4.0 x8,"4 GB, GDDR5, 128 bit",1670 MHz,1750 MHz,1408 / 88 / 32
+2019,AMD,gpu_2019.txt,Radeon RX 5300M,Navi 14,"Nov 13th, 2019",PCIe 4.0 x8,"3 GB, GDDR6, 96 bit",1000 MHz,1750 MHz,1408 / 88 / 32
+2019,AMD,gpu_2019.txt,Radeon RX 5500 OEM,Navi 14,"Oct 7th, 2019",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",1500 MHz,1750 MHz,1408 / 88 / 32
+2019,AMD,gpu_2019.txt,Radeon RX 5500 XT,Navi 14,"Dec 12th, 2019",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",1607 MHz,1750 MHz,1408 / 88 / 32
+2019,AMD,gpu_2019.txt,Radeon RX 5500M,Navi 14,"Oct 7th, 2019",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",1375 MHz,1750 MHz,1408 / 88 / 32
+2019,AMD,gpu_2019.txt,Radeon RX 560 XT,Ellesmere,"Mar 13th, 2019",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",1074 MHz,1750 MHz,1792 / 112 / 32
+2019,AMD,gpu_2019.txt,Radeon RX 5700,Navi 10,"Jul 7th, 2019",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1465 MHz,1750 MHz,2304 / 144 / 64
+2019,AMD,gpu_2019.txt,Radeon RX 5700 XT,Navi 10,"Jul 7th, 2019",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1605 MHz,1750 MHz,2560 / 160 / 64
+2019,AMD,gpu_2019.txt,Radeon RX 5700 XT 50th Anniversary,Navi 10,"Jul 7th, 2019",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1680 MHz,1750 MHz,2560 / 160 / 64
+2019,AMD,gpu_2019.txt,Radeon RX 640 Mobile,Polaris 23,"May 13th, 2019",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1082 MHz,1500 MHz,640 / 40 / 16
+2019,AMD,gpu_2019.txt,Radeon RX Vega 11,Picasso,"Jul 7th, 2019",IGP,System Shared,300 MHz,System Shared,704 / 44 / 8
+2019,AMD,gpu_2019.txt,Radeon RX Vega 11 Mobile,Picasso-M,"Oct 22nd, 2019",IGP,System Shared,300 MHz,System Shared,704 / 44 / 8
+2019,AMD,gpu_2019.txt,Radeon VII,Vega 20,"Feb 7th, 2019",PCIe 3.0 x16,"16 GB, HBM2, 4096 bit",1400 MHz,1000 MHz,3840 / 240 / 64
+2019,AMD,gpu_2019.txt,Radeon Vega 10 Mobile,Picasso-M,"Apr 8th, 2019",IGP,System Shared,300 MHz,System Shared,640 / 40 / 8
+2019,AMD,gpu_2019.txt,Radeon Vega 11,Picasso,"Sep 30th, 2019",IGP,System Shared,300 MHz,System Shared,704 / 44 / 8
+2019,AMD,gpu_2019.txt,Radeon Vega 3,Picasso,"Nov 20th, 2019",IGP,System Shared,300 MHz,System Shared,192 / 12 / 4
+2019,AMD,gpu_2019.txt,Radeon Vega 3 Embedded,Picasso-M,2019,IGP,System Shared,300 MHz,System Shared,192 / 12 / 4
+2019,AMD,gpu_2019.txt,Radeon Vega 3 Embedded,Picasso-M,2019,IGP,System Shared,300 MHz,System Shared,192 / 12 / 4
+2019,AMD,gpu_2019.txt,Radeon Vega 8,Picasso,"Jul 7th, 2019",IGP,System Shared,300 MHz,System Shared,512 / 32 / 8
+2019,AMD,gpu_2019.txt,Radeon Vega 8 Mobile,Picasso-M,"Apr 8th, 2019",IGP,System Shared,300 MHz,System Shared,512 / 32 / 8
+2019,AMD,gpu_2019.txt,Radeon Vega 9 Mobile,Picasso-M,"Oct 22nd, 2019",IGP,System Shared,300 MHz,System Shared,576 / 36 / 8
+2019,Intel,gpu_2019.txt,Iris Plus Graphics 645 Mobile,Coffee Lake GT3e,"Oct 7th, 2019",Ring Bus,System Shared,300 MHz,System Shared,384 / 48 / 6
+2019,Intel,gpu_2019.txt,Iris Plus Graphics G4 48EU Mobile,Ice Lake GT1,"May 29th, 2019",Ring Bus,System Shared,300 MHz,System Shared,384 / 24 / 8
+2019,Intel,gpu_2019.txt,UHD Graphics 24EU Mobile,Amber Lake GT2,"Aug 21st, 2019",Ring Bus,System Shared,300 MHz,System Shared,192 / 24 / 3
+2019,Intel,gpu_2019.txt,UHD Graphics 24EU Mobile,Comet Lake GT2,"Aug 21st, 2019",Ring Bus,System Shared,300 MHz,System Shared,192 / 24 / 3
+2019,Intel,gpu_2019.txt,UHD Graphics 24EU Mobile,Comet Lake GT1,"Aug 21st, 2019",Ring Bus,System Shared,300 MHz,System Shared,192 / 24 / 3
+2019,Intel,gpu_2019.txt,UHD Graphics G1 32EU Mobile,Ice Lake GT1,"May 29th, 2019",Ring Bus,System Shared,300 MHz,System Shared,256 / 16 / 8
+2019,Nvidia,gpu_2019.txt,GeForce GTX 1050 Mobile 3 GB,GP107,"Feb 1st, 2019",PCIe 3.0 x16,"3 GB, GDDR5, 96 bit",1366 MHz,1752 MHz,768 / 48 / 24
+2019,Nvidia,gpu_2019.txt,GeForce GTX 1650,TU117,"Apr 23rd, 2019",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1485 MHz,2001 MHz,896 / 56 / 32
+2019,Nvidia,gpu_2019.txt,GeForce GTX 1650 Max-Q,TU117,"Apr 23rd, 2019",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1020 MHz,1751 MHz,1024 / 64 / 32
+2019,Nvidia,gpu_2019.txt,GeForce GTX 1650 Mobile,TU117,"Apr 23rd, 2019",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1395 MHz,2001 MHz,1024 / 64 / 32
+2019,Nvidia,gpu_2019.txt,GeForce GTX 1650 SUPER,TU116,"Nov 22nd, 2019",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",1530 MHz,1500 MHz,1280 / 80 / 32
+2019,Nvidia,gpu_2019.txt,GeForce GTX 1660,TU116,"Mar 14th, 2019",PCIe 3.0 x16,"6 GB, GDDR5, 192 bit",1530 MHz,2001 MHz,1408 / 88 / 48
+2019,Nvidia,gpu_2019.txt,GeForce GTX 1660 SUPER,TU116,"Oct 29th, 2019",PCIe 3.0 x16,"6 GB, GDDR6, 192 bit",1530 MHz,1750 MHz,1408 / 88 / 48
+2019,Nvidia,gpu_2019.txt,GeForce GTX 1660 Ti,TU116,"Feb 22nd, 2019",PCIe 3.0 x16,"6 GB, GDDR6, 192 bit",1500 MHz,1500 MHz,1536 / 96 / 48
+2019,Nvidia,gpu_2019.txt,GeForce GTX 1660 Ti Max-Q,TU116,"Apr 23rd, 2019",PCIe 3.0 x16,"6 GB, GDDR6, 192 bit",1140 MHz,1500 MHz,1536 / 96 / 48
+2019,Nvidia,gpu_2019.txt,GeForce GTX 1660 Ti Mobile,TU116,"Apr 23rd, 2019",PCIe 3.0 x16,"6 GB, GDDR6, 192 bit",1455 MHz,1500 MHz,1536 / 96 / 48
+2019,Nvidia,gpu_2019.txt,GeForce MX150 GP107,GP107,"Feb 23rd, 2019",PCIe 3.0 x4,"2 GB, GDDR5, 64 bit",1469 MHz,1502 MHz,384 / 24 / 16
+2019,Nvidia,gpu_2019.txt,GeForce MX230,GP108,"Feb 21st, 2019",PCIe 3.0 x4,"2 GB, GDDR5, 64 bit",1519 MHz,1502 MHz,256 / 16 / 16
+2019,Nvidia,gpu_2019.txt,GeForce MX250,GP108B,"Feb 20th, 2019",PCIe 3.0 x4,"2 GB, GDDR5, 64 bit",937 MHz,1502 MHz,384 / 24 / 16
+2019,Nvidia,gpu_2019.txt,GeForce MX250,GP108,"Feb 21st, 2019",PCIe 3.0 x4,"2 GB, GDDR5, 64 bit",1519 MHz,1502 MHz,384 / 24 / 16
+2019,Nvidia,gpu_2019.txt,GeForce RTX 2060 Max-Q Refresh,TU106B,"Jan 29th, 2019",PCIe 3.0 x16,"6 GB, GDDR6, 192 bit",960 MHz,1353 MHz,1920 / 120 / 48
+2019,Nvidia,gpu_2019.txt,GeForce RTX 2060 Mobile,TU106,"Jan 29th, 2019",PCIe 3.0 x16,"6 GB, GDDR6, 192 bit",960 MHz,1750 MHz,1920 / 120 / 48
+2019,Nvidia,gpu_2019.txt,GeForce RTX 2060 Mobile Refresh,TU106B,"Jan 29th, 2019",PCIe 3.0 x16,"6 GB, GDDR6, 192 bit",1005 MHz,1375 MHz,1920 / 120 / 48
+2019,Nvidia,gpu_2019.txt,GeForce RTX 2060 SUPER,TU106,"Jul 9th, 2019",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1470 MHz,1750 MHz,2176 / 136 / 64
+2019,Nvidia,gpu_2019.txt,GeForce RTX 2060 SUPER Mobile,TU106,"Jul 9th, 2019",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1470 MHz,1750 MHz,2176 / 136 / 64
+2019,Nvidia,gpu_2019.txt,GeForce RTX 2070 Max-Q,TU106,"Jan 29th, 2019",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",885 MHz,1500 MHz,2304 / 144 / 64
+2019,Nvidia,gpu_2019.txt,GeForce RTX 2070 Mobile,TU106,"Jan 29th, 2019",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1215 MHz,1750 MHz,2304 / 144 / 64
+2019,Nvidia,gpu_2019.txt,GeForce RTX 2070 SUPER,TU104,"Jul 9th, 2019",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1605 MHz,1750 MHz,2560 / 160 / 64
+2019,Nvidia,gpu_2019.txt,GeForce RTX 2080 Max-Q,TU104,"Jan 29th, 2019",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",735 MHz,1500 MHz,2944 / 184 / 64
+2019,Nvidia,gpu_2019.txt,GeForce RTX 2080 Mobile,TU104,"Jan 29th, 2019",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1380 MHz,1750 MHz,2944 / 184 / 64
+2019,Nvidia,gpu_2019.txt,GeForce RTX 2080 SUPER,TU104,"Jul 23rd, 2019",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1650 MHz,1937 MHz,3072 / 192 / 64
+2019,Nvidia,gpu_2019.txt,GeForce RTX 2080 Ti 12 GB,TU102,Never Released,PCIe 3.0 x16,"12 GB, GDDR6, 384 bit",1350 MHz,2000 MHz,4608 / 288 / 96
+2019,Nvidia,gpu_2019.txt,Jetson Nano,GM20B,Mar-19,PCIe 2.0 x4,"4 GB, LPDDR4, 64 bit",640 MHz,1600 MHz,128 / 16 / 16
+2019,Nvidia,gpu_2019.txt,Quadro P2000 Mobile,GP106,"Feb 15th, 2019",PCIe 3.0 x16,"3.75 GB, GDDR5, 128 bit",1291 MHz,1502 MHz,1152 / 72 / 32
+2019,Nvidia,gpu_2019.txt,Quadro P2200,GP106,"Jun 10th, 2019",PCIe 3.0 x16,"5 GB, GDDR5X, 160 bit",1000 MHz,1251 MHz,1280 / 80 / 40
+2019,Nvidia,gpu_2019.txt,Quadro P520 Max-Q,GP108,"May 23rd, 2019",PCIe 3.0 x16,"4 GB, GDDR5, 64 bit",1303 MHz,1375 MHz,384 / 24 / 16
+2019,Nvidia,gpu_2019.txt,Quadro P520 Mobile,GP108,"May 23rd, 2019",PCIe 3.0 x16,"2 GB, GDDR5, 64 bit",1303 MHz,1502 MHz,384 / 24 / 16
+2019,Nvidia,gpu_2019.txt,Quadro RTX 3000 Max-Q,TU106,"May 27th, 2019",PCIe 3.0 x16,"6 GB, GDDR6, 192 bit",600 MHz,1500 MHz,1920 / 120 / 64
+2019,Nvidia,gpu_2019.txt,Quadro RTX 3000 Mobile,TU106,"May 27th, 2019",PCIe 3.0 x16,"6 GB, GDDR6, 192 bit",945 MHz,1750 MHz,1920 / 120 / 64
+2019,Nvidia,gpu_2019.txt,Quadro RTX 3000 Mobile Refresh,TU106,"May 27th, 2019",PCIe 3.0 x16,"6 GB, GDDR6, 192 bit",945 MHz,1750 MHz,1920 / 120 / 64
+2019,Nvidia,gpu_2019.txt,Quadro RTX 3000 X2 Mobile,TU106,"May 27th, 2019",PCIe 3.0 x16,"6 GB, GDDR6, 192 bit",945 MHz,1750 MHz,1920 / 120 / 64
+2019,Nvidia,gpu_2019.txt,Quadro RTX 4000 Max-Q,TU104,"May 27th, 2019",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",780 MHz,1500 MHz,2560 / 160 / 64
+2019,Nvidia,gpu_2019.txt,Quadro RTX 4000 Mobile,TU104,"May 27th, 2019",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1110 MHz,1750 MHz,2560 / 160 / 64
+2019,Nvidia,gpu_2019.txt,Quadro RTX 5000 Max-Q,TU104,"May 27th, 2019",PCIe 3.0 x16,"16 GB, GDDR6, 256 bit",600 MHz,1500 MHz,3072 / 192 / 64
+2019,Nvidia,gpu_2019.txt,Quadro RTX 5000 Mobile,TU104,"May 27th, 2019",PCIe 3.0 x16,"16 GB, GDDR6, 256 bit",1035 MHz,1750 MHz,3072 / 192 / 64
+2019,Nvidia,gpu_2019.txt,Quadro RTX 6000 Mobile,TU102,"Sep 4th, 2019",PCIe 3.0 x16,"24 GB, GDDR6, 384 bit",1275 MHz,1750 MHz,4608 / 288 / 96
+2019,Nvidia,gpu_2019.txt,Quadro T1000 Max-Q,TU117,"May 27th, 2019",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",765 MHz,1250 MHz,896 / 56 / 32
+2019,Nvidia,gpu_2019.txt,Quadro T1000 Mobile,TU117,"May 27th, 2019",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1395 MHz,2001 MHz,896 / 56 / 32
+2019,Nvidia,gpu_2019.txt,Quadro T2000 Max-Q,TU117,"May 27th, 2019",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1035 MHz,1250 MHz,1024 / 64 / 32
+2019,Nvidia,gpu_2019.txt,Quadro T2000 Mobile,TU117,"May 27th, 2019",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1575 MHz,2001 MHz,1024 / 64 / 32
+2019,NVIDIA,gpu_2019.txt,Switch GPU 16nm,GM20B,"Aug 16th, 2019",IGP,"4 GB, DDR4, 64 bit",384 MHz,1600 MHz,256 / 16 / 16
+2019,Nvidia,gpu_2019.txt,Tesla PG500-216,GV100,"Nov 26th, 2019",PCIe 3.0 x16,"32 GB, HBM2, 4096 bit",1260 MHz,1106 MHz,5120 / 320 / 128
+2019,Nvidia,gpu_2019.txt,Tesla PG503-216,GV100,"Nov 26th, 2019",PCIe 3.0 x16,"32 GB, HBM2, 4096 bit",1312 MHz,1106 MHz,5120 / 320 / 128
+2019,Nvidia,gpu_2019.txt,Tesla V100 SXM2 16 GB,GV100,"Nov 26th, 2019",PCIe 3.0 x16,"16 GB, HBM2, 4096 bit",1245 MHz,1106 MHz,5120 / 320 / 128
+2019,Nvidia,gpu_2019.txt,Tesla V100S PCIe 32 GB,GV100,"Nov 26th, 2019",PCIe 3.0 x16,"32 GB, HBM2, 4096 bit",1245 MHz,1107 MHz,5120 / 320 / 128
+2020,AMD,gpu_2020.txt,AeroBox GPU,Kryptos,"Mar 13th, 2020",IGP,"8 GB, DDR3, 256 bit",935 MHz,1066 MHz,896 / 56 / 16
+2020,AMD,gpu_2020.txt,Atari VCS 400 GPU,Banded Kestrel,"Dec 14th, 2020",IGP,"4 GB, DDR4, 128 bit",300 MHz,1200 MHz,192 / 12 / 4
+2020,AMD,gpu_2020.txt,Atari VCS 800 GPU,Banded Kestrel,"Dec 14th, 2020",IGP,"8 GB, DDR4, 128 bit",300 MHz,1200 MHz,192 / 12 / 4
+2020,AMD,gpu_2020.txt,Playstation 5 GPU,Oberon,"Nov 12th, 2020",IGP,"16 GB, GDDR6, 256 bit",2233 MHz,1750 MHz,2304 / 144 / 64
+2020,AMD,gpu_2020.txt,Radeon Graphics 320SP Mobile,Renoir-M,"Jan 6th, 2020",IGP,System Shared,400 MHz,System Shared,320 / 20 / 8
+2020,AMD,gpu_2020.txt,Radeon Graphics 384SP Mobile,Renoir-M,"Jan 6th, 2020",IGP,System Shared,400 MHz,System Shared,384 / 24 / 8
+2020,AMD,gpu_2020.txt,Radeon Graphics 448SP,Renoir,"Jan 6th, 2020",IGP,System Shared,400 MHz,System Shared,448 / 28 / 8
+2020,AMD,gpu_2020.txt,Radeon Graphics 448SP Mobile,Renoir-M,"Jan 6th, 2020",IGP,System Shared,400 MHz,System Shared,448 / 28 / 8
+2020,AMD,gpu_2020.txt,Radeon Graphics 512SP,Renoir,"Mar 7th, 2020",IGP,System Shared,400 MHz,System Shared,512 / 32 / 8
+2020,AMD,gpu_2020.txt,Radeon Graphics 512SP Mobile,Renoir-M,"Mar 7th, 2020",IGP,System Shared,400 MHz,System Shared,512 / 32 / 8
+2020,AMD,gpu_2020.txt,Radeon Instinct MI100,Arcturus,"Nov 16th, 2020",PCIe 4.0 x16,"32 GB, HBM2, 4096 bit",1000 MHz,1200 MHz,7680 / 480 / 64
+2020,AMD,gpu_2020.txt,Radeon Pro 5300,Navi 14,"Aug 4th, 2020",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",1000 MHz,1750 MHz,1280 / 80 / 32
+2020,AMD,gpu_2020.txt,Radeon Pro 5500 XT,Navi 14,"Aug 4th, 2020",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1187 MHz,1750 MHz,1536 / 96 / 32
+2020,AMD,gpu_2020.txt,Radeon Pro 5600M,Navi 12,"Jun 15th, 2020",PCIe 4.0 x16,"8 GB, HBM2, 2048 bit",822 MHz,770 MHz,2560 / 160 / 64
+2020,AMD,gpu_2020.txt,Radeon Pro 5700,Navi 10,"Aug 4th, 2020",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1243 MHz,1500 MHz,2304 / 144 / 64
+2020,AMD,gpu_2020.txt,Radeon Pro 5700 XT,Navi 10,"Aug 4th, 2020",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",1243 MHz,1500 MHz,2560 / 160 / 64
+2020,AMD,gpu_2020.txt,Radeon Pro V520,Navi 12,"Dec 1st, 2020",PCIe 4.0 x16,"8 GB, HBM2, 2048 bit",1000 MHz,1000 MHz,2304 / 144 / 64
+2020,AMD,gpu_2020.txt,Radeon Pro V540,Navi 12,Never Released,PCIe 4.0 x16,"8 GB, HBM2, 2048 bit",1000 MHz,1000 MHz,2304 / 144 / 64
+2020,AMD,gpu_2020.txt,Radeon Pro VII,Vega 20,"May 13th, 2020",PCIe 4.0 x16,"16 GB, HBM2, 4096 bit",1400 MHz,1000 MHz,3840 / 240 / 64
+2020,AMD,gpu_2020.txt,Radeon Pro W5500,Navi 14,"Feb 10th, 2020",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1744 MHz,1750 MHz,1408 / 88 / 32
+2020,AMD,gpu_2020.txt,Radeon Pro W5500M,Navi 14,"Feb 10th, 2020",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",1448 MHz,1750 MHz,1408 / 88 / 32
+2020,AMD,gpu_2020.txt,Radeon RX 5300 OEM,Navi 14,"May 28th, 2020",PCIe 4.0 x8,"3 GB, GDDR6, 96 bit",1327 MHz,1750 MHz,1408 / 88 / 32
+2020,AMD,gpu_2020.txt,Radeon RX 5600 OEM,Navi 10,"Jan 21st, 2020",PCIe 4.0 x16,"6 GB, GDDR6, 192 bit",1130 MHz,1500 MHz,2048 / 128 / 64
+2020,AMD,gpu_2020.txt,Radeon RX 5600 XT,Navi 10,"Jan 21st, 2020",PCIe 4.0 x16,"6 GB, GDDR6, 192 bit",1130 MHz,1500 MHz,2304 / 144 / 64
+2020,AMD,gpu_2020.txt,Radeon RX 5600M,Navi 10,"Jul 7th, 2020",PCIe 4.0 x16,"6 GB, GDDR6, 192 bit",1035 MHz,1500 MHz,2304 / 144 / 64
+2020,AMD,gpu_2020.txt,Radeon RX 5700M,Navi 10,"Mar 1st, 2020",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1465 MHz,1500 MHz,2304 / 144 / 64
+2020,AMD,gpu_2020.txt,Radeon RX 590 GME,Polaris 20,"Mar 9th, 2020",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1257 MHz,2000 MHz,2304 / 144 / 32
+2020,AMD,gpu_2020.txt,Radeon RX 640 OEM,Polaris 23,"Apr 9th, 2020",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1295 MHz,1500 MHz,640 / 40 / 16
+2020,AMD,gpu_2020.txt,Radeon RX 6800,Navi 21,"Oct 28th, 2020",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",1700 MHz,2000 MHz,3840 / 240 / 96
+2020,AMD,gpu_2020.txt,Radeon RX 6800 XT,Navi 21,"Oct 28th, 2020",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",1825 MHz,2000 MHz,4608 / 288 / 128
+2020,AMD,gpu_2020.txt,Radeon RX 6900 XT,Navi 21,"Oct 28th, 2020",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",1825 MHz,2000 MHz,5120 / 320 / 128
+2020,AMD,gpu_2020.txt,Radeon RX 6900 XTX,Navi 21,Never Released,PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",2075 MHz,2250 MHz,5120 / 320 / 128
+2020,AMD,gpu_2020.txt,Radeon Vega 3 Mobile,Picasso-M,"Jan 6th, 2020",IGP,System Shared,300 MHz,System Shared,192 / 12 / 4
+2020,AMD,gpu_2020.txt,Xbox Series S GPU,Lockhart,"Nov 10th, 2020",IGP,"8 GB, GDDR6, 128 bit",1565 MHz,1750 MHz,1280 / 80 / 32
+2020,AMD,gpu_2020.txt,Xbox Series X GPU,Scarlett,"Nov 10th, 2020",IGP,"10 GB, GDDR6, 320 bit",1825 MHz,1750 MHz,3328 / 208 / 64
+2020,Intel,gpu_2020.txt,H3C XG310,DG1,"Nov 11th, 2020",PCIe 3.0 x16,"8 GB, LPDDR4X, 128 bit",1050 MHz,2133 MHz,768 / 48 / 24
+2020,Intel,gpu_2020.txt,Iris Plus Graphics G7 64EU Mobile,Ice Lake GT2,"May 4th, 2020",Ring Bus,System Shared,300 MHz,System Shared,512 / 32 / 8
+2020,Intel,gpu_2020.txt,Iris Xe Graphics G4 48EU Mobile,Tiger Lake GT2,"Sep 2nd, 2020",Ring Bus,System Shared,300 MHz,System Shared,384 / 24 / 12
+2020,Intel,gpu_2020.txt,Iris Xe Graphics G7 80EU Mobile,Tiger Lake GT2,"Sep 2nd, 2020",Ring Bus,System Shared,300 MHz,System Shared,640 / 40 / 20
+2020,Intel,gpu_2020.txt,Iris Xe Graphics G7 96EU Mobile,Tiger Lake GT2,"Sep 2nd, 2020",Ring Bus,System Shared,300 MHz,System Shared,768 / 48 / 24
+2020,Intel,gpu_2020.txt,Iris Xe MAX Graphics,DG1,"Oct 31st, 2020",PCIe 4.0 x8,"4 GB, LPDDR4X, 128 bit",300 MHz,2133 MHz,768 / 48 / 24
+2020,Intel,gpu_2020.txt,UHD Graphics 16EU Mobile,Elkhart Lake GT1,"Sep 23rd, 2020",Ring Bus,System Shared,250 MHz,System Shared,128 / 8 / 4
+2020,Intel,gpu_2020.txt,UHD Graphics 32EU Mobile,Elkhart Lake GT1,"Sep 23rd, 2020",Ring Bus,System Shared,400 MHz,System Shared,256 / 16 / 8
+2020,Intel,gpu_2020.txt,UHD Graphics 610,Comet Lake GT1,"Apr 30th, 2020",Ring Bus,System Shared,350 MHz,System Shared,96 / 12 / 2
+2020,Intel,gpu_2020.txt,UHD Graphics 630,Comet Lake GT2,"Apr 30th, 2020",Ring Bus,System Shared,350 MHz,System Shared,184 / 23 / 3
+2020,Intel,gpu_2020.txt,UHD Graphics 630,Comet Lake GT2,"Apr 30th, 2020",Ring Bus,System Shared,350 MHz,System Shared,192 / 24 / 3
+2020,Intel,gpu_2020.txt,UHD Graphics G4 48EU Mobile,Lakefield GT1,"May 28th, 2020",Ring Bus,System Shared,200 MHz,System Shared,384 / 32 / 8
+2020,Intel,gpu_2020.txt,UHD Graphics G7 64EU Mobile,Lakefield GT2,"May 28th, 2020",Ring Bus,System Shared,200 MHz,System Shared,512 / 32 / 8
+2020,Intel,gpu_2020.txt,UHD Graphics P630,Comet Lake GT2,"May 13th, 2020",Ring Bus,System Shared,350 MHz,System Shared,192 / 24 / 3
+2020,Intel,gpu_2020.txt,UHD Graphics P630 Mobile,Comet Lake GT2,"May 13th, 2020",Ring Bus,System Shared,350 MHz,System Shared,192 / 24 / 3
+2020,Intel,gpu_2020.txt,Xe DG1,DG1,2020,PCIe 4.0 x8,"4 GB, LPDDR4X, 128 bit",900 MHz,2133 MHz,640 / 40 / 20
+2020,Intel,gpu_2020.txt,Xe DG1-SDV,DG1,Never Released,PCIe 4.0 x8,"8 GB, LPDDR4X, 128 bit",900 MHz,2133 MHz,768 / 48 / 24
+2020,NVIDIA,gpu_2020.txt,A100 PCIe 40 GB,GA100,"Jun 22nd, 2020",PCIe 4.0 x16,"40 GB, HBM2e, 5120 bit",765 MHz,1215 MHz,6912 / 432 / 160
+2020,NVIDIA,gpu_2020.txt,A100 SXM4 40 GB,GA100,"May 14th, 2020",PCIe 4.0 x16,"40 GB, HBM2e, 5120 bit",1095 MHz,1215 MHz,6912 / 432 / 160
+2020,NVIDIA,gpu_2020.txt,A100 SXM4 80 GB,GA100,"Nov 16th, 2020",PCIe 4.0 x16,"80 GB, HBM2e, 5120 bit",1275 MHz,1593 MHz,6912 / 432 / 160
+2020,NVIDIA,gpu_2020.txt,A40 PCIe,GA102,"Oct 5th, 2020",PCIe 4.0 x16,"48 GB, GDDR6, 384 bit",1305 MHz,1812 MHz,10752 / 336 / 112
+2020,NVIDIA,gpu_2020.txt,CMP 100HX-210,GV100,2020,PCIe 1.0 x1,"16 GB, HBM2, 4096 bit",555 MHz,810 MHz,5120 / 320 / 128
+2020,NVIDIA,gpu_2020.txt,DRIVE A100 PROD,GA100,"May 14th, 2020",PCIe 4.0 x16,"32 GB, HBM2e, 6144 bit",1065 MHz,1215 MHz,6912 / 432 / 192
+2020,NVIDIA,gpu_2020.txt,GRID A100A,GA100,"May 14th, 2020",PCIe 4.0 x16,"32 GB, HBM2e, 6144 bit",900 MHz,1215 MHz,6912 / 432 / 192
+2020,NVIDIA,gpu_2020.txt,GRID A100B,GA100,"May 14th, 2020",PCIe 4.0 x16,"48 GB, HBM2e, 6144 bit",900 MHz,1215 MHz,6912 / 432 / 192
+2020,Nvidia,gpu_2020.txt,GRID RTX T10-16,TU102,Unknown,PCIe 3.0 x16,"16 GB, GDDR6, 384 bit",1065 MHz,1575 MHz,3584 / 224 / 64
+2020,Nvidia,gpu_2020.txt,GRID RTX T10-2,TU102,2020,PCIe 3.0 x16,"2 GB, GDDR6, 384 bit",1065 MHz,1750 MHz,3584 / 224 / 64
+2020,Nvidia,gpu_2020.txt,GRID RTX T10-4,TU102,2020,PCIe 3.0 x16,"4 GB, GDDR6, 384 bit",1065 MHz,1750 MHz,3584 / 224 / 64
+2020,Nvidia,gpu_2020.txt,GRID RTX T10-8,TU102,Unknown,PCIe 3.0 x16,"8 GB, GDDR6, 384 bit",1065 MHz,1750 MHz,3584 / 224 / 64
+2020,Nvidia,gpu_2020.txt,GeForce GTX 1650 GDDR6,TU117,"Apr 1st, 2020",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",1410 MHz,1500 MHz,896 / 56 / 32
+2020,Nvidia,gpu_2020.txt,GeForce GTX 1650 Max-Q,TU117,"Apr 15th, 2020",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",930 MHz,1250 MHz,1024 / 64 / 32
+2020,Nvidia,gpu_2020.txt,GeForce GTX 1650 Mobile,TU117,"Apr 15th, 2020",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",1380 MHz,1500 MHz,1024 / 64 / 32
+2020,Nvidia,gpu_2020.txt,GeForce GTX 1650 TU106,TU106,"Jun 18th, 2020",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",1410 MHz,1500 MHz,896 / 56 / 32
+2020,Nvidia,gpu_2020.txt,GeForce GTX 1650 TU116,TU116,"Jul 7th, 2020",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",1410 MHz,1500 MHz,896 / 56 / 32
+2020,Nvidia,gpu_2020.txt,GeForce GTX 1650 Ti Max-Q,TU117,"Apr 2nd, 2020",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",1035 MHz,1250 MHz,1024 / 64 / 32
+2020,Nvidia,gpu_2020.txt,GeForce GTX 1650 Ti Mobile,TU116,"Apr 23rd, 2020",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",1350 MHz,1500 MHz,1024 / 64 / 32
+2020,Nvidia,gpu_2020.txt,GeForce GTX 1650 Ti Mobile,TU117,"Apr 2nd, 2020",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",1350 MHz,1500 MHz,1024 / 64 / 32
+2020,Nvidia,gpu_2020.txt,GeForce MX330,GP108B,"Feb 10th, 2020",PCIe 3.0 x4,"2 GB, GDDR5, 64 bit",1531 MHz,1752 MHz,384 / 24 / 16
+2020,Nvidia,gpu_2020.txt,GeForce MX350,GP107S,"Feb 10th, 2020",PCIe 3.0 x4,"2 GB, GDDR5, 64 bit",1354 MHz,1752 MHz,640 / 32 / 16
+2020,Nvidia,gpu_2020.txt,GeForce MX350,GP107S,"Feb 10th, 2020",PCIe 3.0 x4,"2 GB, GDDR5, 64 bit",747 MHz,1752 MHz,640 / 32 / 16
+2020,Nvidia,gpu_2020.txt,GeForce MX450 12W,TU117S,"Aug 15th, 2020",PCIe 4.0 x4,"2 GB, GDDR6, 64 bit",720 MHz,1250 MHz,896 / 56 / 32
+2020,Nvidia,gpu_2020.txt,GeForce MX450 30.5W 10Gbps,TU117S,"Aug 25th, 2020",PCIe 4.0 x4,"2 GB, GDDR6, 64 bit",1395 MHz,1250 MHz,896 / 56 / 32
+2020,Nvidia,gpu_2020.txt,GeForce MX450 30.5W 8Gbps,TU117S,"Aug 25th, 2020",PCIe 4.0 x4,"2 GB, GDDR5, 64 bit",1035 MHz,2000 MHz,896 / 56 / 32
+2020,Nvidia,gpu_2020.txt,GeForce RTX 2060 Max-Q,TU106,"Jan 29th, 2020",PCIe 3.0 x16,"6 GB, GDDR6, 192 bit",975 MHz,1375 MHz,1920 / 120 / 48
+2020,Nvidia,gpu_2020.txt,GeForce RTX 2060 TU104,TU104,"Jan 10th, 2020",PCIe 3.0 x16,"6 GB, GDDR6, 192 bit",1365 MHz,1750 MHz,1920 / 120 / 48
+2020,Nvidia,gpu_2020.txt,GeForce RTX 2070 Max-Q Refresh,TU106B,"Mar 4th, 2020",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",900 MHz,1375 MHz,2304 / 144 / 64
+2020,Nvidia,gpu_2020.txt,GeForce RTX 2070 Mobile Refresh,TU106B,"Mar 4th, 2020",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1260 MHz,1375 MHz,2304 / 144 / 64
+2020,Nvidia,gpu_2020.txt,GeForce RTX 2070 SUPER Max-Q,TU104,"Apr 2nd, 2020",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",930 MHz,1375 MHz,2560 / 160 / 64
+2020,Nvidia,gpu_2020.txt,GeForce RTX 2070 SUPER Mobile,TU104,"Apr 2nd, 2020",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1140 MHz,1750 MHz,2560 / 160 / 64
+2020,Nvidia,gpu_2020.txt,GeForce RTX 2080 SUPER Max-Q,TU104,"Apr 2nd, 2020",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",735 MHz,1375 MHz,3072 / 192 / 64
+2020,Nvidia,gpu_2020.txt,GeForce RTX 2080 SUPER Mobile,TU104,"Apr 2nd, 2020",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1365 MHz,1750 MHz,3072 / 192 / 64
+2020,Nvidia,gpu_2020.txt,GeForce RTX 3060 Ti,GA104,"Dec 1st, 2020",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1410 MHz,1750 MHz,4864 / 152 / 80
+2020,Nvidia,gpu_2020.txt,GeForce RTX 3070,GA104,"Sep 1st, 2020",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1500 MHz,1750 MHz,5888 / 184 / 96
+2020,Nvidia,gpu_2020.txt,GeForce RTX 3080,GA102,"Sep 1st, 2020",PCIe 4.0 x16,"10 GB, GDDR6X, 320 bit",1440 MHz,1188 MHz,8704 / 272 / 96
+2020,Nvidia,gpu_2020.txt,GeForce RTX 3090,GA102,"Sep 1st, 2020",PCIe 4.0 x16,"24 GB, GDDR6X, 384 bit",1395 MHz,1219 MHz,10496 / 328 / 112
+2020,Nvidia,gpu_2020.txt,Jetson Xavier NX 16 GB,GV10B,"May 14th, 2020",PCIe 4.0 x4,"16 GB, LPDDR4X, 128 bit",854 MHz,1866 MHz,384 / 24 / 16
+2020,Nvidia,gpu_2020.txt,Jetson Xavier NX 8 GB,GV10B,"May 14th, 2020",PCIe 4.0 x4,"8 GB, LPDDR4X, 128 bit",854 MHz,1866 MHz,384 / 24 / 16
+2020,Nvidia,gpu_2020.txt,Quadro RTX 5000 Mobile Refresh,TU104B,"Jun 8th, 2020",PCIe 3.0 x16,"16 GB, GDDR6, 256 bit",1035 MHz,1750 MHz,3072 / 192 / 64
+2020,Nvidia,gpu_2020.txt,Quadro RTX 5000 X2 Mobile,TU104,"Jun 8th, 2020",PCIe 3.0 x16,"16 GB, GDDR6, 256 bit",1035 MHz,1750 MHz,3072 / 192 / 64
+2020,Nvidia,gpu_2020.txt,Quadro T1000 Mobile GDDR6,TU117,"Jun 8th, 2020",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",1395 MHz,1500 MHz,896 / 56 / 32
+2020,Nvidia,gpu_2020.txt,RTX A6000,GA102,"Oct 5th, 2020",PCIe 4.0 x16,"48 GB, GDDR6, 384 bit",1410 MHz,2000 MHz,10752 / 336 / 112
+2020,NVIDIA,gpu_2020.txt,T500 Max-Q,TU117,"Dec 2nd, 2020",PCIe 3.0 x16,"4 GB, GDDR6, 64 bit",795 MHz,1250 MHz,896 / 56 / 32
+2020,NVIDIA,gpu_2020.txt,T500 Mobile,TU117,"Dec 2nd, 2020",PCIe 3.0 x16,"4 GB, GDDR6, 64 bit",1185 MHz,1250 MHz,896 / 56 / 32
+2020,Nvidia,gpu_2020.txt,Tesla T10 16 GB,TU102,2020,PCIe 3.0 x16,"16 GB, GDDR6, 256 bit",1065 MHz,1575 MHz,3584 / 224 / 64
+2021,AMD,gpu_2021.txt,Radeon Graphics 384SP,Cezanne,"Apr 13th, 2021",IGP,System Shared,300 MHz,System Shared,384 / 24 / 8
+2021,AMD,gpu_2021.txt,Radeon Graphics 384SP Mobile,Cezanne-M,"Apr 13th, 2021",IGP,System Shared,300 MHz,System Shared,384 / 24 / 8
+2021,AMD,gpu_2021.txt,Radeon Graphics 448SP,Cezanne,"Apr 13th, 2021",IGP,System Shared,300 MHz,System Shared,448 / 28 / 8
+2021,AMD,gpu_2021.txt,Radeon Graphics 448SP Mobile,Cezanne-M,"Apr 13th, 2021",IGP,System Shared,300 MHz,System Shared,448 / 28 / 8
+2021,AMD,gpu_2021.txt,Radeon Instinct MI200,Aldebaran,Dec-21,PCIe 4.0 x16,"64 GB, HBM2e, 4096 bit",1000 MHz,1600 MHz,6656 / 416 / 0
+2021,AMD,gpu_2021.txt,Radeon Instinct MI210,Aldebaran,Dec-21,PCIe 4.0 x16,"64 GB, HBM2e, 4096 bit",1000 MHz,1600 MHz,6656 / 416 / 0
+2021,AMD,gpu_2021.txt,Radeon Instinct MI250,Aldebaran,"Nov 8th, 2021",PCIe 4.0 x16,"128 GB, HBM2e, 8192 bit",1000 MHz,1600 MHz,13312 / 832 / 0
+2021,AMD,gpu_2021.txt,Radeon Instinct MI250X,Aldebaran,"Nov 8th, 2021",PCIe 4.0 x16,"128 GB, HBM2e, 8192 bit",1000 MHz,1600 MHz,14080 / 880 / 0
+2021,AMD,gpu_2021.txt,Radeon PRO V620,Navi 21,"Nov 4th, 2021",PCIe 4.0 x16,"32 GB, GDDR6, 256 bit",1825 MHz,2000 MHz,4608 / 288 / 128
+2021,AMD,gpu_2021.txt,Radeon PRO W6600,Navi 23,"Jun 8th, 2021",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",2331 MHz,1750 MHz,1792 / 112 / 64
+2021,AMD,gpu_2021.txt,Radeon PRO W6800,Navi 21,"Jun 8th, 2021",PCIe 4.0 x16,"32 GB, GDDR6, 256 bit",2075 MHz,2000 MHz,3840 / 240 / 96
+2021,AMD,gpu_2021.txt,Radeon Pro W6600M,Navi 23,"Jun 8th, 2021",PCIe 4.0 x16,"8 GB, GDDR6, 128 bit",1224 MHz,1750 MHz,1792 / 112 / 64
+2021,AMD,gpu_2021.txt,Radeon Pro W6600X,Navi 23,"Aug 3rd, 2021",Apple MPX,"8 GB, GDDR6, 128 bit",2068 MHz,2000 MHz,2048 / 128 / 64
+2021,AMD,gpu_2021.txt,Radeon Pro W6800X,Navi 21,"Aug 3rd, 2021",Apple MPX,"32 GB, GDDR6, 256 bit",1800 MHz,2000 MHz,3840 / 240 / 96
+2021,AMD,gpu_2021.txt,Radeon Pro W6800X Duo,Navi 21,"Aug 3rd, 2021",Apple MPX,"32 GB, GDDR6, 256 bit",1800 MHz,2000 MHz,3840 / 240 / 96
+2021,AMD,gpu_2021.txt,Radeon Pro W6900X,Navi 21,"Aug 3rd, 2021",Apple MPX,"32 GB, GDDR6, 256 bit",1825 MHz,2000 MHz,5120 / 320 / 128
+2021,AMD,gpu_2021.txt,Radeon RX 6600,Navi 23,"Oct 13th, 2021",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1626 MHz,1750 MHz,1792 / 112 / 64
+2021,AMD,gpu_2021.txt,Radeon RX 6600 XT,Navi 23,"Jul 30th, 2021",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1968 MHz,2000 MHz,2048 / 128 / 64
+2021,AMD,gpu_2021.txt,Radeon RX 6600M,Navi 23,"May 31st, 2021",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",2068 MHz,1750 MHz,1792 / 112 / 64
+2021,AMD,gpu_2021.txt,Radeon RX 6700,Navi 22,"Jun 9th, 2021",PCIe 4.0 x16,"10 GB, GDDR6, 160 bit",1941 MHz,2000 MHz,2304 / 144 / 64
+2021,AMD,gpu_2021.txt,Radeon RX 6700 XT,Navi 22,"Mar 3rd, 2021",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",2321 MHz,2000 MHz,2560 / 160 / 64
+2021,AMD,gpu_2021.txt,Radeon RX 6700M,Navi 22,"May 31st, 2021",PCIe 4.0 x16,"10 GB, GDDR6, 160 bit",1489 MHz,2000 MHz,2304 / 144 / 64
+2021,AMD,gpu_2021.txt,Radeon RX 6800M,Navi 22,"May 31st, 2021",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",2116 MHz,2000 MHz,2560 / 160 / 64
+2021,Intel,gpu_2021.txt,Arctic Sound 1T,Arctic Sound,2021,PCIe 4.0 x16,"16 GB, HBM2e, 4096 bit",900 MHz,1200 MHz,6144 / 192 / 96
+2021,Intel,gpu_2021.txt,Arctic Sound 2T,Arctic Sound,2021,PCIe 4.0 x16,"16 GB, HBM2e, 4096 bit",900 MHz,1200 MHz,7680 / 240 / 120
+2021,Intel,gpu_2021.txt,UHD Graphics 16EU,Rocket Lake,2021,Ring Bus,System Shared,300 MHz,System Shared,128 / 8 / 8
+2021,Intel,gpu_2021.txt,UHD Graphics 16EU Mobile,Tiger Lake GT1,2021,Ring Bus,System Shared,350 MHz,System Shared,128 / 8 / 4
+2021,Intel,gpu_2021.txt,UHD Graphics 32EU Mobile,Tiger Lake GT1,2021,Ring Bus,System Shared,350 MHz,System Shared,256 / 16 / 8
+2021,Intel,gpu_2021.txt,UHD Graphics 730,Rocket Lake,"Mar 30th, 2021",Ring Bus,System Shared,300 MHz,System Shared,192 / 12 / 8
+2021,Intel,gpu_2021.txt,UHD Graphics 750,Rocket Lake,"Mar 30th, 2021",Ring Bus,System Shared,300 MHz,System Shared,256 / 16 / 8
+2021,Intel,gpu_2021.txt,UHD Graphics 770,Alder Lake,"Nov 4th, 2021",Ring Bus,System Shared,300 MHz,System Shared,256 / 16 / 8
+2021,Intel,gpu_2021.txt,UHD Graphics P750,Rocket Lake,2021,Ring Bus,System Shared,350 MHz,System Shared,256 / 64 / 32
+2021,NVIDIA,gpu_2021.txt,A10 PCIe,GA102,"Apr 12th, 2021",PCIe 4.0 x16,"24 GB, GDDR6, 384 bit",885 MHz,1563 MHz,9216 / 288 / 96
+2021,NVIDIA,gpu_2021.txt,A100 PCIe 80 GB,GA100,"Jun 28th, 2021",PCIe 4.0 x16,"80 GB, HBM2e, 5120 bit",1065 MHz,1512 MHz,6912 / 432 / 160
+2021,NVIDIA,gpu_2021.txt,A100X,GA100,"Jun 28th, 2021",PCIe 4.0 x8,"80 GB, HBM2e, 5120 bit",795 MHz,1593 MHz,6912 / 432 / 160
+2021,NVIDIA,gpu_2021.txt,A10G,GA102,"Apr 12th, 2021",PCIe 4.0 x16,"24 GB, GDDR6, 384 bit",1320 MHz,1563 MHz,9216 / 288 / 96
+2021,NVIDIA,gpu_2021.txt,A16 PCIe,GA107,"Apr 12th, 2021",PCIe 4.0 x8,"16 GB, GDDR6, 128 bit",1312 MHz,1563 MHz,1280 / 40 / 32
+2021,NVIDIA,gpu_2021.txt,A2,GA107,"Nov 10th, 2021",PCIe 4.0 x8,"16 GB, GDDR6, 128 bit",1440 MHz,1563 MHz,1280 / 40 / 32
+2021,NVIDIA,gpu_2021.txt,A2 PCIe,GA107,"Nov 10th, 2021",PCIe 4.0 x8,"16 GB, GDDR6, 128 bit",1440 MHz,1563 MHz,1280 / 40 / 32
+2021,NVIDIA,gpu_2021.txt,A30 PCIe,GA100,"Apr 12th, 2021",PCIe 4.0 x16,"24 GB, HBM2e, 3072 bit",930 MHz,1215 MHz,3584 / 224 / 96
+2021,NVIDIA,gpu_2021.txt,A30X,GA100,"Apr 12th, 2021",PCIe 4.0 x8,"24 GB, HBM2e, 3072 bit",1035 MHz,1593 MHz,3584 / 224 / 96
+2021,NVIDIA,gpu_2021.txt,CMP 170HX 10 GB,GA100,"Sep 1st, 2021",PCIe 1.0 x4,"10 GB, HBM2e, 5120 bit",1140 MHz,1215 MHz,4480 / 280 / 128
+2021,NVIDIA,gpu_2021.txt,CMP 170HX 8 GB,GA100,"Sep 1st, 2021",PCIe 1.0 x4,"8 GB, HBM2e, 4096 bit",1140 MHz,1458 MHz,4480 / 280 / 128
+2021,NVIDIA,gpu_2021.txt,CMP 30HX,TU116,"Feb 25th, 2021",PCIe 1.0 x4,"6 GB, GDDR6, 192 bit",1530 MHz,1750 MHz,1408 / 88 / 48
+2021,NVIDIA,gpu_2021.txt,CMP 40HX,TU106,"Feb 25th, 2021",PCIe 1.0 x4,"8 GB, GDDR6, 256 bit",1470 MHz,1750 MHz,2304 / 144 / 64
+2021,NVIDIA,gpu_2021.txt,CMP 50HX,TU102,"Jun 24th, 2021",PCIe 1.0 x4,"10 GB, GDDR6, 320 bit",1350 MHz,1750 MHz,3584 / 192 / 80
+2021,NVIDIA,gpu_2021.txt,CMP 70HX,GA104,2021,PCIe 1.0 x4,"8 GB, GDDR6X, 256 bit",1365 MHz,1188 MHz,3840 / 120 / 64
+2021,NVIDIA,gpu_2021.txt,CMP 90HX,GA102,"Jul 28th, 2021",PCIe 1.0 x4,"10 GB, GDDR6X, 320 bit",1500 MHz,1188 MHz,6400 / 200 / 80
+2021,Nvidia,gpu_2021.txt,GeForce GT 1010,GP108,"Jan 13th, 2021",PCIe 3.0 x4,"2 GB, GDDR5, 64 bit",1228 MHz,1502 MHz,256 / 16 / 8
+2021,Nvidia,gpu_2021.txt,GeForce GT 1010 DDR4,GP108,"Jan 13th, 2021",PCIe 3.0 x4,"2 GB, DDR4, 64 bit",1152 MHz,1050 MHz,256 / 16 / 8
+2021,Nvidia,gpu_2021.txt,GeForce MX550,TU117SB,"Dec 17th, 2021",PCIe 4.0 x8,"2 GB, GDDR6, 64 bit",1065 MHz,1500 MHz,1024 / 32 / 16
+2021,Nvidia,gpu_2021.txt,GeForce MX570,GA107S,"Dec 17th, 2021",PCIe 4.0 x8,"2 GB, GDDR6, 64 bit",832 MHz,1500 MHz,2048 / 64 / 32
+2021,Nvidia,gpu_2021.txt,GeForce MX570 A,GA107SB,"Dec 17th, 2021",PCIe 4.0 x8,"2 GB, GDDR6, 64 bit",832 MHz,1500 MHz,2048 / 64 / 32
+2021,Nvidia,gpu_2021.txt,GeForce RTX 2050 Max-Q,GA107,"Dec 17th, 2021",PCIe 3.0 x8,"4 GB, GDDR6, 64 bit",832 MHz,1475 MHz,2048 / 64 / 32
+2021,Nvidia,gpu_2021.txt,GeForce RTX 2050 Mobile,GA107,"Dec 17th, 2021",PCIe 3.0 x8,"4 GB, GDDR6, 64 bit",735 MHz,1750 MHz,2048 / 64 / 32
+2021,Nvidia,gpu_2021.txt,GeForce RTX 2060 12 GB,TU106,"Dec 7th, 2021",PCIe 3.0 x16,"12 GB, GDDR6, 192 bit",1470 MHz,1750 MHz,2176 / 136 / 48
+2021,Nvidia,gpu_2021.txt,GeForce RTX 3050 Max-Q,GA107,"May 11th, 2021",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",712 MHz,1375 MHz,2048 / 64 / 32
+2021,Nvidia,gpu_2021.txt,GeForce RTX 3050 Mobile,GA107,"May 11th, 2021",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",1065 MHz,1500 MHz,2048 / 64 / 32
+2021,Nvidia,gpu_2021.txt,GeForce RTX 3050 Ti Max-Q,GA107,"May 11th, 2021",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",735 MHz,1375 MHz,2560 / 80 / 32
+2021,Nvidia,gpu_2021.txt,GeForce RTX 3050 Ti Mobile,GA106,"May 11th, 2021",PCIe 4.0 x16,"4 GB, GDDR6, 128 bit",735 MHz,1500 MHz,2560 / 80 / 32
+2021,Nvidia,gpu_2021.txt,GeForce RTX 3050 Ti Mobile,GA107,"May 11th, 2021",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",735 MHz,1500 MHz,2560 / 80 / 32
+2021,Nvidia,gpu_2021.txt,GeForce RTX 3060 12 GB,GA106,"Jan 12th, 2021",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",1320 MHz,1875 MHz,3584 / 112 / 48
+2021,Nvidia,gpu_2021.txt,GeForce RTX 3060 12 GB GA104,GA104,"Sep 1st, 2021",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",1320 MHz,1875 MHz,3584 / 112 / 64
+2021,Nvidia,gpu_2021.txt,GeForce RTX 3070 6144SP,GA104,Never Released,PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1740 MHz,1750 MHz,6144 / 192 / 96
+2021,Nvidia,gpu_2021.txt,GeForce RTX 3070 Max-Q,GA104,"Jan 12th, 2021",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",780 MHz,1500 MHz,5120 / 160 / 80
+2021,Nvidia,gpu_2021.txt,GeForce RTX 3070 Ti,GA104,"May 31st, 2021",PCIe 4.0 x16,"8 GB, GDDR6X, 256 bit",1575 MHz,1188 MHz,6144 / 192 / 96
+2021,Nvidia,gpu_2021.txt,GeForce RTX 3080 Mobile,GA104,"Jan 12th, 2021",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1110 MHz,1750 MHz,6144 / 192 / 96
+2021,Nvidia,gpu_2021.txt,GeForce RTX 3080 Ti,GA102,"May 31st, 2021",PCIe 4.0 x16,"12 GB, GDDR6X, 384 bit",1365 MHz,1188 MHz,10240 / 320 / 112
+2021,NVIDIA,gpu_2021.txt,PG506-207,GA100,"Apr 12th, 2021",PCIe 4.0 x16,"24 GB, HBM2, 3072 bit",930 MHz,1215 MHz,3584 / 224 / 96
+2021,NVIDIA,gpu_2021.txt,PG506-217,GA100,"Apr 12th, 2021",PCIe 4.0 x16,"24 GB, HBM2, 3072 bit",930 MHz,1215 MHz,3584 / 224 / 96
+2021,NVIDIA,gpu_2021.txt,PG506-232,GA100,"Apr 12th, 2021",PCIe 4.0 x16,"24 GB, HBM2, 3072 bit",930 MHz,1215 MHz,3584 / 224 / 96
+2021,NVIDIA,gpu_2021.txt,PG506-242,GA100,"Apr 12th, 2021",PCIe 4.0 x16,"24 GB, HBM2, 3072 bit",930 MHz,1215 MHz,3584 / 224 / 96
+2021,Nvidia,gpu_2021.txt,Quadro T1200 Max-Q,TU117,"Apr 12th, 2021",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",855 MHz,1250 MHz,1024 / 64 / 32
+2021,Nvidia,gpu_2021.txt,Quadro T1200 Mobile,TU117,"Apr 12th, 2021",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",1515 MHz,1500 MHz,1024 / 64 / 32
+2021,Nvidia,gpu_2021.txt,RTX A2000,GA106,"Aug 10th, 2021",PCIe 4.0 x16,"6 GB, GDDR6, 192 bit",562 MHz,1500 MHz,3328 / 104 / 48
+2021,Nvidia,gpu_2021.txt,RTX A2000 12 GB,GA106,"Nov 23rd, 2021",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",562 MHz,1500 MHz,3328 / 104 / 48
+2021,Nvidia,gpu_2021.txt,RTX A2000 Max-Q,GA107,"Apr 12th, 2021",PCIe 4.0 x16,"4 GB, GDDR6, 128 bit",682 MHz,1375 MHz,2560 / 80 / 48
+2021,Nvidia,gpu_2021.txt,RTX A2000 Max-Q 8 GB,GA107,"Apr 12th, 2021",PCIe 4.0 x16,"8 GB, GDDR6, 128 bit",607 MHz,1375 MHz,2560 / 80 / 48
+2021,Nvidia,gpu_2021.txt,RTX A2000 Mobile,GA107,"Apr 12th, 2021",PCIe 4.0 x16,"4 GB, GDDR6, 128 bit",1215 MHz,1500 MHz,2560 / 80 / 48
+2021,Nvidia,gpu_2021.txt,RTX A2000 Mobile 8 GB,GA107,"Apr 12th, 2021",PCIe 4.0 x16,"8 GB, GDDR6, 128 bit",1117 MHz,1750 MHz,2560 / 80 / 48
+2021,Nvidia,gpu_2021.txt,RTX A3000 Mobile,GA104,"Apr 12th, 2021",PCIe 4.0 x16,"6 GB, GDDR6, 192 bit",600 MHz,1375 MHz,4096 / 128 / 64
+2021,Nvidia,gpu_2021.txt,RTX A3000 Mobile 12 GB,GA104,"Apr 12th, 2021",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",495 MHz,1750 MHz,4096 / 128 / 64
+2021,Nvidia,gpu_2021.txt,RTX A4 Mobile,GA107,"Apr 12th, 2021",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",1297 MHz,1750 MHz,2048 / 64 / 32
+2021,Nvidia,gpu_2021.txt,RTX A4000,GA104,"Apr 12th, 2021",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",735 MHz,1750 MHz,6144 / 192 / 96
+2021,Nvidia,gpu_2021.txt,RTX A4000 Max-Q,GA104,"Apr 12th, 2021",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",780 MHz,1375 MHz,5120 / 160 / 80
+2021,Nvidia,gpu_2021.txt,RTX A4000 Mobile,GA104,"Apr 12th, 2021",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1140 MHz,1500 MHz,5120 / 160 / 80
+2021,Nvidia,gpu_2021.txt,RTX A4000H,GA104,"Apr 12th, 2021",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",735 MHz,1750 MHz,6144 / 192 / 96
+2021,Nvidia,gpu_2021.txt,RTX A4500,GA102,"Nov 23rd, 2021",PCIe 4.0 x16,"20 GB, GDDR6, 320 bit",1050 MHz,2000 MHz,7168 / 224 / 96
+2021,Nvidia,gpu_2021.txt,RTX A500,GA107,"Nov 10th, 2021",PCIe 4.0 x8,"4 GB, GDDR6, 64 bit",1440 MHz,1750 MHz,2048 / 64 / 32
+2021,Nvidia,gpu_2021.txt,RTX A5000,GA102,"Apr 12th, 2021",PCIe 4.0 x16,"24 GB, GDDR6, 384 bit",1170 MHz,2000 MHz,8192 / 256 / 96
+2021,Nvidia,gpu_2021.txt,RTX A5000 Max-Q,GA104,"Apr 12th, 2021",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",720 MHz,1500 MHz,6144 / 192 / 96
+2021,Nvidia,gpu_2021.txt,RTX A5000 Mobile,GA104,"Apr 12th, 2021",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",900 MHz,1750 MHz,6144 / 192 / 96
+2021,Nvidia,gpu_2021.txt,RTX A5000-12Q,GA102,"Apr 12th, 2021",PCIe 4.0 x16,"12 GB, GDDR6, 384 bit",1170 MHz,2000 MHz,8192 / 256 / 96
+2021,Nvidia,gpu_2021.txt,RTX A5000-8Q,GA102,"Apr 12th, 2021",PCIe 4.0 x16,"8 GB, GDDR6, 384 bit",1170 MHz,2000 MHz,8192 / 256 / 96
+2021,NVIDIA,gpu_2021.txt,T1000,TU117,"May 6th, 2021",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",1065 MHz,1250 MHz,896 / 56 / 32
+2021,NVIDIA,gpu_2021.txt,T1000 8 GB,TU117,"May 6th, 2021",PCIe 3.0 x16,"8 GB, GDDR6, 128 bit",1065 MHz,1250 MHz,896 / 56 / 32
+2021,NVIDIA,gpu_2021.txt,T400,TU117,"May 6th, 2021",PCIe 3.0 x16,"2 GB, GDDR6, 64 bit",420 MHz,1250 MHz,384 / 24 / 16
+2021,NVIDIA,gpu_2021.txt,T400 4 GB,TU117,"May 6th, 2021",PCIe 3.0 x16,"4 GB, GDDR6, 64 bit",420 MHz,1250 MHz,384 / 24 / 16
+2021,NVIDIA,gpu_2021.txt,T600,TU117,"Apr 12th, 2021",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",735 MHz,1250 MHz,640 / 40 / 32
+2021,NVIDIA,gpu_2021.txt,T600 Max-Q,TU117,"Apr 12th, 2021",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",930 MHz,1250 MHz,896 / 56 / 32
+2021,NVIDIA,gpu_2021.txt,T600 Mobile,TU117,"Apr 12th, 2021",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",780 MHz,1500 MHz,896 / 56 / 32
+2022,AMD,gpu_2022.txt,Playstation 5 GPU,Oberon Plus,"Sep 28th, 2022",IGP,"16 GB, GDDR6, 256 bit",2233 MHz,1750 MHz,2304 / 144 / 64
+2022,AMD,gpu_2022.txt,Radeon 610M,Mendocino,"Sep 20th, 2022",PCIe 4.0 x8,System Shared,1500 MHz,System Shared,128 / 8 / 4
+2022,AMD,gpu_2022.txt,Radeon 660M,Rembrandt,"Jan 4th, 2022",PCIe 4.0 x8,System Shared,1500 MHz,System Shared,384 / 24 / 16
+2022,AMD,gpu_2022.txt,Radeon 680M,Rembrandt,"Jan 4th, 2022",PCIe 4.0 x8,System Shared,2000 MHz,System Shared,768 / 48 / 32
+2022,AMD,gpu_2022.txt,Radeon Graphics 128SP,Raphael,"Sep 27th, 2022",PCIe 4.0 x8,System Shared,400 MHz,System Shared,128 / 8 / 8
+2022,AMD,gpu_2022.txt,Radeon Graphics 448SP Mobile,Barcelo,"Jan 6th, 2022",IGP,System Shared,300 MHz,System Shared,448 / 28 / 8
+2022,AMD,gpu_2022.txt,Radeon Graphics 512SP Mobile,Barcelo,"Jan 6th, 2022",IGP,System Shared,300 MHz,System Shared,512 / 32 / 8
+2022,AMD,gpu_2022.txt,Radeon PRO W6300,Navi 24,"Jan 19th, 2022",PCIe 4.0 x4,"2 GB, GDDR6, 32 bit",1512 MHz,2000 MHz,768 / 48 / 32
+2022,AMD,gpu_2022.txt,Radeon PRO W6400,Navi 24,"Jan 19th, 2022",PCIe 4.0 x4,"4 GB, GDDR6, 64 bit",2039 MHz,2000 MHz,768 / 48 / 32
+2022,AMD,gpu_2022.txt,Radeon Pro W6300M,Navi 24,"Jan 19th, 2022",PCIe 4.0 x4,"2 GB, GDDR6, 32 bit",1512 MHz,2000 MHz,768 / 48 / 32
+2022,AMD,gpu_2022.txt,Radeon Pro W6500M,Navi 24,Never Released,PCIe 4.0 x4,"4 GB, GDDR6, 64 bit",1512 MHz,2000 MHz,1024 / 64 / 32
+2022,AMD,gpu_2022.txt,Radeon RX 6300M,Navi 24,Never Released,PCIe 4.0 x4,"2 GB, GDDR6, 32 bit",1000 MHz,2000 MHz,768 / 48 / 32
+2022,AMD,gpu_2022.txt,Radeon RX 6400,Navi 24,"Jan 19th, 2022",PCIe 4.0 x4,"4 GB, GDDR6, 64 bit",1923 MHz,2000 MHz,768 / 48 / 32
+2022,AMD,gpu_2022.txt,Radeon RX 6500 XT,Navi 24,"Jan 19th, 2022",PCIe 4.0 x4,"4 GB, GDDR6, 64 bit",2310 MHz,2248 MHz,1024 / 64 / 32
+2022,AMD,gpu_2022.txt,Radeon RX 6500M,Navi 24,"Jan 4th, 2022",PCIe 4.0 x4,"4 GB, GDDR6, 64 bit",2000 MHz,2250 MHz,1024 / 64 / 32
+2022,AMD,gpu_2022.txt,Radeon RX 6600S,Navi 23,"Jan 4th, 2022",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",1700 MHz,1750 MHz,1792 / 112 / 64
+2022,AMD,gpu_2022.txt,Radeon RX 6650 XT,Navi 23,"May 10th, 2022",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",2055 MHz,2190 MHz,2048 / 128 / 64
+2022,AMD,gpu_2022.txt,Radeon RX 6650M,Navi 23,"Jan 4th, 2022",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",2068 MHz,1750 MHz,1792 / 112 / 64
+2022,AMD,gpu_2022.txt,Radeon RX 6650M XT,Navi 23,"Jan 4th, 2022",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",2068 MHz,2000 MHz,2048 / 128 / 64
+2022,AMD,gpu_2022.txt,Radeon RX 6700S,Navi 23,"Jan 4th, 2022",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1700 MHz,1750 MHz,1792 / 112 / 64
+2022,AMD,gpu_2022.txt,Radeon RX 6750 XT,Navi 22,"Mar 3rd, 2022",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",2150 MHz,2250 MHz,2560 / 160 / 64
+2022,AMD,gpu_2022.txt,Radeon RX 6800S,Navi 23,"Jan 4th, 2022",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1800 MHz,2000 MHz,2048 / 128 / 64
+2022,AMD,gpu_2022.txt,Radeon RX 6850M XT,Navi 22,"Jan 4th, 2022",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",2321 MHz,2250 MHz,2560 / 160 / 64
+2022,AMD,gpu_2022.txt,Radeon RX 6950 XT,Navi 21,"May 10th, 2022",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",1860 MHz,2250 MHz,5120 / 320 / 128
+2022,AMD,gpu_2022.txt,Radeon RX 7900 XT,Navi 31,"Nov 3rd, 2022",PCIe 4.0 x16,"20 GB, GDDR6, 320 bit",1387 MHz,2500 MHz,5376 / 336 / 192
+2022,AMD,gpu_2022.txt,Radeon RX 7900 XTX,Navi 31,"Nov 3rd, 2022",PCIe 4.0 x16,"24 GB, GDDR6, 384 bit",1929 MHz,2500 MHz,6144 / 384 / 192
+2022,AMD,gpu_2022.txt,Radeon RX 7950 XT,Navi 31,Never Released,PCIe 4.0 x16,"20 GB, GDDR6, 320 bit",2000 MHz,2500 MHz,5376 / 336 / 192
+2022,AMD,gpu_2022.txt,Radeon RX 7950 XTX,Navi 31,Never Released,PCIe 4.0 x16,"24 GB, GDDR6, 384 bit",2200 MHz,2500 MHz,6144 / 384 / 192
+2022,AMD,gpu_2022.txt,Steam Deck GPU,Van Gogh,"Feb 25th, 2022",IGP,"16 GB, LPDDR5, 128 bit",1000 MHz,1375 MHz,512 / 32 / 16
+2022,Intel,gpu_2022.txt,Arc A310,DG2-128,"Oct 12th, 2022",PCIe 4.0 x8,"4 GB, GDDR6, 64 bit",1750 MHz,1937 MHz,768 / 32 / 16
+2022,Intel,gpu_2022.txt,Arc A350,DG2-128,2022,PCIe 4.0 x8,"4 GB, GDDR6, 64 bit",2000 MHz,1937 MHz,768 / 48 / 24
+2022,Intel,gpu_2022.txt,Arc A350M,DG2-128,"Mar 30th, 2022",PCIe 4.0 x8,"4 GB, GDDR6, 64 bit",1150 MHz,1750 MHz,768 / 48 / 24
+2022,Intel,gpu_2022.txt,Arc A370M,DG2-128,"Mar 30th, 2022",PCIe 4.0 x8,"4 GB, GDDR6, 64 bit",1550 MHz,1750 MHz,1024 / 64 / 32
+2022,Intel,gpu_2022.txt,Arc A380,DG2-128,"Jun 14th, 2022",PCIe 4.0 x8,"6 GB, GDDR6, 96 bit",2000 MHz,1937 MHz,1024 / 64 / 32
+2022,Intel,gpu_2022.txt,Arc A550M,DG2-512,2022,PCIe 4.0 x16,"8 GB, GDDR6, 128 bit",900 MHz,1750 MHz,2048 / 128 / 64
+2022,Intel,gpu_2022.txt,Arc A730M,DG2-512,2022,PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",1100 MHz,1750 MHz,3072 / 192 / 96
+2022,Intel,gpu_2022.txt,Arc A750,DG2-512,"Oct 12th, 2022",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",2050 MHz,2000 MHz,3584 / 224 / 112
+2022,Intel,gpu_2022.txt,Arc A770,DG2-512,"Oct 12th, 2022",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",2100 MHz,2000 MHz,4096 / 256 / 128
+2022,Intel,gpu_2022.txt,Arc A770M,DG2-512,2022,PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",1650 MHz,2000 MHz,4096 / 256 / 128
+2022,Intel,gpu_2022.txt,Arc A780,DG2-512,Never Released,PCIe 4.0 x16,"16 GB, GDDR6X, 256 bit",2200 MHz,1093 MHz,4096 / 256 / 128
+2022,Intel,gpu_2022.txt,Arc Pro A30M,DG2-128,"Aug 8th, 2022",PCIe 4.0 x8,"4 GB, GDDR6, 64 bit",1500 MHz,2000 MHz,1024 / 64 / 32
+2022,Intel,gpu_2022.txt,Arc Pro A40,DG2-128,"Aug 8th, 2022",PCIe 4.0 x8,"6 GB, GDDR6, 96 bit",1500 MHz,2000 MHz,1024 / 64 / 32
+2022,Intel,gpu_2022.txt,Arc Pro A50,DG2-128,"Aug 8th, 2022",PCIe 4.0 x8,"6 GB, GDDR6, 96 bit",2000 MHz,2000 MHz,1024 / 64 / 32
+2022,Intel,gpu_2022.txt,Arctic Sound-M,Arctic Sound,2022,PCIe 4.0 x16,"16 GB, HBM2e, 4096 bit",900 MHz,1200 MHz,8192 / 256 / 128
+2022,Intel,gpu_2022.txt,Data Center GPU Flex 140,DG2-128,"Aug 24th, 2022",PCIe 4.0 x8,"6 GB, GDDR6, 96 bit",1600 MHz,1937 MHz,1024 / 64 / 32
+2022,Intel,gpu_2022.txt,Data Center GPU Flex 170,DG2-512,"Aug 24th, 2022",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",1950 MHz,2000 MHz,4096 / 256 / 128
+2022,Intel,gpu_2022.txt,Iris Xe Graphics 80EU Mobile,Alder Lake,"Jan 4th, 2022",Ring Bus,System Shared,300 MHz,System Shared,640 / 40 / 20
+2022,Intel,gpu_2022.txt,Iris Xe Graphics 96EU Mobile,Alder Lake,"Jan 4th, 2022",Ring Bus,System Shared,300 MHz,System Shared,768 / 48 / 24
+2022,Intel,gpu_2022.txt,UHD Graphics 48EU Mobile,Alder Lake,"Jan 4th, 2022",Ring Bus,System Shared,300 MHz,System Shared,384 / 24 / 12
+2022,Intel,gpu_2022.txt,UHD Graphics 64EU Mobile,Alder Lake,"Jan 4th, 2022",Ring Bus,System Shared,300 MHz,System Shared,512 / 32 / 16
+2022,Intel,gpu_2022.txt,UHD Graphics 710,Alder Lake,"Jan 4th, 2022",Ring Bus,System Shared,300 MHz,System Shared,128 / 8 / 8
+2022,Intel,gpu_2022.txt,UHD Graphics 730,Alder Lake,"Jan 4th, 2022",Ring Bus,System Shared,300 MHz,System Shared,192 / 12 / 8
+2022,Intel,gpu_2022.txt,UHD Graphics 770,Raptor Lake,"Sep 27th, 2022",Ring Bus,System Shared,300 MHz,System Shared,256 / 16 / 8
+2022,NVIDIA,gpu_2022.txt,A10M,GA102,Feb-22,PCIe 4.0 x16,"24 GB, GDDR6, 384 bit",975 MHz,1563 MHz,7168 / 224 / 80
+2022,NVIDIA,gpu_2022.txt,A800 PCIe 40 GB,GA100,"Nov 8th, 2022",PCIe 4.0 x16,"40 GB, HBM2e, 5120 bit",765 MHz,1215 MHz,6912 / 432 / 160
+2022,NVIDIA,gpu_2022.txt,A800 PCIe 80 GB,GA100,"Nov 8th, 2022",PCIe 4.0 x16,"80 GB, HBM2e, 5120 bit",1065 MHz,1512 MHz,6912 / 432 / 160
+2022,NVIDIA,gpu_2022.txt,A800 SXM4 80 GB,GA100,"Aug 11th, 2022",PCIe 4.0 x16,"80 GB, HBM2e, 5120 bit",1155 MHz,1593 MHz,6912 / 432 / 160
+2022,Nvidia,gpu_2022.txt,GeForce GTX 1630,TU117,"Jun 28th, 2022",PCIe 3.0 x16,"4 GB, GDDR6, 64 bit",1740 MHz,1500 MHz,512 / 32 / 16
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3050 4 GB,GA107,"Jan 27th, 2022",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",1545 MHz,1500 MHz,2048 / 64 / 32
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3050 8 GB,GA106,"Jan 4th, 2022",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1552 MHz,1750 MHz,2560 / 80 / 32
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3050 8 GB GA107,GA107,"Dec 16th, 2022",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1552 MHz,1750 MHz,2560 / 80 / 32
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3050 Max-Q Refresh 4 GB,GA107,"Jul 6th, 2022",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",757 MHz,1375 MHz,2048 / 64 / 32
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3050 Max-Q Refresh 6 GB,GA107,"Jul 6th, 2022",PCIe 4.0 x8,"6 GB, GDDR6, 96 bit",622 MHz,1375 MHz,2560 / 80 / 32
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3050 Mobile Refresh 4 GB,GA107,"Jul 6th, 2022",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",652 MHz,1750 MHz,2560 / 80 / 32
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3050 Mobile Refresh 6 GB,GA107,"Jul 6th, 2022",PCIe 4.0 x8,"6 GB, GDDR6, 96 bit",1237 MHz,1750 MHz,2560 / 80 / 32
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3050 OEM,GA106,"Jan 4th, 2022",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1515 MHz,1750 MHz,2304 / 72 / 32
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3060 8 GB,GA106,"Oct 12th, 2022",PCIe 4.0 x16,"8 GB, GDDR6, 128 bit",1320 MHz,1875 MHz,3584 / 112 / 48
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3060 8 GB GA104,GA104,Oct-22,PCIe 4.0 x16,"8 GB, GDDR6, 128 bit",1320 MHz,1875 MHz,3584 / 112 / 64
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3060 Ti GA103,GA103,"Feb 23rd, 2022",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1410 MHz,1750 MHz,4864 / 152 / 80
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3060 Ti GDDR6X,GA104,"Oct 19th, 2022",PCIe 4.0 x16,"8 GB, GDDR6X, 256 bit",1410 MHz,1188 MHz,4864 / 152 / 80
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3070 Ti 16 GB,GA104,Never Released,PCIe 4.0 x16,"16 GB, GDDR6X, 256 bit",1575 MHz,1188 MHz,6144 / 192 / 96
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3070 Ti 8 GB GA102,GA102,"Oct 21st, 2022",PCIe 4.0 x16,"8 GB, GDDR6X, 256 bit",1575 MHz,1188 MHz,6144 / 192 / 96
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3070 Ti Mobile,GA104,"Jan 4th, 2022",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",915 MHz,1750 MHz,5888 / 184 / 96
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3070 TiM,GA104,Nov-22,PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",915 MHz,1750 MHz,5888 / 184 / 96
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3080 12 GB,GA102,"Jan 11th, 2022",PCIe 4.0 x16,"12 GB, GDDR6X, 384 bit",1260 MHz,1188 MHz,8960 / 280 / 96
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3080 Ti Max-Q,GA103,"Jan 25th, 2022",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",585 MHz,1500 MHz,7424 / 232 / 96
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3080 Ti Mobile,GA103,"Jan 25th, 2022",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",810 MHz,2000 MHz,7424 / 232 / 96
+2022,Nvidia,gpu_2022.txt,GeForce RTX 3090 Ti,GA102,"Jan 27th, 2022",PCIe 4.0 x16,"24 GB, GDDR6X, 384 bit",1560 MHz,1313 MHz,10752 / 336 / 112
+2022,Nvidia,gpu_2022.txt,GeForce RTX 4080,AD103,"Sep 20th, 2022",PCIe 4.0 x16,"16 GB, GDDR6X, 256 bit",2205 MHz,1400 MHz,9728 / 304 / 112
+2022,Nvidia,gpu_2022.txt,GeForce RTX 4080 12 GB,AD104,Never Released,PCIe 4.0 x16,"12 GB, GDDR6X, 192 bit",2310 MHz,1313 MHz,7680 / 240 / 80
+2022,Nvidia,gpu_2022.txt,GeForce RTX 4090,AD102,"Sep 20th, 2022",PCIe 4.0 x16,"24 GB, GDDR6X, 384 bit",2235 MHz,1313 MHz,16384 / 512 / 176
+2022,NVIDIA,gpu_2022.txt,L40,AD102,"Oct 13th, 2022",PCIe 4.0 x16,"48 GB, GDDR6, 384 bit",735 MHz,2250 MHz,18176 / 568 / 192
+2022,NVIDIA,gpu_2022.txt,L40 CNX,AD102,"Oct 13th, 2022",PCIe 4.0 x16,"24 GB, GDDR6, 384 bit",1005 MHz,2250 MHz,18176 / 568 / 192
+2022,NVIDIA,gpu_2022.txt,L40G,AD102,"Oct 13th, 2022",PCIe 4.0 x16,"24 GB, GDDR6, 384 bit",1005 MHz,2250 MHz,18176 / 568 / 192
+2022,NVIDIA,gpu_2022.txt,L40S,AD102,"Oct 13th, 2022",PCIe 4.0 x16,"48 GB, GDDR6, 384 bit",1110 MHz,2250 MHz,18176 / 568 / 192
+2022,Nvidia,gpu_2022.txt,RTX 6000 Ada Generation,AD102,"Dec 3rd, 2022",PCIe 4.0 x16,"48 GB, GDDR6, 384 bit",915 MHz,2500 MHz,18176 / 568 / 192
+2022,Nvidia,gpu_2022.txt,RTX A1000 Embedded,GA107S,"Mar 30th, 2022",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",630 MHz,1750 MHz,2048 / 64 / 32
+2022,Nvidia,gpu_2022.txt,RTX A1000 Mobile,GA107,"Mar 30th, 2022",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",630 MHz,1375 MHz,2048 / 64 / 32
+2022,Nvidia,gpu_2022.txt,RTX A1000 Mobile 6 GB,GA107,"Mar 30th, 2022",PCIe 4.0 x8,"6 GB, GDDR6, 96 bit",652 MHz,1375 MHz,2560 / 80 / 32
+2022,Nvidia,gpu_2022.txt,RTX A2000 Embedded,GA107,"Mar 30th, 2022",PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",607 MHz,1500 MHz,2560 / 80 / 32
+2022,Nvidia,gpu_2022.txt,RTX A3000 Mobile 12 GB,GA104,"Mar 22nd, 2022",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",855 MHz,1750 MHz,4096 / 128 / 64
+2022,Nvidia,gpu_2022.txt,RTX A4500 Embedded,GA104,"Mar 30th, 2022",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",510 MHz,1500 MHz,5888 / 184 / 96
+2022,Nvidia,gpu_2022.txt,RTX A4500 Max-Q,GA104,"Mar 22nd, 2022",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",510 MHz,1750 MHz,5888 / 184 / 96
+2022,Nvidia,gpu_2022.txt,RTX A4500 Mobile,GA104,"Mar 22nd, 2022",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",930 MHz,2000 MHz,5888 / 184 / 96
+2022,Nvidia,gpu_2022.txt,RTX A500 Embedded,GA107S,"Mar 30th, 2022",PCIe 4.0 x8,"4 GB, GDDR6, 64 bit",435 MHz,1500 MHz,2048 / 64 / 32
+2022,Nvidia,gpu_2022.txt,RTX A500 Mobile,GA107S,"Mar 22nd, 2022",PCIe 4.0 x8,"4 GB, GDDR6, 64 bit",832 MHz,1500 MHz,2048 / 64 / 32
+2022,Nvidia,gpu_2022.txt,RTX A5500,GA102,"Mar 22nd, 2022",PCIe 4.0 x16,"24 GB, GDDR6, 384 bit",1080 MHz,2000 MHz,10240 / 320 / 96
+2022,Nvidia,gpu_2022.txt,RTX A5500 Max-Q,GA103,"Mar 22nd, 2022",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",585 MHz,1750 MHz,7424 / 232 / 96
+2022,Nvidia,gpu_2022.txt,RTX A5500 Mobile,GA103,"Mar 22nd, 2022",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",975 MHz,2000 MHz,7424 / 232 / 96
+2022,NVIDIA,gpu_2022.txt,T550 Mobile,TU117,May-22,PCIe 3.0 x16,"4 GB, GDDR6, 64 bit",1065 MHz,1500 MHz,1024 / 64 / 32
+2022,Nvidia,gpu_2022.txt,Tesla T40 24 GB,TU102,Unknown,PCIe 3.0 x16,"24 GB, GDDR6, 384 bit",1305 MHz,1625 MHz,4608 / 288 / 96
+2023,AMD,gpu_2023.txt,ROG Ally GPU,Phoenix,2023,PCIe 4.0 x4,"16 GB, LPDDR5, 64 bit",1500 MHz,1600 MHz,256 / 16 / 8
+2023,AMD,gpu_2023.txt,Radeon 740M,Phoenix,"Jan 4th, 2023",PCIe 4.0 x8,System Shared,800 MHz,System Shared,256 / 16 / 8
+2023,AMD,gpu_2023.txt,Radeon 740M,Hawx Point,"Dec 6th, 2023",PCIe 4.0 x8,System Shared,800 MHz,System Shared,256 / 16 / 8
+2023,AMD,gpu_2023.txt,Radeon 760M,Hawx Point,"Dec 6th, 2023",PCIe 4.0 x8,System Shared,800 MHz,System Shared,512 / 32 / 16
+2023,AMD,gpu_2023.txt,Radeon 760M,Phoenix,"Jan 4th, 2023",PCIe 4.0 x8,System Shared,800 MHz,System Shared,512 / 32 / 16
+2023,AMD,gpu_2023.txt,Radeon 780M,Hawx Point,"Dec 6th, 2023",PCIe 4.0 x8,System Shared,800 MHz,System Shared,768 / 48 / 32
+2023,AMD,gpu_2023.txt,Radeon 780M,Phoenix,"Jan 4th, 2023",PCIe 4.0 x8,System Shared,800 MHz,System Shared,768 / 48 / 32
+2023,AMD,gpu_2023.txt,Radeon Instinct MI300,Aqua Vanjaram,"Jan 4th, 2023",PCIe 5.0 x16,"128 GB, HBM3, 8192 bit",1000 MHz,1600 MHz,14080 / 880 / 0
+2023,AMD,gpu_2023.txt,Radeon Instinct MI300A,Aqua Vanjaram,"Dec 6th, 2023",PCIe 5.0 x16,"192 GB, HBM3, 8192 bit",1000 MHz,2525 MHz,19456 / 1216 / 0
+2023,AMD,gpu_2023.txt,Radeon Instinct MI300X,Aqua Vanjaram,"Dec 6th, 2023",PCIe 5.0 x16,"192 GB, HBM3, 8192 bit",1000 MHz,2525 MHz,19456 / 1216 / 0
+2023,AMD,gpu_2023.txt,Radeon Instinct MI308X,Aqua Vanjaram,"Dec 6th, 2023",PCIe 5.0 x16,"192 GB, HBM3, 8192 bit",1000 MHz,2525 MHz,19456 / 1216 / 0
+2023,AMD,gpu_2023.txt,Radeon PRO W7500,Navi 33,"Aug 3rd, 2023",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1500 MHz,1344 MHz,1792 / 112 / 64
+2023,AMD,gpu_2023.txt,Radeon PRO W7600,Navi 33,"Aug 3rd, 2023",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1720 MHz,2250 MHz,2048 / 128 / 64
+2023,AMD,gpu_2023.txt,Radeon PRO W7700,Navi 32,"Nov 13th, 2023",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",1900 MHz,2250 MHz,3072 / 192 / 96
+2023,AMD,gpu_2023.txt,Radeon PRO W7800,Navi 31,"Apr 13th, 2023",PCIe 4.0 x16,"32 GB, GDDR6, 256 bit",1895 MHz,2250 MHz,4480 / 280 / 128
+2023,AMD,gpu_2023.txt,Radeon PRO W7800 48 GB,Navi 31,"Apr 13th, 2023",PCIe 4.0 x16,"48 GB, GDDR6, 384 bit",1895 MHz,2250 MHz,4480 / 280 / 128
+2023,AMD,gpu_2023.txt,Radeon PRO W7900,Navi 31,"Apr 13th, 2023",PCIe 4.0 x16,"48 GB, GDDR6, 384 bit",1855 MHz,2250 MHz,6144 / 384 / 192
+2023,AMD,gpu_2023.txt,Radeon RX 6450M,Navi 24,"Jan 4th, 2023",PCIe 4.0 x4,"4 GB, GDDR6, 64 bit",2000 MHz,2000 MHz,768 / 48 / 32
+2023,AMD,gpu_2023.txt,Radeon RX 6550M,Navi 24,"Jan 4th, 2023",PCIe 4.0 x4,"4 GB, GDDR6, 64 bit",2000 MHz,2250 MHz,1024 / 64 / 32
+2023,AMD,gpu_2023.txt,Radeon RX 6550S,Navi 24,"Jan 4th, 2023",PCIe 4.0 x4,"4 GB, GDDR6, 64 bit",2000 MHz,2000 MHz,1024 / 64 / 32
+2023,AMD,gpu_2023.txt,Radeon RX 6600 LE,Navi 23,"Dec 8th, 2023",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1626 MHz,1750 MHz,1792 / 112 / 64
+2023,AMD,gpu_2023.txt,Radeon RX 6750 GRE 10 GB,Navi 22,"Oct 17th, 2023",PCIe 4.0 x16,"10 GB, GDDR6, 160 bit",1941 MHz,2000 MHz,2304 / 144 / 64
+2023,AMD,gpu_2023.txt,Radeon RX 6750 GRE 12 GB,Navi 22,"Oct 17th, 2023",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",2321 MHz,2250 MHz,2560 / 160 / 64
+2023,AMD,gpu_2023.txt,Radeon RX 7500 XT,Navi 33,Never Released,PCIe 4.0 x8,"6 GB, GDDR6, 96 bit",1452 MHz,2250 MHz,1024 / 64 / 32
+2023,AMD,gpu_2023.txt,Radeon RX 7600,Navi 33,"May 24th, 2023",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1720 MHz,2250 MHz,2048 / 128 / 64
+2023,AMD,gpu_2023.txt,Radeon RX 7600M,Navi 33,"Jan 4th, 2023",PCIe 4.0 x16,"8 GB, GDDR6, 128 bit",1500 MHz,2000 MHz,1792 / 112 / 64
+2023,AMD,gpu_2023.txt,Radeon RX 7600M XT,Navi 33,"Jan 4th, 2023",PCIe 4.0 x16,"8 GB, GDDR6, 128 bit",1280 MHz,2250 MHz,2048 / 128 / 64
+2023,AMD,gpu_2023.txt,Radeon RX 7600S,Navi 33,"Jan 4th, 2023",PCIe 4.0 x16,"8 GB, GDDR6, 128 bit",1500 MHz,2000 MHz,1792 / 112 / 64
+2023,AMD,gpu_2023.txt,Radeon RX 7700 XT,Navi 32,"Aug 25th, 2023",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",1435 MHz,2250 MHz,3456 / 216 / 96
+2023,AMD,gpu_2023.txt,Radeon RX 7700S,Navi 33,"Jan 4th, 2023",PCIe 4.0 x16,"8 GB, GDDR6, 128 bit",1500 MHz,2250 MHz,2048 / 128 / 64
+2023,AMD,gpu_2023.txt,Radeon RX 7800 XT,Navi 32,"Aug 25th, 2023",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",1295 MHz,2438 MHz,3840 / 240 / 96
+2023,AMD,gpu_2023.txt,Radeon RX 7900 GRE,Navi 31,"Jul 27th, 2023",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",1287 MHz,2250 MHz,5120 / 320 / 160
+2023,AMD,gpu_2023.txt,Radeon RX 7900M,Navi 31,"Oct 19th, 2023",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",1825 MHz,2250 MHz,4608 / 288 / 192
+2023,AMD,gpu_2023.txt,Radeon RX 7990 XTX,Navi 31,Never Released,PCIe 4.0 x16,"24 GB, GDDR6, 384 bit",2500 MHz,3000 MHz,6144 / 384 / 192
+2023,AMD,gpu_2023.txt,Ryzen Z1 Extreme GPU,Phoenix,"Jun 13th, 2023",PCIe 4.0 x4,"16 GB, LPDDR5, 64 bit",800 MHz,800 MHz,768 / 48 / 32
+2023,AMD,gpu_2023.txt,Steam Deck OLED GPU,Sephiroth,"Nov 9th, 2023",IGP,"16 GB, LPDDR5, 128 bit",1000 MHz,1375 MHz,512 / 32 / 16
+2023,Intel,gpu_2023.txt,Arc A380M,DG2-128,"Jan 24th, 2023",MXM-A (3.1),"6 GB, GDDR6, 96 bit",1550 MHz,1937 MHz,1024 / 64 / 32
+2023,Intel,gpu_2023.txt,Arc A530M,DG2-256,"Aug 1st, 2023",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",900 MHz,1750 MHz,1536 / 96 / 48
+2023,Intel,gpu_2023.txt,Arc A570M,DG2-256,"Aug 1st, 2023",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",900 MHz,1750 MHz,2048 / 128 / 64
+2023,Intel,gpu_2023.txt,Arc A580,DG2-512,"Oct 10th, 2023",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1700 MHz,2000 MHz,3072 / 192 / 96
+2023,Intel,gpu_2023.txt,Arc Graphics 112EU Mobile,Meteor Lake,"Dec 14th, 2023",Ring Bus,System Shared,300 MHz,System Shared,896 / 56 / 24
+2023,Intel,gpu_2023.txt,Arc Graphics 128EU Mobile,Meteor Lake,"Dec 14th, 2023",Ring Bus,System Shared,300 MHz,System Shared,1024 / 64 / 32
+2023,Intel,gpu_2023.txt,Arc Graphics 48EU Mobile,Meteor Lake,"Dec 14th, 2023",Ring Bus,System Shared,300 MHz,System Shared,384 / 24 / 8
+2023,Intel,gpu_2023.txt,Arc Graphics 64EU Mobile,Meteor Lake,"Dec 14th, 2023",Ring Bus,System Shared,300 MHz,System Shared,512 / 32 / 16
+2023,Intel,gpu_2023.txt,Arc Pro A60,DG2-256,"Jun 6th, 2023",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",900 MHz,2000 MHz,2048 / 128 / 64
+2023,Intel,gpu_2023.txt,Arc Pro A60M,DG2-256,"Jun 6th, 2023",PCIe 4.0 x16,"8 GB, GDDR6, 128 bit",900 MHz,2000 MHz,2048 / 128 / 64
+2023,Intel,gpu_2023.txt,Data Center GPU Max 1100,Ponte Vecchio,"Jan 10th, 2023",PCIe 5.0 x16,"48 GB, HBM2e, 8192 bit",1000 MHz,600 MHz,7168 / 448 / 0
+2023,Intel,gpu_2023.txt,Data Center GPU Max 1350,Ponte Vecchio,"Jan 10th, 2023",PCIe 5.0 x16,"96 GB, HBM2e, 8192 bit",750 MHz,1200 MHz,14336 / 896 / 0
+2023,Intel,gpu_2023.txt,Data Center GPU Max 1550,Ponte Vecchio,"Jan 10th, 2023",PCIe 5.0 x16,"128 GB, HBM2e, 8192 bit",900 MHz,1600 MHz,16384 / 1024 / 0
+2023,Intel,gpu_2023.txt,Data Center GPU Max Subsystem,Ponte Vecchio,"Jan 10th, 2023",PCIe 5.0 x16,"128 GB, HBM2e, 8192 bit",900 MHz,1565 MHz,16384 / 1024 / 0
+2023,Intel,gpu_2023.txt,Iris Xe Graphics 80EU Mobile,Raptor Lake,"Jan 4th, 2023",Ring Bus,System Shared,300 MHz,System Shared,640 / 40 / 20
+2023,Intel,gpu_2023.txt,Iris Xe Graphics 96EU Mobile,Raptor Lake,"Jan 4th, 2023",Ring Bus,System Shared,300 MHz,System Shared,768 / 48 / 24
+2023,Intel,gpu_2023.txt,UHD Graphics 64EU Mobile,Raptor Lake,"Jan 4th, 2023",Ring Bus,System Shared,300 MHz,System Shared,512 / 32 / 16
+2023,Intel,gpu_2023.txt,UHD Graphics 710 Mobile,Raptor Lake,"Jan 4th, 2023",Ring Bus,System Shared,300 MHz,System Shared,128 / 8 / 4
+2023,Intel,gpu_2023.txt,UHD Graphics 710 Mobile,Raptor Lake,"Jan 4th, 2023",Ring Bus,System Shared,300 MHz,System Shared,128 / 8 / 4
+2023,Intel,gpu_2023.txt,UHD Graphics 770 Mobile,Raptor Lake,"Jan 4th, 2023",Ring Bus,System Shared,300 MHz,System Shared,256 / 16 / 8
+2023,Nvidia,gpu_2023.txt,GeForce RTX 4050,AD107,Never Released,PCIe 4.0 x8,"6 GB, GDDR6, 96 bit",2505 MHz,2250 MHz,2560 / 80 / 32
+2023,Nvidia,gpu_2023.txt,GeForce RTX 4060,AD107,"May 18th, 2023",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1830 MHz,2125 MHz,3072 / 96 / 48
+2023,Nvidia,gpu_2023.txt,GeForce RTX 4060 Mobile,AD107,"Jan 3rd, 2023",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1545 MHz,2000 MHz,3072 / 96 / 48
+2023,Nvidia,gpu_2023.txt,GeForce RTX 4060 Ti 16 GB,AD106,"May 18th, 2023",PCIe 4.0 x8,"16 GB, GDDR6, 128 bit",2310 MHz,2250 MHz,4352 / 136 / 48
+2023,Nvidia,gpu_2023.txt,GeForce RTX 4060 Ti 8 GB,AD106,"May 18th, 2023",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",2310 MHz,2250 MHz,4352 / 136 / 48
+2023,Nvidia,gpu_2023.txt,GeForce RTX 4070,AD104,"Apr 12th, 2023",PCIe 4.0 x16,"12 GB, GDDR6X, 192 bit",1920 MHz,1313 MHz,5888 / 184 / 64
+2023,Nvidia,gpu_2023.txt,GeForce RTX 4070 Mobile,AD106,"Jan 3rd, 2023",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1395 MHz,2000 MHz,4608 / 144 / 48
+2023,Nvidia,gpu_2023.txt,GeForce RTX 4080 Max-Q,AD104,"Jan 3rd, 2023",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",795 MHz,2250 MHz,7424 / 232 / 80
+2023,Nvidia,gpu_2023.txt,GeForce RTX 4080 Mobile,AD104,"Jan 3rd, 2023",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",1290 MHz,2250 MHz,7424 / 232 / 80
+2023,Nvidia,gpu_2023.txt,GeForce RTX 4080 Ti,AD102,Never Released,PCIe 4.0 x16,"16 GB, GDDR6X, 256 bit",2340 MHz,1325 MHz,14080 / 440 / 144
+2023,Nvidia,gpu_2023.txt,GeForce RTX 4090 D,AD102,"Dec 28th, 2023",PCIe 4.0 x16,"24 GB, GDDR6X, 384 bit",2280 MHz,1313 MHz,14592 / 456 / 176
+2023,Nvidia,gpu_2023.txt,GeForce RTX 4090 Ti,AD102,Never Released,PCIe 4.0 x16,"24 GB, GDDR6X, 384 bit",2325 MHz,1500 MHz,18176 / 568 / 192
+2023,NVIDIA,gpu_2023.txt,H100 CNX,GH100,"Mar 21st, 2023",PCIe 5.0 x16,"80 GB, HBM2e, 5120 bit",690 MHz,1593 MHz,14592 / 456 / 24
+2023,NVIDIA,gpu_2023.txt,H100 PCIe 80 GB,GH100,"Mar 21st, 2023",PCIe 5.0 x16,"80 GB, HBM2e, 5120 bit",1095 MHz,1593 MHz,14592 / 456 / 24
+2023,NVIDIA,gpu_2023.txt,H100 PCIe 96 GB,GH100,"Mar 21st, 2023",PCIe 5.0 x16,"96 GB, HBM3, 5120 bit",1665 MHz,1313 MHz,16896 / 528 / 24
+2023,NVIDIA,gpu_2023.txt,H100 SXM5 64 GB,GH100,"Mar 21st, 2023",PCIe 5.0 x16,"64 GB, HBM3, 3072 bit",1665 MHz,1313 MHz,16896 / 528 / 24
+2023,NVIDIA,gpu_2023.txt,H100 SXM5 80 GB,GH100,"Mar 21st, 2023",PCIe 5.0 x16,"80 GB, HBM3, 5120 bit",1590 MHz,1313 MHz,16896 / 528 / 24
+2023,NVIDIA,gpu_2023.txt,H100 SXM5 94 GB,GH100,"Mar 21st, 2023",PCIe 5.0 x16,"94 GB, HBM3, 5120 bit",1350 MHz,1313 MHz,16896 / 528 / 24
+2023,NVIDIA,gpu_2023.txt,H100 SXM5 96 GB,GH100,"Mar 21st, 2023",PCIe 5.0 x16,"96 GB, HBM3, 5120 bit",1350 MHz,1313 MHz,16896 / 528 / 24
+2023,NVIDIA,gpu_2023.txt,H800 PCIe 80 GB,GH100,"Mar 21st, 2023",PCIe 5.0 x16,"80 GB, HBM2e, 5120 bit",1095 MHz,1593 MHz,14592 / 456 / 24
+2023,NVIDIA,gpu_2023.txt,H800 SXM5,GH100,"Mar 21st, 2023",PCIe 5.0 x16,"80 GB, HBM3, 5120 bit",1095 MHz,1313 MHz,16896 / 528 / 24
+2023,Nvidia,gpu_2023.txt,Jetson AGX Orin 32 GB,GA10B,Feb-23,PCIe 4.0 x4,"32 GB, LPDDR5, 256 bit",930 MHz,1600 MHz,1792 / 56 / 24
+2023,Nvidia,gpu_2023.txt,Jetson AGX Orin 64 GB,GA10B,Mar-23,PCIe 4.0 x4,"64 GB, LPDDR5, 256 bit",1300 MHz,1600 MHz,2048 / 64 / 32
+2023,Nvidia,gpu_2023.txt,Jetson Orin NX 16 GB,GA10B,Feb-23,PCIe 4.0 x4,"16 GB, LPDDR5, 128 bit",918 MHz,1600 MHz,1024 / 32 / 16
+2023,Nvidia,gpu_2023.txt,Jetson Orin NX 8 GB,GA10B,Mar-23,PCIe 4.0 x4,"8 GB, LPDDR5, 128 bit",765 MHz,1600 MHz,1024 / 32 / 16
+2023,Nvidia,gpu_2023.txt,Jetson Orin Nano 4 GB,GA10B,Mar-23,PCIe 4.0 x4,"4 GB, LPDDR5, 64 bit",625 MHz,1067 MHz,512 / 16 / 8
+2023,Nvidia,gpu_2023.txt,Jetson Orin Nano 8 GB,GA10B,Mar-23,PCIe 4.0 x4,"8 GB, LPDDR5, 128 bit",625 MHz,1067 MHz,1024 / 32 / 16
+2023,NVIDIA,gpu_2023.txt,L20,AD102,"Nov 16th, 2023",PCIe 4.0 x16,"48 GB, GDDR6, 384 bit",1440 MHz,2250 MHz,11776 / 368 / 128
+2023,NVIDIA,gpu_2023.txt,L4,AD104,"Mar 21st, 2023",PCIe 4.0 x16,"24 GB, GDDR6, 192 bit",795 MHz,1563 MHz,7424 / 240 / 80
+2023,Nvidia,gpu_2023.txt,RTX 2000 Embedded Ada Generation,AD107,"Mar 21st, 2023",PCIe 4.0 x16,"8 GB, GDDR6, 128 bit",1530 MHz,2000 MHz,3072 / 96 / 48
+2023,Nvidia,gpu_2023.txt,RTX 2000 Max-Q Ada Generation,AD107,"Mar 21st, 2023",PCIe 4.0 x16,"8 GB, GDDR6, 128 bit",930 MHz,2000 MHz,3072 / 96 / 48
+2023,Nvidia,gpu_2023.txt,RTX 2000 Mobile Ada Generation,AD107,"Mar 21st, 2023",PCIe 4.0 x16,"8 GB, GDDR6, 128 bit",1635 MHz,2000 MHz,3072 / 96 / 48
+2023,Nvidia,gpu_2023.txt,RTX 3000 Mobile Ada Generation,AD106,"Mar 21st, 2023",PCIe 4.0 x16,"8 GB, GDDR6, 128 bit",1395 MHz,2000 MHz,4608 / 144 / 48
+2023,Nvidia,gpu_2023.txt,RTX 3500 Embedded Ada Generation,AD104,"Mar 21st, 2023",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",1725 MHz,2250 MHz,5120 / 160 / 64
+2023,Nvidia,gpu_2023.txt,RTX 3500 Mobile Ada Generation,AD104,"Mar 21st, 2023",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",1110 MHz,2250 MHz,5120 / 160 / 64
+2023,Nvidia,gpu_2023.txt,RTX 4000 Ada Generation,AD104,"Aug 9th, 2023",PCIe 4.0 x16,"20 GB, GDDR6, 160 bit",1500 MHz,2250 MHz,6144 / 192 / 64
+2023,Nvidia,gpu_2023.txt,RTX 4000 Mobile Ada Generation,AD104,"Mar 21st, 2023",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",1290 MHz,2250 MHz,7424 / 232 / 80
+2023,Nvidia,gpu_2023.txt,RTX 4000 SFF Ada Generation,AD104,"Mar 21st, 2023",PCIe 4.0 x16,"20 GB, GDDR6, 160 bit",720 MHz,1750 MHz,6144 / 192 / 64
+2023,Nvidia,gpu_2023.txt,RTX 4500 Ada Generation,AD103,"Aug 9th, 2023",PCIe 4.0 x16,"24 GB, GDDR6, 192 bit",2070 MHz,2250 MHz,7680 / 240 / 80
+2023,Nvidia,gpu_2023.txt,RTX 5000 Ada Generation,AD102,"Aug 9th, 2023",PCIe 4.0 x16,"32 GB, GDDR6, 256 bit",1155 MHz,2250 MHz,12800 / 400 / 176
+2023,Nvidia,gpu_2023.txt,RTX 5000 Embedded Ada Generation,AD103,"Mar 21st, 2023",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",930 MHz,2250 MHz,9728 / 304 / 112
+2023,Nvidia,gpu_2023.txt,RTX 5000 Embedded Ada Generation X2,AD103,"Mar 21st, 2023",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",930 MHz,2250 MHz,9728 / 304 / 112
+2023,Nvidia,gpu_2023.txt,RTX 5000 Max-Q Ada Generation,AD103,"Mar 21st, 2023",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",930 MHz,2250 MHz,9728 / 304 / 112
+2023,Nvidia,gpu_2023.txt,RTX 5000 Mobile Ada Generation,AD103,"Mar 21st, 2023",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",1425 MHz,2250 MHz,9728 / 304 / 112
+2023,Nvidia,gpu_2023.txt,TITAN Ada,AD102,Never Released,PCIe 4.0 x16,"48 GB, GDDR6X, 384 bit",2235 MHz,1500 MHz,18432 / 576 / 192
+2024,AMD,gpu_2024.txt,Playstation 5 Pro GPU,Viola,"Nov 7th, 2024",IGP,"16 GB, GDDR6, 256 bit",2170 MHz,2250 MHz,3840 / 240 / 64
+2024,AMD,gpu_2024.txt,Radeon 740M,Phoenix2,"Jan 31st, 2024",PCIe 4.0 x8,System Shared,800 MHz,System Shared,256 / 16 / 8
+2024,AMD,gpu_2024.txt,Radeon 760M,Phoenix,"Jan 31st, 2024",PCIe 4.0 x8,System Shared,800 MHz,System Shared,512 / 32 / 16
+2024,AMD,gpu_2024.txt,Radeon 780M,Phoenix,"Jan 31st, 2024",PCIe 4.0 x8,System Shared,800 MHz,System Shared,768 / 48 / 32
+2024,AMD,gpu_2024.txt,Radeon 880M,Strix Point,"Jul 15th, 2024",PCIe 4.0 x8,System Shared,400 MHz,System Shared,768 / 48 / 16
+2024,AMD,gpu_2024.txt,Radeon 890M,Strix Point,"Jul 15th, 2024",PCIe 4.0 x8,System Shared,400 MHz,System Shared,1024 / 64 / 32
+2024,AMD,gpu_2024.txt,Radeon Instinct MI325X,Aqua Vanjaram,Oct-24,PCIe 5.0 x16,"288 GB, HBM3e, 8192 bit",1000 MHz,2525 MHz,19456 / 1216 / 0
+2024,AMD,gpu_2024.txt,Radeon PRO V710,Navi 32,"Oct 3rd, 2024",PCIe 4.0 x16,"28 GB, GDDR6, 224 bit",1900 MHz,2250 MHz,3456 / 216 / 96
+2024,AMD,gpu_2024.txt,Radeon RX 7600 XT,Navi 33,"Jan 8th, 2024",PCIe 4.0 x8,"16 GB, GDDR6, 128 bit",1980 MHz,2250 MHz,2048 / 128 / 64
+2024,AMD,gpu_2024.txt,Radeon RX 7700,Navi 32,Never Released,PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",1900 MHz,2250 MHz,3072 / 192 / 96
+2024,AMD,gpu_2024.txt,Radeon RX 7800M,Navi 32,"Sep 11th, 2024",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",1295 MHz,2250 MHz,3840 / 240 / 96
+2024,AMD,gpu_2024.txt,Xbox Series X 6nm GPU,Scarlett 6nm,"Oct 15th, 2024",IGP,"10 GB, GDDR6, 320 bit",1825 MHz,1750 MHz,3328 / 208 / 64
+2024,Intel,gpu_2024.txt,Arc B580,BMG-G21,"Dec 13th, 2024",PCIe 4.0 x8,"12 GB, GDDR6, 192 bit",2670 MHz,2375 MHz,2560 / 160 / 80
+2024,Intel,gpu_2024.txt,Arc Graphics 24EU,Arrow Lake,"Oct 24th, 2024",Ring Bus,System Shared,300 MHz,System Shared,192 / 12 / 6
+2024,Intel,gpu_2024.txt,Arc Graphics 32EU,Arrow Lake,"Oct 24th, 2024",Ring Bus,System Shared,300 MHz,System Shared,256 / 16 / 8
+2024,Intel,gpu_2024.txt,Arc Graphics 64EU,Arrow Lake,"Oct 24th, 2024",Ring Bus,System Shared,300 MHz,System Shared,512 / 32 / 16
+2024,Intel,gpu_2024.txt,Data Center GPU Max NEXT,Rialto Bridge,Unknown,PCIe 5.0 x16,"128 GB, HBM2e, 8192 bit",900 MHz,1565 MHz,20480 / 1280 / 0
+2024,NVIDIA,gpu_2024.txt,B100,GB102,Nov-24,PCIe 5.0 x16,"96 GB, HBM3e, 4096 bit",1665 MHz,2000 MHz,16896 / 528 / 24
+2024,NVIDIA,gpu_2024.txt,B200 SXM 192 GB,GB100,2024,PCIe 5.0 x16,"96 GB, HBM3e, 4096 bit",1665 MHz,2000 MHz,16896 / 528 / 24
+2024,Nvidia,gpu_2024.txt,GeForce RTX 3050 6 GB,GA107,"Feb 2nd, 2024",PCIe 4.0 x8,"6 GB, GDDR6, 96 bit",1042 MHz,1750 MHz,2304 / 72 / 32
+2024,Nvidia,gpu_2024.txt,GeForce RTX 3050 A Mobile,GA106,2024,PCIe 4.0 x8,"4 GB, GDDR6, 128 bit",1065 MHz,1500 MHz,1792 / 56 / 32
+2024,Nvidia,gpu_2024.txt,GeForce RTX 4010,GA107,"Apr 16th, 2024",PCIe 4.0 x8,"4 GB, GDDR6, 64 bit",1417 MHz,1500 MHz,768 / 24 / 16
+2024,Nvidia,gpu_2024.txt,GeForce RTX 4060 AD106,AD106,Apr-24,PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1830 MHz,2125 MHz,3072 / 96 / 48
+2024,Nvidia,gpu_2024.txt,GeForce RTX 4060 Ti AD104,AD104,Apr-24,PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",2310 MHz,2250 MHz,4352 / 136 / 48
+2024,Nvidia,gpu_2024.txt,GeForce RTX 4070 10 GB,AD104,Never Released,PCIe 4.0 x16,"10 GB, GDDR6X, 160 bit",2355 MHz,1313 MHz,7168 / 224 / 80
+2024,Nvidia,gpu_2024.txt,GeForce RTX 4070 AD103,AD103,Mar-24,PCIe 4.0 x16,"12 GB, GDDR6X, 192 bit",1920 MHz,1313 MHz,5888 / 184 / 64
+2024,Nvidia,gpu_2024.txt,GeForce RTX 4070 GDDR6,AD104,"Aug 20th, 2024",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",1920 MHz,2500 MHz,5888 / 184 / 64
+2024,Nvidia,gpu_2024.txt,GeForce RTX 4070 SUPER,AD104,"Jan 8th, 2024",PCIe 4.0 x16,"12 GB, GDDR6X, 192 bit",1980 MHz,1313 MHz,7168 / 224 / 80
+2024,Nvidia,gpu_2024.txt,GeForce RTX 4070 Ti SUPER,AD103,"Jan 8th, 2024",PCIe 4.0 x16,"16 GB, GDDR6X, 256 bit",2340 MHz,1313 MHz,8448 / 264 / 96
+2024,Nvidia,gpu_2024.txt,GeForce RTX 4070 Ti SUPER AD102,AD102,"Jun 10th, 2024",PCIe 4.0 x16,"16 GB, GDDR6X, 256 bit",2340 MHz,1313 MHz,8448 / 264 / 96
+2024,Nvidia,gpu_2024.txt,GeForce RTX 4080 SUPER,AD103,"Jan 8th, 2024",PCIe 4.0 x16,"16 GB, GDDR6X, 256 bit",2295 MHz,1438 MHz,10240 / 320 / 112
+2024,NVIDIA,gpu_2024.txt,H200 NVL,GH100,"Nov 18th, 2024",PCIe 5.0 x16,"141 GB, HBM3e, 5120 bit",1365 MHz,1313 MHz,16896 / 528 / 24
+2024,NVIDIA,gpu_2024.txt,H200 SXM 141 GB,GH100,"Nov 18th, 2024",PCIe 5.0 x16,"141 GB, HBM3e, 6144 bit",1500 MHz,1600 MHz,16896 / 528 / 24
+2024,Nvidia,gpu_2024.txt,RTX 1000 Mobile Ada Generation,AD107,"Feb 26th, 2024",PCIe 4.0 x8,"6 GB, GDDR6, 96 bit",1485 MHz,2000 MHz,2560 / 80 / 48
+2024,Nvidia,gpu_2024.txt,RTX 2000 Ada Generation,AD107,"Feb 12th, 2024",PCIe 4.0 x8,"16 GB, GDDR6, 128 bit",1620 MHz,2000 MHz,2816 / 88 / 48
+2024,Nvidia,gpu_2024.txt,RTX 500 Mobile Ada Generation,AD107,"Feb 26th, 2024",PCIe 4.0 x8,"4 GB, GDDR6, 64 bit",1485 MHz,2000 MHz,2048 / 64 / 32
+2024,Nvidia,gpu_2024.txt,RTX 5880 Ada Generation,AD102,"Jan 5th, 2024",PCIe 4.0 x16,"48 GB, GDDR6, 384 bit",975 MHz,2250 MHz,14080 / 440 / 176
+2024,Nvidia,gpu_2024.txt,RTX A1000,GA107,"Apr 16th, 2024",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",727 MHz,1500 MHz,2304 / 72 / 32
+2024,Nvidia,gpu_2024.txt,RTX A400,GA107,"Apr 16th, 2024",PCIe 4.0 x8,"4 GB, GDDR6, 64 bit",1417 MHz,1500 MHz,768 / 24 / 16
+2025,AMD,gpu_2025.txt,Radeon 8050S,Strix Point,2025,PCIe 5.0 x16,System Shared,1295 MHz,System Shared,2048 / 128 / 64
+2025,AMD,gpu_2025.txt,Radeon 8060S,Strix Point,2025,PCIe 5.0 x16,System Shared,1295 MHz,System Shared,2560 / 160 / 64
+2025,AMD,gpu_2025.txt,Radeon 860M,Krackan Point,Mar-25,PCIe 4.0 x8,System Shared,400 MHz,System Shared,512 / 32 / 8
+2025,AMD,gpu_2025.txt,Radeon AI PRO R9700,Navi 48,Jul-25,PCIe 5.0 x16,"32 GB, GDDR6, 256 bit",1660 MHz,2518 MHz,4096 / 256 / 128
+2025,AMD,gpu_2025.txt,Radeon RX 7650 GRE,Navi 33,Feb-25,PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1720 MHz,2250 MHz,2048 / 128 / 64
+2025,AMD,gpu_2025.txt,Radeon RX 9060 XT 16 GB,Navi 44,2025,PCIe 5.0 x8,"16 GB, GDDR6, 128 bit",2220 MHz,2518 MHz,2048 / 128 / 64
+2025,AMD,gpu_2025.txt,Radeon RX 9060 XT 8 GB,Navi 44,2025,PCIe 5.0 x8,"8 GB, GDDR6, 128 bit",2220 MHz,2518 MHz,2048 / 128 / 64
+2025,AMD,gpu_2025.txt,Radeon RX 9070,Navi 48,"Mar 6th, 2025",PCIe 5.0 x16,"16 GB, GDDR6, 256 bit",1330 MHz,2518 MHz,3584 / 224 / 128
+2025,AMD,gpu_2025.txt,Radeon RX 9070 GRE,Navi 48,"May 8th, 2025",PCIe 5.0 x16,"12 GB, GDDR6, 192 bit",1330 MHz,2250 MHz,3072 / 192 / 96
+2025,AMD,gpu_2025.txt,Radeon RX 9070 XT,Navi 48,"Mar 6th, 2025",PCIe 5.0 x16,"16 GB, GDDR6, 256 bit",1660 MHz,2518 MHz,4096 / 256 / 128
+2025,Intel,gpu_2025.txt,Arc 130T Mobile,Arrow Lake,"Jan 13th, 2025",PCIe 4.0 x8,System Shared,300 MHz,System Shared,896 / 56 / 28
+2025,Intel,gpu_2025.txt,Arc 140T Mobile,Arrow Lake,"Jan 13th, 2025",PCIe 4.0 x8,System Shared,300 MHz,System Shared,1024 / 64 / 32
+2025,Intel,gpu_2025.txt,Arc B570,BMG-G21,"Jan 16th, 2025",PCIe 4.0 x8,"10 GB, GDDR6, 160 bit",2500 MHz,2375 MHz,2304 / 144 / 80
+2025,Nvidia,gpu_2025.txt,GeForce RTX 5050,GB207,2025,PCIe 5.0 x16,"8 GB, GDDR6, 128 bit",2235 MHz,1750 MHz,2560 / 80 / 32
+2025,Nvidia,gpu_2025.txt,GeForce RTX 5050 Mobile,GB207,2025,PCIe 5.0 x16,"8 GB, GDDR6, 128 bit",2235 MHz,1750 MHz,2560 / 80 / 32
+2025,Nvidia,gpu_2025.txt,GeForce RTX 5060,GB206,"May 19th, 2025",PCIe 5.0 x8,"8 GB, GDDR7, 128 bit",2280 MHz,1750 MHz,3840 / 120 / 48
+2025,Nvidia,gpu_2025.txt,GeForce RTX 5060 Mobile,GB206,"May 20th, 2025",PCIe 5.0 x16,"8 GB, GDDR7, 128 bit",952 MHz,1500 MHz,3328 / 104 / 32
+2025,Nvidia,gpu_2025.txt,GeForce RTX 5060 Ti 16 GB,GB206,"Apr 16th, 2025",PCIe 5.0 x8,"16 GB, GDDR7, 128 bit",2407 MHz,1750 MHz,4608 / 144 / 48
+2025,Nvidia,gpu_2025.txt,GeForce RTX 5060 Ti 8 GB,GB206,"Apr 16th, 2025",PCIe 5.0 x8,"8 GB, GDDR7, 128 bit",2407 MHz,1750 MHz,4608 / 144 / 48
+2025,Nvidia,gpu_2025.txt,GeForce RTX 5070,GB205,"Mar 4th, 2025",PCIe 5.0 x16,"12 GB, GDDR7, 192 bit",2325 MHz,1750 MHz,6144 / 192 / 80
+2025,Nvidia,gpu_2025.txt,GeForce RTX 5070 Mobile,GB206,Apr-25,PCIe 5.0 x16,"8 GB, GDDR7, 128 bit",907 MHz,1500 MHz,4608 / 144 / 48
+2025,Nvidia,gpu_2025.txt,GeForce RTX 5070 Ti,GB203,"Feb 20th, 2025",PCIe 5.0 x16,"16 GB, GDDR7, 256 bit",2295 MHz,1750 MHz,8960 / 280 / 96
+2025,Nvidia,gpu_2025.txt,GeForce RTX 5070 Ti Mobile,GB205,Mar-25,PCIe 5.0 x16,"12 GB, GDDR7, 192 bit",847 MHz,1750 MHz,5888 / 184 / 80
+2025,Nvidia,gpu_2025.txt,GeForce RTX 5080,GB203,"Jan 30th, 2025",PCIe 5.0 x16,"16 GB, GDDR7, 256 bit",2295 MHz,1875 MHz,10752 / 336 / 112
+2025,Nvidia,gpu_2025.txt,GeForce RTX 5080 Mobile,GB203,"Apr 2nd, 2025",PCIe 5.0 x16,"16 GB, GDDR7, 256 bit",975 MHz,1750 MHz,7680 / 240 / 96
+2025,Nvidia,gpu_2025.txt,GeForce RTX 5090,GB202,"Jan 30th, 2025",PCIe 5.0 x16,"32 GB, GDDR7, 512 bit",2017 MHz,1750 MHz,21760 / 680 / 176
+2025,Nvidia,gpu_2025.txt,GeForce RTX 5090 D,GB202,"Jan 30th, 2025",PCIe 5.0 x16,"32 GB, GDDR7, 512 bit",2017 MHz,1750 MHz,21760 / 680 / 176
+2025,Nvidia,gpu_2025.txt,GeForce RTX 5090 Mobile,GB203,"Mar 27th, 2025",PCIe 5.0 x16,"24 GB, GDDR7, 256 bit",990 MHz,1750 MHz,10496 / 328 / 112
+2025,Nvidia,gpu_2025.txt,RTX PRO 1000 Blackwell Mobile,GB207,Unknown,PCIe 5.0 x16,"8 GB, GDDR7, 128 bit",2235 MHz,1750 MHz,2560 / 80 / 32
+2025,Nvidia,gpu_2025.txt,RTX PRO 2000 Blackwell Mobile,GB206,Unknown,PCIe 5.0 x16,"8 GB, GDDR7, 128 bit",952 MHz,1750 MHz,3328 / 104 / 32
+2025,Nvidia,gpu_2025.txt,RTX PRO 3000 Blackwell Mobile,GB205,Unknown,PCIe 5.0 x16,"12 GB, GDDR7, 192 bit",847 MHz,1750 MHz,5888 / 184 / 80
+2025,Nvidia,gpu_2025.txt,RTX PRO 4000 Blackwell,GB203,"Mar 18th, 2025",PCIe 5.0 x16,"24 GB, GDDR7, 192 bit",1590 MHz,1750 MHz,8960 / 280 / 96
+2025,Nvidia,gpu_2025.txt,RTX PRO 4000 Blackwell Mobile,GB203,Unknown,PCIe 5.0 x16,"16 GB, GDDR7, 256 bit",975 MHz,1750 MHz,7680 / 240 / 96
+2025,Nvidia,gpu_2025.txt,RTX PRO 4500 Blackwell,GB203,"Mar 18th, 2025",PCIe 5.0 x16,"32 GB, GDDR7, 256 bit",1590 MHz,1750 MHz,10496 / 328 / 112
+2025,Nvidia,gpu_2025.txt,RTX PRO 500 Blackwell Mobile,GB207,Unknown,PCIe 5.0 x16,"6 GB, GDDR7, 96 bit",2235 MHz,1750 MHz,1792 / 56 / 24
+2025,Nvidia,gpu_2025.txt,RTX PRO 5000 Blackwell,GB202,"Mar 18th, 2025",PCIe 5.0 x16,"48 GB, GDDR7, 384 bit",1590 MHz,1750 MHz,14080 / 440 / 176
+2025,Nvidia,gpu_2025.txt,RTX PRO 5000 Blackwell Mobile,GB203,Unknown,PCIe 5.0 x16,"24 GB, GDDR7, 256 bit",990 MHz,1750 MHz,10496 / 328 / 112
+2025,Nvidia,gpu_2025.txt,RTX PRO 6000 Blackwell,GB202,"Mar 18th, 2025",PCIe 5.0 x16,"96 GB, GDDR7, 512 bit",1590 MHz,1750 MHz,24064 / 752 / 192
+2025,Nvidia,gpu_2025.txt,RTX PRO 6000 Blackwell Max-Q,GB202,"Mar 18th, 2025",PCIe 5.0 x16,"96 GB, GDDR7, 512 bit",1590 MHz,1750 MHz,24064 / 752 / 192
+2025,Nvidia,gpu_2025.txt,RTX PRO 6000 Blackwell Server,GB202,"Mar 18th, 2025",PCIe 5.0 x16,"96 GB, GDDR7, 512 bit",1590 MHz,1750 MHz,24064 / 752 / 192
