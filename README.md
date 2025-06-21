@@ -31,7 +31,7 @@ Proyek ini bertujuan untuk membantu pengguna dalam memilih GPU terbaik berdasark
 
 3. **Jalankan aplikasi Streamlit:**
     ```bash
-    streamlit run app/gpuApp.py
+    streamlit run gpuApp.py
 
 📌 Teknologi yang Digunakan
 
