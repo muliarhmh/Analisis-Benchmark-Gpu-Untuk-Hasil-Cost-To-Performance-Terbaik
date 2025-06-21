@@ -53,7 +53,3 @@ Kontribusi sangat terbuka! Silakan ajukan pull request atau buat issue jika Anda
 Proyek ini dilisensikan di bawah MIT License.
 
 Developed with ❤️ by Kelompok 8 Data Science StartUp Bussiness
-
----
-
-Jika Anda ingin saya bantu menambahkan badge GitHub (stars, license, streamlit live, dll.) atau menerjemahkan README ini ke versi Bahasa Inggris, tinggal beri tahu saja.
