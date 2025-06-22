@@ -33,6 +33,9 @@ Proyek ini bertujuan untuk membantu pengguna dalam memilih GPU terbaik berdasark
     ```bash
     streamlit run gpuApp.py
 
+Aplikasi akan berjalan di
+http://localhost:8501
+
 ### Panduan Menjalankan dan Penggunaan Aplikasi
 https://drive.google.com/file/d/1oAToemSQgtEncGh9Yio1LMNNjboyFfGZ/view?usp=drivesdk
 
