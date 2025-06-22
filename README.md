@@ -33,31 +33,40 @@ Proyek ini bertujuan untuk membantu pengguna dalam memilih GPU terbaik berdasark
     ```bash
     streamlit run gpuApp.py
 
-Aplikasi akan berjalan di
-http://localhost:8501
+Aplikasi akan berjalan di:
+
+   ```bash
+   http://localhost:8501
+   ```
 
 ### Panduan Menjalankan dan Penggunaan Aplikasi
-https://drive.google.com/file/d/1oAToemSQgtEncGh9Yio1LMNNjboyFfGZ/view?usp=drivesdk
 
+Untuk panduan lebih lanjut, silakan kunjungi [Panduan Penggunaan Aplikasi](https://drive.google.com/file/d/1oAToemSQgtEncGh9Yio1LMNNjboyFfGZ/view?usp=drivesdk).
 
+## 📌 Teknologi yang Digunakan
 
-📌 Teknologi yang Digunakan
+* Python 3.10+
+* Pandas, NumPy
+* Scikit-learn
+* Matplotlib, Seaborn
+* Streamlit
+* st-aggrid
+* fpdf
 
-- Python 3.10+
-- Pandas, NumPy
-- Scikit-learn
-- Matplotlib, Seaborn
-- Streamlit
-- st-aggrid
-- fpdf
+## 🎯 Tujuan Proyek
 
-🎯 Tujuan Proyek
-Membantu pengguna, terutama gamer dan kreator konten, untuk memilih GPU yang paling efisien berdasarkan data historis performa dan harga. Proyek ini juga bermanfaat bagi analis pasar teknologi dan pemilik bisnis PC rakitan.
+Proyek ini bertujuan untuk membantu pengguna, terutama gamer dan kreator konten, dalam memilih GPU yang paling efisien berdasarkan data historis performa dan harga. Proyek ini juga bermanfaat bagi analis pasar teknologi dan pemilik bisnis PC rakitan.
 
-📢 Kontribusi
+## 📢 Kontribusi
+
 Kontribusi sangat terbuka! Silakan ajukan pull request atau buat issue jika Anda menemukan bug atau ingin menambahkan fitur baru.
 
-📜 Lisensi
+## 📜 Lisensi
+
 Proyek ini dilisensikan di bawah MIT License.
 
-Developed with ❤️ by Kelompok 8 Data Science StartUp Bussiness
+---
+
+**Developed with ❤️ by Kelompok 8 Data Science StartUp Business**
+
+---
