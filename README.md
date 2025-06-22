@@ -12,6 +12,27 @@ Proyek ini bertujuan untuk membantu pengguna dalam memilih GPU terbaik berdasark
 - 📄 **Laporan PDF otomatis** untuk hasil analisis GPU.
 
 ## 📁 Struktur Proyek
+```bash
+/Analisis-Benchmark-Gpu-Untuk-Hasil-Cost-To-Performance-Terbaik
+│
+├── gpuApp.py                # Aplikasi Streamlit utama untuk analisis GPU
+├── requirements.txt         # Daftar dependensi yang dibutuhkan
+├── README.md                # Dokumentasi proyek
+├── gpu_data_wPerformance.csv # Dataset GPU dengan performa
+├── gpu_database_2015-2025.csv # Database GPU lengkap 2015-2025
+├── gpu_2015.txt             # Data benchmark GPU tahun 2015
+├── gpu_2016.txt             # Data benchmark GPU tahun 2016
+├── gpu_2017.txt             # Data benchmark GPU tahun 2017
+├── gpu_2018.txt             # Data benchmark GPU tahun 2018
+├── gpu_2019.txt             # Data benchmark GPU tahun 2019
+├── gpu_2020.txt             # Data benchmark GPU tahun 2020
+├── gpu_2021.txt             # Data benchmark GPU tahun 2021
+├── gpu_2022.txt             # Data benchmark GPU tahun 2022
+├── gpu_2023.txt             # Data benchmark GPU tahun 2023
+├── gpu_2024.txt             # Data benchmark GPU tahun 2024
+├── gpu_2025.txt             # Data benchmark GPU tahun 2025
+├── txt_to_csv.py            # Script untuk konversi data TXT ke CSV
+```
 
 
 ## ⚙️ Cara Menjalankan Aplikasi
