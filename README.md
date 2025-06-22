@@ -33,6 +33,9 @@ Proyek ini bertujuan untuk membantu pengguna dalam memilih GPU terbaik berdasark
     ```bash
     streamlit run gpuApp.py
 
+## Panduan Menjalankan Aplikasi
+https://drive.google.com/file/d/1oAToemSQgtEncGh9Yio1LMNNjboyFfGZ/view?usp=drivesdk
+
 📌 Teknologi yang Digunakan
 
 - Python 3.10+
